@@ -1,0 +1,25 @@
+Pokemon emerald rom notes/plans:
+
+//------------// Trainers //------------//
+
+/- Gym Leaders -/
+
+- Roxanne
+
+1. Geodude (Lead) LVL 13; ivs 15 all
+        Item: N/A
+		Ability: Sturdy
+		Nature: 
+		Moveset: Rock Throw; Rock Tomb; Counter; Defense Curl
+		
+2. Nosepass LVL 14; ivs 15 all
+		Item: N/A
+		Ability: Sturdy
+		Nature: 
+		Moveset: Rock Throw; Rock Tomb; Toxic; Protect
+		
+3. Rhyhorn (Ace) LVL 17; ivs 20 all
+		Item: N/A
+		Ability: Sturdy
+		Nature: Adamant
+		Moveset: Rock Throw; Rock Tomb; Toxic; Protect
