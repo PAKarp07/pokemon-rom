@@ -6,20 +6,81 @@ Pokemon emerald rom notes/plans:
 
 - Roxanne
 
-1. Geodude (Lead) LVL 13; ivs 15 all
-        Item: N/A
+1. Aron (Lead) LVL 13; ivs 15 all
+        	Item: N/A
 		Ability: Sturdy
-		Nature: 
-		Moveset: Rock Throw; Rock Tomb; Counter; Defense Curl
+		Nature: Adamant (+Atk; -Sp. Atk)
+		Moveset: Metal Claw; Rock Tomb; Headbutt; Sandstorm
 		
 2. Nosepass LVL 14; ivs 15 all
 		Item: N/A
 		Ability: Sturdy
-		Nature: 
-		Moveset: Rock Throw; Rock Tomb; Toxic; Protect
+		Nature: Careful (+Sp. Def; -Sp. Atk)
+		Moveset: Sandstorm; Rock Tomb; Toxic; Protect
 		
-3. Rhyhorn (Ace) LVL 17; ivs 20 all
+3. Anorith (Ace) LVL 16; ivs 20 all
+		Item: Oran Berry
+		Ability: Battle Armor
+		Nature: Jolly (+Spe; -Sp. Atk)
+		Moveset: Swords Dance; Rock Tomb; Fury Cutter; Aerial Ace
+
+
+
+- Brawly
+
+1. Meditite (Lead) LVL 17; ivs 15 all
+        	Item: N/A
+		Ability: Pure Power
+		Nature: Impish (+Def; -Sp. Atk)
+		Moveset: Light Screen; Reflect; Fake Out; Brick Break
+		
+2. Machop LVL 17; ivs 15 all
 		Item: N/A
+		Ability: No Guard
+		Nature: Adamant (+Atk; -Sp. Atk)
+		Moveset: Bulk Up; Fire Punch; Karate Chop; Mega Punch
+		
+3. Makuhita LVL 18; ivs 15 all
+		Item: N/A
+		Ability: Thick Fat
+		Nature: Adamant (+Atk; -Sp. Atk)
+		Moveset: Fake Out; Bulk Up; Vital Throw; ThunderPunch
+
+4. Heracross (Ace) LVL 21; ivs 20 all
+		Item: Black Belt
+		Ability: Guts
+		Nature: Adamant (+Atk; -Sp. Atk)
+		Moveset: Bulk Up; Fury Attack; Fury Cutter; Brick Break
+
+
+- Wattson
+
+1. Voltorb (Lead) LVL 22; ivs 15 all
+        	Item: N/A
+		Ability: Static
+		Nature: Naive (+Spe; -Sp. Def)
+		Moveset: Shock Wave; Thunder Wave; Selfdestruct; Taunt
+
+2. Pikachu LVL 23; ivs 15 all
+        	Item: N/A
+		Ability: Static
+		Nature: Rash (+Sp. Atk; -Sp. Def)
+		Moveset: Shock Wave; Thunder Wave; Thunderbolt; Brick Break
+
+
+3. Magnemite LVL 24; ivs 14 DEF; 15 HP, ATK, SP.DEF, SPE; 16 SP. ATK
+        	Item: N/A
 		Ability: Sturdy
-		Nature: Adamant
-		Moveset: Rock Throw; Rock Tomb; Toxic; Protect
+		Nature: Rash (+Sp. Atk; -Sp. Def)
+		Moveset: Shock Wave; Thunder Wave; Supersonic; Hidden Power (Grass)
+
+
+4. Manectric LVL 26; ivs 20 all
+        	Item: Magnet
+		Ability: Lightning Rod
+		Nature: Hasty (+Spe; -Def)
+		Moveset: Shock Wave; Protect; Spark; Iron Tail
+
+
+- Flannery
+
