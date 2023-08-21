@@ -290,3 +290,23 @@ Pokemon emerald rom notes/plans:
 		Nature: Adamant (+Atk; -Sp. Atk)
 		Moveset: Crabhammer; Crunch; Swords Dance; Superpower
 
+5. Sharpedo (2º Ace) LVL 56 ivs 31 all
+        	Item: BlackGlasses
+		Ability: Rough Skin
+		Nature: Jolly (+Spe; -Sp. Atk)
+		Moveset: Waterfall; Crunch; Toxic; Ice Beam
+		
+6. Absol (Ace) LVL 58 ivs 31 all
+        	Item: Scope Lens 
+		Ability: Pressure (try to add Super Luck)
+		Nature: Jolly (+Spe; -Sp. Atk)
+		Moveset: *Night Slash/Knock Off; Thunder Wave; Swords Dance; *Shadow Claw/Slash
+		
+----
+- Phoebe (DB)
+
+1. Mawile (Ace) LVL 54 ivs 31 all
+        	Item: N/A 
+		Ability: Intimidate
+		Nature: Adamant (+Atk; -Sp. Atk)
+		Moveset: Crunch; Brick Break; Swords Dance; *Phantom Crunch (Mawile Special move) NOTE: also add "Shadow Bite" para early (ver outros mons para ter este)
