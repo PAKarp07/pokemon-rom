@@ -305,8 +305,38 @@ Pokemon emerald rom notes/plans:
 ----
 - Phoebe (DB)
 
-1. Mawile (Ace) LVL 54 ivs 31 all
+1. Mawile (Lead) LVL 54 ivs 31 all
         	Item: N/A 
 		Ability: Intimidate
 		Nature: Adamant (+Atk; -Sp. Atk)
 		Moveset: Crunch; Brick Break; Swords Dance; *Phantom Crunch (Mawile Special move) NOTE: also add "Shadow Bite" para early (ver outros mons para ter este)
+
+2. Banette (Lead) LVL 54 ivs 31 all
+		Item: N/A 
+		Ability: Insomnia
+		Nature: Adamant (+Atk; -Sp. Atk)
+		Moveset: *Phantom Force; Taunt; Will-O-Wisp; Knock Off/(New attack dark Foul Play)
+
+3. Sableye LVL 56 ivs 31 all
+		Item: N/A 
+		Ability: Keen Eye
+		Nature: Sassy (+Sp. Def; -Spe)
+		Moveset: Confuse Ray; Recover; Shadow Ball; Knock Off/(New attack dark Foul Play or Dark Pulse)
+
+4. Crobat LVL 56 ivs 31 all
+		Item: N/A 
+		Ability: Inner Focus
+		Nature: Jolly (+Spe; -Sp. Atk)
+		Moveset: Confuse Ray; Aerial Ace; *Cross Poison/Poison Fang; *X-Scissor/Steel Wing
+
+5. Shedinja (2º Ace) LVL 58 ivs 31 all
+		Item: Quick Claw
+		Ability: Wonder Guard
+		Nature: Adamant (+Atk; -Sp. Atk)
+		Moveset: *Phantom Force/Faint Attack; *X-Scissor/Dig; Confuse Ray; *Giga Impact/Fury Swipes
+
+6. Duskclops (Ace) LVL 60 ivs 31 all
+		Item: Leftovers
+		Ability: Wonder Guard
+		Nature: Quirky (+Sp. Def ; -Sp. Def)
+		Moveset: Will-O-Wisp; Shadow Punch; Rock Slide; Protect
