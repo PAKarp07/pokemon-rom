@@ -1,0 +1,288 @@
+//------------// Pokemons Changes //------------//
+
+/- Sceptile -/
+
+Type: Grass Dragon
+Movepool:
+
+TM and HM:
+
+
+/- Mightyena -/
+
+Lvl up: 23
+Stats: 75 HP | 110 Atk | 70 DEF | 50 Sp. Atk | 70 Sp. Def | 90 Spe TOTAL: 465
+Movepool:
+
+TM and HM:
+
+
+/- Linoone -/
+
+Stats: 70 HP | 80 Atk | 65 DEF | 50 Sp. Atk | 65 Sp. Def | 100 Spe TOTAL: 440
+Movepool:
+
+TM and HM:
+
+
+/- Beautify -/
+
+Type: Bug Psychic
+Stats: 60 HP | 60 Atk | 45 DEF | 120 Sp. Atk | 45 Sp. Def | 90 Spe TOTAL: 420
+Movepool:
+
+TM and HM:
+
+
+/- Dustox -/
+
+Stats: 60 HP | 70 Atk | 95 DEF | 40 Sp. Atk | 95 Sp. Def | 60 Spe TOTAL: 420
+Movepool:
+
+TM and HM:
+
+
+/- Masquerain -/
+
+Stats: 70 HP | 60 Atk | 62 DEF | 100 Sp. Atk | 82 Sp. Def | 80 Spe TOTAL: 454 	
+Movepool:
+TM and HM:
+
+/- Breloom -/
+
+Movepool:
+
+TM and HM:
+
+
+/- Ninjask -/
+
+Movepool:
+
+TM and HM:
+
+
+/- Shedinja -/
+
+Stats: 1 HP | 150 Atk | 50 DEF | 30 Sp. Atk | 50 Sp. Def | 80 Spe TOTAL: 311	
+Movepool:
+
+TM and HM:
+
+
+/- Exploud -/
+
+Stats: 104 HP | 91 Atk | 73 DEF | 91 Sp. Atk | 73 Sp. Def | 78 Spe TOTAL: 510	
+Movepool:
+
+TM and HM:
+
+
+/- Delcatty -/
+
+Stats: 70 HP | 65 Atk | 70 DEF | 65 Sp. Atk | 70 Sp. Def | 110 Spe TOTAL: 450
+Movepool:
+
+TM and HM:
+
+
+/- Sableye -/
+
+Stats: 70 HP | 85 Atk | 125 DEF | 85 Sp. Atk | 115 Sp. Def | 20 Spe TOTAL: 480
+Movepool:
+
+
+TM and HM:
+
+
+
+/- Mawile -/
+
+Type: Steel Ghost
+Stats: 70 HP | 125 Atk | 95 DEF | 55 Sp. Atk | 55 Sp. Def | 80 Spe TOTAL: 480
+ability: Intimidate
+Movepool:
+
+
+TM and HM:
+
+
+
+/- Medicham -/
+
+Stats: 60 HP | 80 Atk | 75 DEF | 45 Sp. Atk | 75 Sp. Def | 100 Spe TOTAL: 435
+Movepool:
+
+
+TM and HM:
+
+
+
+/- Swalot -/
+
+Stats: 105 HP | 83 Atk | 83 DEF | 63 Sp. Atk | 83 Sp. Def | 55 Spe TOTAL: 472
+Movepool:
+
+
+TM and HM:
+
+
+
+/- Carvanha -/
+
+
+Stats: 45 HP | 95 Atk | 50 DEF | 65 Sp. Atk | 50 Sp. Def | 75 Spe TOTAL: 380
+Movepool:
+
+
+TM and HM:
+
+
+
+
+/- Sharpedo -/
+
+
+lvl 40
+Stats: 70 HP | 120 Atk | 55 DEF | 95 Sp. Atk | 55 Sp. Def | 100 Spe TOTAL: 495
+Movepool:
+
+
+TM and HM:
+
+
+
+/- Camerupt -/
+
+Stats: 91 HP | 102 Atk | 80 DEF | 102 Sp. Atk | 80 Sp. Def | 40 Spe TOTAL: 495
+Movepool:
+
+
+TM and HM:
+
+
+
+/- Spinda -/
+
+Stats: 75 HP | 75 Atk | 75 DEF | 75 Sp. Atk | 75 Sp. Def | 75 Spe TOTAL: 450
+Movepool:
+
+
+TM and HM:
+
+
+
+/- Altaria -/
+
+Type:
+Stats:
+Movepool:
+TM and HM:
+
+/- Seviper -/
+
+Type:
+Stats:
+Movepool:
+TM and HM:
+
+/- Solrock -/
+
+Type:
+Stats:
+Movepool:
+TM and HM:
+
+
+/- Whiscash -/
+
+Type:
+Stats:
+Movepool:
+TM and HM:
+
+
+/- Crawdaunt -/
+
+Type:
+Stats:
+Movepool:
+TM and HM:
+
+/- Castform -/
+
+Type:
+Stats:
+Movepool:
+TM and HM:
+
+
+/- Banette -/
+
+Type:
+Stats:
+Movepool:
+TM and HM:
+
+/- Duskclops -/
+
+Type:
+Stats:
+Movepool:
+TM and HM:
+
+
+/- Tropius -/
+
+Type:
+Stats:
+Movepool:
+TM and HM:
+
+
+/- Absol -/
+
+Type:
+Stats:
+Movepool:
+TM and HM:
+
+
+/- Glalie -/
+
+Type:
+Stats:
+Movepool:
+TM and HM:
+
+
+/- Luvdisc -/
+
+Type:
+Stats:
+Movepool:
+TM and HM:
+
+
+/- Huntail -/
+
+Type:
+Stats:
+Movepool:
+TM and HM:
+
+
+/- Gorebyss -/
+
+Type:
+Stats:
+Movepool:
+TM and HM:
+
+
+/- Gorebyss -/
+
+Type:
+Stats:
+Movepool:
+TM and HM:

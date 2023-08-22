@@ -1,5 +1,3 @@
-Pokemon emerald rom notes/plans:
-
 //------------// Trainers //------------//
 
 /- Gym Leaders -/
@@ -306,7 +304,7 @@ Pokemon emerald rom notes/plans:
 - Phoebe (DB)
 
 1. Mawile (Lead) LVL 54 ivs 31 all
-        	Item: N/A 
+        Item: N/A 
 		Ability: Intimidate
 		Nature: Adamant (+Atk; -Sp. Atk)
 		Moveset: Crunch; Brick Break; Swords Dance; *Phantom Crunch (Mawile Special move) NOTE: also add "Shadow Bite" para early (ver outros mons para ter este)
@@ -323,7 +321,7 @@ Pokemon emerald rom notes/plans:
 		Nature: Sassy (+Sp. Def; -Spe)
 		Moveset: Confuse Ray; Recover; Shadow Ball; Knock Off/(New attack dark Foul Play or Dark Pulse)
 
-4. Crobat LVL 56 ivs 31 all
+4. Crobat LVL 56 ivs 31 all  // Glalie
 		Item: N/A 
 		Ability: Inner Focus
 		Nature: Jolly (+Spe; -Sp. Atk)
@@ -340,3 +338,12 @@ Pokemon emerald rom notes/plans:
 		Ability: Wonder Guard
 		Nature: Quirky (+Sp. Def ; -Sp. Def)
 		Moveset: Will-O-Wisp; Shadow Punch; Rock Slide; Protect
+		
+----
+- Glacia
+
+1. Glalie (Lead) LVL 54 ivs 31 all
+        Item: N/A 
+		Ability: Intimidate
+		Nature: Adamant (+Atk; -Sp. Atk)
+		Moveset: Crunch; Brick Break; Swords Dance; *Phantom Crunch (Mawile Special move) NOTE: also add "Shadow Bite" para early (ver outros mons para ter este)
