@@ -55,15 +55,31 @@ Movepool:
 TM and HM:
 
 
-/- Ninjask -/
 
+
+/- Nincada -/
+
+Stats: 41 HP | 75 Atk | 90 DEF | 30 Sp. Atk | 30 Sp. Def | 40 Spe TOTAL: 306	
 Movepool:
 
 TM and HM:
 
 
+
+
+/- Ninjask -/
+
+lvl 30
+Stats: 61 HP | 90 Atk | 55 DEF | 55 Sp. Atk | 55 Sp. Def | 160 Spe TOTAL: 476	
+Movepool:
+
+TM and HM:
+
+
+
 /- Shedinja -/
 
+lvl 30
 Stats: 1 HP | 150 Atk | 50 DEF | 30 Sp. Atk | 50 Sp. Def | 80 Spe TOTAL: 311	
 Movepool:
 
