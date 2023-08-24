@@ -96,7 +96,7 @@
         	Item: N/A
 		Ability: Levitate
 		Nature: Bashful (+Sp. Atk; -Sp. Atk)
-		Moveset: SolarBeam; Overheat; Rock Slide; Sunny Day
+		Moveset: SolarBeam; Overheat; Rock Slide; Sunny Day (ver ataques de fogo fisicos)
 
 4. Torkoal (2º Ace) LVL 29 ivs 31 all
         	Item: Sitrus Berry
@@ -217,7 +217,7 @@
         	Item: Sitrus Berry
 		Ability: Levitate
 		Nature: Modest (+Sp. Atk; -Atk)
-		Moveset: Flamethrower; Reflect; Calm Mind; Psychic
+		Moveset: Flamethrower; Reflect; Sunny Day; Psychic (ver ataques de fogo e psiquico fisicos)
 
 
 ----

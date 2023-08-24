@@ -1,5 +1,24 @@
 //------------// Pokemons Changes //------------//
 
+/- Treecko ->
+
+Movepool:
+
+	LVL 12 - Detect
+
+TM and HM:
+
+
+/- Grovyle ->
+
+Movepool:
+
+	LVL 12 - Detect
+
+TM and HM:
+
+
+
 /- Sceptile -/
 
 Type: Grass Dragon
@@ -170,7 +189,7 @@ TM and HM:
 
 /- Camerupt -/
 
-Stats: 91 HP | 102 Atk | 80 DEF | 102 Sp. Atk | 80 Sp. Def | 40 Spe TOTAL: 495
+Stats: 80 HP | 100 Atk | 80 DEF | 100 Sp. Atk | 80 Sp. Def | 40 Spe TOTAL: 480
 Movepool:
 
 
@@ -187,118 +206,182 @@ Movepool:
 TM and HM:
 
 
+/- Swablu -/
+
+Type: Flying
+Stats: 65 HP | 50 Atk | 60 DEF | 50 Sp. Atk | 60 Sp. Def | 50 Spe TOTAL: 335
+Movepool:
+
+
+TM and HM:
+
+
 
 /- Altaria -/
 
-Type:
-Stats:
+lvl: 42
+Stats: 100 HP | 75 Atk | 90 DEF | 75 Sp. Atk | 105 Sp. Def | 95 Spe TOTAL: 540
 Movepool:
+
+
 TM and HM:
+
+
 
 /- Seviper -/
 
-Type:
-Stats:
+Type: Poison Dark
+Stats: 83 HP | 115 Atk | 60 DEF | 60 Sp. Atk | 60 Sp. Def | 80 Spe TOTAL: 458
 Movepool:
+
+
 TM and HM:
+
+
 
 /- Solrock -/
 
-Type:
-Stats:
 Movepool:
+
+
 TM and HM:
+
+
 
 
 /- Whiscash -/
 
-Type:
-Stats:
+Stats: 110 HP | 75 Atk | 70 DEF | 75 Sp. Atk | 90 Sp. Def | 60 Spe TOTAL: 480
 Movepool:
+
 TM and HM:
+
 
 
 /- Crawdaunt -/
 
-Type:
-Stats:
+Stats: 75 HP | 120 Atk | 85 DEF | 80 Sp. Atk | 55 Sp. Def | 65 Spe TOTAL: 480
 Movepool:
+
+
 TM and HM:
+
+
 
 /- Castform -/
 
-Type:
-Stats:
+Stats: 80 HP | 80 Atk | 80 DEF | 80 Sp. Atk | 80 Sp. Def | 80 Spe TOTAL: 480
 Movepool:
 TM and HM:
 
 
 /- Banette -/
 
-Type:
-Stats:
+Stats: 65 HP | 125 Atk | 65 DEF | 80 Sp. Atk | 80 Sp. Def | 80 Spe TOTAL: 495
 Movepool:
+
+
 TM and HM:
+
+
+
 
 /- Duskclops -/
 
-Type:
-Stats:
+Stats: 65 HP | 85 Atk | 130 DEF | 60 Sp. Atk | 130 Sp. Def | 25 Spe TOTAL: 495
 Movepool:
+
+
 TM and HM:
+
+
 
 
 /- Tropius -/
 
-Type:
-Stats:
+Stats: 99 HP | 58 Atk | 85 DEF | 82 Sp. Atk | 85 Sp. Def | 51 Spe TOTAL: 460
 Movepool:
+
+
 TM and HM:
+
+
 
 
 /- Absol -/
 
-Type:
-Stats:
+Stats: 75 HP | 130 Atk | 65 DEF | 75 Sp. Atk | 65 Sp. Def | 100 Spe TOTAL: 510
 Movepool:
+
+
+
 TM and HM:
+
+
+
+/- Snorunt -/
+
+lvl 36
+
+Movepool:
+
+
+
+TM and HM:
+
 
 
 /- Glalie -/
 
-Type:
-Stats:
+
+Type: Ice Ghost
+Stats: 80 HP | 100 Atk | 70 DEF | 80 Sp. Atk | 70 Sp. Def | 90 Spe TOTAL: 490
 Movepool:
+
+
 TM and HM:
+
+
 
 
 /- Luvdisc -/
 
-Type:
-Stats:
+
+Stats: 55 HP | 30 Atk | 55 DEF | 95 Sp. Atk | 65 Sp. Def | 100 Spe TOTAL: 395
 Movepool:
+
+
 TM and HM:
+
+/- Clamperl -/
+
+lvl 38: Male -> Huntail; Female -> Gorebyss
+
+Movepool:
+
+
+TM and HM:
+
 
 
 /- Huntail -/
 
-Type:
-Stats:
+Stats: 55 HP | 110 Atk | 105 DEF | 60 Sp. Atk | 75 Sp. Def | 80 Spe TOTAL: 485
 Movepool:
+
+
 TM and HM:
+
+
 
 
 /- Gorebyss -/
 
-Type:
-Stats:
+Stats: 55 HP | 60 Atk | 105 DEF | 110 Sp. Atk | 75 Sp. Def | 80 Spe TOTAL: 485
 Movepool:
+
+
 TM and HM:
 
 
-/- Gorebyss -/
 
-Type:
-Stats:
-Movepool:
-TM and HM:
