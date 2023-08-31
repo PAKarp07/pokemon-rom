@@ -1,0 +1,50 @@
+//------------// Wild Enconters //------------//
+
+//--- General Changes ---//
+
+-> All exclusive pokemons from Ruby and Sapphire added on their respective locations: Surskit, Meditite, Medicham, Roselia, Zangoose, Lunatone
+-> All non-lengendary pokemons from the regional pokedex are found before the elite 4
+
+//--- Detailed Changes ---//
+
+-- Route 102 --
+
+Lotad: 20% -> 10%
+Seedot: 1% -> 10%
+Ralts: 4% -> 1%
+Surskit: 0% -> 4%
+
+-- Rustboro City --
+
+Trade: Order switched -> Trade Seedot to get a Ralts
+
+-- Rusturf Tunnel --
+
+Whismur: 100% -> 70%
+Geodude: 0% -> 30%
+
+
+-- Granite Cave B1F --
+
+Aron: 40% -> 30%
+Mawile: 0% -> 10%
+
+
+-- Granite Cave B2F --
+
+Aron: 40% -> 20%
+Mawile: 0% -> 20%
+
+
+-- Route 110 --
+
+Wingull: 8% -> 5%
+Plusle: 2% -> 10%
+Minun: 15% -> 10%
+
+
+
+-- Meteor Falls B1F-2R --
+
+Golbat: 50% -> 40%
+Beldum: 0% -> 10%
