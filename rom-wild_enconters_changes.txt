@@ -42,9 +42,61 @@ Wingull: 8% -> 5%
 Plusle: 2% -> 10%
 Minun: 15% -> 10%
 
+-- Route 117 --
 
+Oddish: 40% -> 30%
+Volbeat: 1% -> 10%
+Illumise: 18% -> 10%
+Roselia: 0% -> 10%
+
+
+-- Route 111 --
+Trapinch: 35% -> 30%
+Cacnea: 6% -> 11%
+
+
+-- Fiery Path --
+Machop: 15% -> 10%
+Grimer: 2% -> 15%
+Koffing: 25% -> 15%
+Slugma: 10% -> 20%
+Torkoal: 18% -> 10%
+
+
+-- Route 114 --
+Lotad: 30% -> 20%
+Seedot: 0% -> 20%
+Lombre: 20% -> 5%
+Nuzleaf: 1% -> 5%
+Seviper: 9% -> 5%
+Zangoose: 0% -> 5%
+
+
+-- Meteor Falls 1F-1R --
+Zubat: 80% -> 70%
+Solrock: 20% -> 15%
+Lunatone: 0% -> 15%
+
+//Surf//
+Zubat: 90% -> 60%
+Golbat: 0% -> 30%
+Solrock: 20% -> 5%
+Lunatone: 0% -> 5%
+
+-- Meteor Falls 1F-2R/B1F 1R --
+Golbat: 65% -> 50%
+Solrock: 35% -> 25%
+Lunatone: 0% -> 25%
+
+//Surf//
+Solrock: 10% -> 5%
+Lunatone: 0% -> 5%
 
 -- Meteor Falls B1F-2R --
 
 Golbat: 50% -> 40%
 Beldum: 0% -> 10%
+
+//Surf//
+Solrock: 10% -> 5%
+Lunatone: 0% -> 5%
