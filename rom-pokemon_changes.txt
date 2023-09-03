@@ -113,6 +113,16 @@ Movepool:
 TM and HM:
 
 
+/- Seaking -/
+
+lvl:30
+
+Movepool:
+
+TM and HM:
+
+
+
 /- Delcatty -/
 
 Stats: 70 HP | 65 Atk | 70 DEF | 65 Sp. Atk | 70 Sp. Def | 110 Spe TOTAL: 450
@@ -179,7 +189,7 @@ TM and HM:
 
 
 lvl 40
-Stats: 70 HP | 120 Atk | 55 DEF | 95 Sp. Atk | 55 Sp. Def | 100 Spe TOTAL: 495
+Stats: 70 HP | 120 Atk | 55 DEF | 95 Sp. Atk | 55 Sp. Def | 110 Spe TOTAL: 505
 Movepool:
 
 

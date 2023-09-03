@@ -14,14 +14,196 @@ Seedot: 1% -> 10%
 Ralts: 4% -> 1%
 Surskit: 0% -> 4%
 
+//Surf//
+Marill: 99% -> 30%
+Goldeen: 1% -> 10%
+Surskit: 0% -> 30%
+Wingull: 0% -> 10%
+Masquerain: 0% -> 10%
+Azumarill: 0% -> 5%
+Seaking: 0% -> 5%
+
+
+- Good Rod
+Magikarp: 60% -> 40%
+Goldeen: 20% -> 40%
+Barboach: 20% -> 4%
+Luvdisc: 0% -> 10%
+Corphish: 0% -> 5%
+Seaking: 0% -> 1%
+
+- Super Rod
+Corphish: 100% -> 30%
+Luvdisc: 0% -> 30%
+Seaking: 0% -> 10%
+Barboach: 0% -> 20%
+Clamperl: 0% -> 8%
+Feebas: 0% -> 2%
+
+
+
+-- Route 103 --
+
+//Surf//
+Tentacool: 60% -> 30%
+Wingull: 35% -> 10%
+Goldeen: 0% -> 10%
+Surskit: 0% -> 30%
+Masquerain: 0% -> 10%
+Seaking: 0% -> 10%
+
+- Good Rod
+Magikarp: 60% -> 40%
+Tentacool: 20% -> 40%
+Wailmer: 20% -> 0%
+Barboach: 0% -> 4%
+Luvdisc: 0% -> 10%
+Corphish: 0% -> 5%
+Seaking: 0% -> 1%
+
+- Super Rod
+Wailmer: 60% -> 0%
+Sharpedo: 40% -> 0%
+Corphish: 0% -> 30%
+Luvdisc: 0% -> 30%
+Seaking: 0% -> 10%
+Barboach: 0% -> 20%
+Clamperl: 0% -> 8%
+Feebas: 0% -> 2%
+
+-- Petalburg City --
+
+//Surf//
+Marill: 100% -> 40%
+Magikarp: 0% -> 30%
+Goldeen: 0% -> 20%
+Azumarill: 0% -> 5%
+Seaking: 0% -> 5%
+
+
+//Fishing//
+- Good Rod
+Magikarp: 60% -> 40%
+Goldeen: 20% -> 40%
+Barboach: 20% -> 4%
+Luvdisc: 0% -> 10%
+Corphish: 0% -> 5%
+Seaking: 0% -> 1%
+
+- Super Rod
+Corphish: 100% -> 30%
+Luvdisc: 0% -> 30%
+Seaking: 0% -> 10%
+Barboach: 0% -> 20%
+Clamperl: 0% -> 8%
+Feebas: 0% -> 2%
+
+
+
+-- Route 104 --
+
+//Surf//
+Tentacool: 0% -> 30%
+Wingull: 95% -> 30%
+Magikarp: 0% -> 30%
+Azumarill: 0% -> 5%
+
+
+- Old Rod
+Magikarp: 100% -> 60%
+Tentacool: 0% -> 30%
+
+- Good Rod
+Magikarp: 100% -> 40%
+Tentacool: 0% -> 40%
+Barboach: 0% -> 4%
+Luvdisc: 0% -> 10%
+Corphish: 0% -> 5%
+Seaking: 0% -> 1%
+
+- Super Rod
+Magikarp: 100% -> 0%
+Luvdisc: 0% -> 30%
+Staryu: 0% -> 30%
+Carvanha: 0% -> 10%
+Barboach: 0% -> 20%
+Clamperl: 0% -> 5%
+Horsea: 0% -> 5%
+
+
+
+-- Route 105 --
+
+//Surf//
+Tentacool: 60% -> 30%
+Wingull: 35% -> 30%
+Magikarp: 0% -> 30%
+Azumarill: 0% -> 5%
+
+  
+- Good Rod
+Magikarp: 60% -> 40%
+Tentacool: 20% -> 40%
+Wailmer: 20% -> 0%
+Barboach: 0% -> 4%
+Luvdisc: 0% -> 10%
+Corphish: 0% -> 5%
+Seaking: 0% -> 1%
+
+- Super Rod
+Wailmer: 100% -> 0%
+Luvdisc: 0% -> 30%
+Staryu: 0% -> 30%
+Carvanha: 0% -> 10%
+Barboach: 0% -> 20%
+Clamperl: 0% -> 5%
+Horsea: 0% -> 5%
+
+
+
 -- Rustboro City --
 
 Trade: Order switched -> Trade Seedot to get a Ralts
+
+
+-- Route 116 --
+
+Skitty: 2% -> 20%
+Whismur: 20% -> 0%
+Abra: 10% -> 12%
+
 
 -- Rusturf Tunnel --
 
 Whismur: 100% -> 70%
 Geodude: 0% -> 30%
+
+
+
+-- Dewford Town --
+
+//Surf//
+Tentacool: 60% -> 30%
+Wingull: 35% -> 30%
+Azumarill: 0% -> 5%
+
+//Fishing//
+
+- Good Rod
+Tentacool: 30% -> 40%
+Magikarp: 60% -> 40%
+Luvdisc: 0% -> 10%
+Barboach: 0% -> 5%
+Staryu: 0% -> 5%
+
+- Super Rod
+Wailmer: 100% -> 0%
+Luvdisc: 0% -> 30%
+Staryu: 0% -> 30%
+Carvanha: 0% -> 10%
+Barboach: 0% -> 20%
+Clamperl: 0% -> 5%
+Horsea: 0% -> 5%
 
 
 -- Granite Cave B1F --
@@ -34,6 +216,33 @@ Mawile: 0% -> 10%
 
 Aron: 40% -> 20%
 Mawile: 0% -> 20%
+
+
+-- Slateport City --
+
+//Surf//
+Tentacool: 60% -> 30%
+Wingull: 35% -> 30%
+Magikarp: 0% -> 30%
+Azumarill: 0% -> 5%
+
+//Fishing//
+
+- Good Rod
+Tentacool: 30% -> 40%
+Magikarp: 60% -> 40%
+Luvdisc: 0% -> 10%
+Barboach: 0% -> 5%
+Staryu: 0% -> 5%
+
+- Super Rod
+Wailmer: 100% -> 0%
+Luvdisc: 0% -> 30%
+Staryu: 0% -> 30%
+Carvanha: 0% -> 10%
+Barboach: 0% -> 20%
+Clamperl: 0% -> 5%
+Horsea: 0% -> 5%
 
 
 -- Route 110 --
@@ -95,8 +304,290 @@ Lunatone: 0% -> 5%
 -- Meteor Falls B1F-2R --
 
 Golbat: 50% -> 40%
-Beldum: 0% -> 10%
+Beldum: 0% -> 5%
+Lunatone: 25% -> 15%
+Lunatone: 0% -> 15%
 
 //Surf//
 Solrock: 10% -> 5%
 Lunatone: 0% -> 5%
+
+
+-- Route 115 --
+
+Wingull: 10% -> 0%
+Taillow: 40% -> 20%
+Swablu: 30% -> 25%
+Skitty: 0% -> 20%
+Jigglypuff: 20%
+Swellow: 10% -> 5%
+Wigglytuff: 0% -> 4%
+Delcatty: 0% -> 4%
+Altaria: 0% -> 1%
+
+-- Route 116 --
+
+Manectric: 10% -> 1%
+Kecleon: 1% -> 10%
+
+
+-- Route 123 --
+
+Mightyena: 20% -> 10%
+Linoone: 0% -> 10%
+Zigzagoon: 0% -> 20%
+Shuppet: 30% -> 0%
+Kecleon: 1% -> 0%
+Wingull: 9% -> 0%
+Ralts: 0% -> 8%
+Kirlia: 0% -> 2%
+	
+
+-- Route 120 --
+
+Mightyena: 30% -> 10%
+Oddish: 25% -> 20%
+Marill: 15% -> 20%
+Absol: 8% -> 10%
+Kecleon: 1% -> 5%
+Seedot: 1% -> 0%
+Azumarill: 0% -> 5%
+Gloom: 0% -> 10%
+
+
+-- Route 121 --
+
+Poocheyena: 20% -> 0%
+Duskull: 0% -> 20%
+Shuppet: 30% -> 20%
+Gloom: 5% -> 15%
+
+
+-- Mt. Pyre - All Interior --
+
+Shuppet: 100% -> 50%
+Duskull: 0% -> 50%
+
+
+-- Mt. Pyre - Exterior --
+
+Wingull: 10% -> 0%
+Shuppet: 60% -> 20%
+Duskull: 0% -> 20%
+Meditite: 0% ->	20%
+Chimecho: 0% -> 8%
+Medicham: 0% -> 1%
+Ninetales: 0% -> 1%
+
+
+
+-- Mt. Pyre - Summit --
+
+Shuppet: 85% -> 34%
+Chimecho: 2% -> 30%
+Duskull: 13% -> 34%
+Banette: 0% -> 1%
+Duskclops: 0% -> 1%
+
+
+-- Lilycove City --
+
+//Surf//
+Tentacool: 60% -> 30%
+Magikarp: 0% -> 30%
+Wingull: 35% -> 30%
+Azumarill: 0% -> 5%
+
+//Fishing//
+
+- Good Rod
+Tentacool: 30% -> 40%
+Magikarp: 60% -> 40%
+Luvdisc: 0% -> 10%
+Barboach: 0% -> 5%
+Staryu: 0% -> 5%
+
+- Super Rod
+Wailmer: 100% -> 0%
+Luvdisc: 0% -> 30%
+Staryu: 0% -> 30%
+Carvanha: 0% -> 10%
+Barboach: 0% -> 20%
+Clamperl: 0% -> 5%
+Horsea: 0% -> 5%
+
+
+-- Mossdeep City --
+
+//Surf//
+Tentacool: 60% -> 30%
+Pelipper: 5% -> 20%
+Wingull: 35% -> 30%
+Seadra: 0% -> 20%
+
+//Fishing//
+
+- Good Rod
+Tentacool: 20% -> 40%
+Magikarp: 60% -> 40%
+Luvdisc: 0% -> 10%
+Carvanha: 0% -> 5%
+Staryu: 0% -> 5%
+Wailmer: 20% -> 0%
+
+- Super Rod
+Wailmer: 40% -> 0%
+Luvdisc: 0% -> 30%
+Staryu: 0% -> 30%
+Carvanha: 0% -> 10%
+Carvanha: 0% -> 20%
+Huntail: 0% -> 4%
+Gorebyss: 0% -> 4%
+Sharpedo: 40% -> 1%
+Starmie: 0% -> 1%
+
+-- Shoal Cave - Ice room --
+
+Zubat: 40% -> 15%
+Golbat: 5% -> 8%
+Spheal: 45% -> 35%
+Snorunt: 10% -> 35%
+Golbat: 5% -> 8%
+Sealeo: 0% -> 1%
+Glalie: 0% -> 1%
+
+
+
+-- Sootopolis City --
+
+//Surf//
+Magikarp: 100% -> 0%
+Wingull: 0% -> 30%
+Marill: 0% -> 30%
+Pelipper: 0% -> 20%
+Azumarill: 0% -> 20%
+
+//Fishing//
+
+- Old Rod
+Magikarp: 70% -> 50%
+Tentacool: 30% -> 20%
+Barboach: 0% -> 20%
+Seaking: 0% -> 5%
+Seadra: 0% -> 5%
+
+- Good Rod
+Magikarp: 100% -> 0%
+Seaking: 0% -> 40%
+Seadra: 0% -> 20%
+Barboach: 0% -> 20%
+Chinchou: 0% -> 10%
+Huntail: 0% -> 5%
+Gorebyss: 0% -> 5%
+
+- Super Rod
+Magikarp: 80% -> 0%
+Seadra: 0% -> 20%
+Chinchou: 0% -> 20%
+Whiscash: 0% -> 10%
+Huntail: 0% -> 10%
+Gorebyss: 0% -> 10%
+Tentacruel: 0% -> 10%
+Lanturn: 0% -> 9%
+Gyarados: 20% -> 9%
+Feebas: 0% -> 2%
+
+
+-- Pacifidlog Town --
+
+Tentacool: 60% -> 30%
+Wingull: 35% -> 30%
+Carvanha: 0% -> 25%
+Wailmer: 0% -> 10%
+
+
+//Fishing//
+
+- Good Rod
+Tentacool: 20% -> 40%
+Luvdisc: 0% -> 40%
+Magikarp: 60% -> 0%
+Carvanha: 0% -> 15%
+Wailmer: 0% -> 5%
+
+- Super Rod
+Wailmer: 60% -> 44%
+Carvanha: 0% -> 34%
+Sharpedo: 40% -> 2%
+Luvdisc: 0% -> 20%
+
+
+-- Ever Grande City --
+
+//Surf//
+Tentacool: 60% -> 30%
+Wingull: 35% -> 30%
+Pelipper: 5% -> 20%
+Tentacruel: 0% -> 20%
+
+
+- Good Rod
+Magikarp: 60% -> 0%
+Tentacool: 30% -> 0%
+Luvdisc: 20% -> 40%
+Corsola: 0% -> 40%
+Wailmer: 20% -> 0%
+Huntail: 0% -> 5%
+Gorebyss: 0% -> 5%
+Tentacruel: 0% -> 10%
+
+- Super Rod
+Corsola: 15% -> 20%
+Wailmer: 45% -> 0%
+Luvdisc: 40% -> 0%
+Huntail: 0% -> 15%
+Gorebyss: 0% -> 15%
+Tentacruel: 0% -> 20%
+Sharpedo: 0% -> 15%
+Gyarados: 0% -> 14%
+Feebas: 0% -> 2%
+
+
+
+-- Victory Road 1F --
+
+Zubat: 10% -> 0%
+Whismur: 5% -> 0%
+Makuhita: 10% -> 0%
+Aron: 5% -> 0%
+Golbat: 25% -> 30%
+Hariyama: 35% -> 20%
+Lairon: 10% -> 20%
+Loudred: 10% -> 20%
+Exploud: 0% -> 4%
+Medicham: 0% -> 4%
+Crobat: 0% -> 1%
+Aggron: 0% -> 1%
+
+
+-- Victory Road B1F --
+	
+Golbat: 35% -> 20%
+Hariyama: 35% -> 20%
+Medicham: 0% -> 20%
+Lairon: 25% -> 20%
+Sableye: 0% -> 5%
+Loudred: 0% -> 4%
+Exploud: 0% -> 4%
+Crobat: 0% -> 1%
+Aggron: 0% -> 1%
+
+
+-- Victory Road B1F --
+
+Golbat: 35% -> 20%
+Lairon: 25% -> 0%
+Mawile: 5% -> 35%
+Crobat: 0% -> 2%
+Banette: 0% -> 4%
+Duskclops: 0% -> 4%
