@@ -93,7 +93,8 @@ Seaking: 0% -> 1%
 - Super Rod
 Corphish: 100% -> 30%
 Luvdisc: 0% -> 30%
-Seaking: 0% -> 10%
+Seaking: 0% -> 5%
+Tentacruel: 0% -> 5%
 Barboach: 0% -> 20%
 Clamperl: 0% -> 8%
 Feebas: 0% -> 2%
@@ -132,35 +133,6 @@ Horsea: 0% -> 5%
 
 
 
--- Route 105 --
-
-//Surf//
-Tentacool: 60% -> 30%
-Wingull: 35% -> 30%
-Magikarp: 0% -> 30%
-Azumarill: 0% -> 5%
-
-  
-- Good Rod
-Magikarp: 60% -> 40%
-Tentacool: 20% -> 40%
-Wailmer: 20% -> 0%
-Barboach: 0% -> 4%
-Luvdisc: 0% -> 10%
-Corphish: 0% -> 5%
-Seaking: 0% -> 1%
-
-- Super Rod
-Wailmer: 100% -> 0%
-Luvdisc: 0% -> 30%
-Staryu: 0% -> 30%
-Carvanha: 0% -> 10%
-Barboach: 0% -> 20%
-Clamperl: 0% -> 5%
-Horsea: 0% -> 5%
-
-
-
 -- Rustboro City --
 
 Trade: Order switched -> Trade Seedot to get a Ralts
@@ -177,6 +149,57 @@ Abra: 10% -> 12%
 
 Whismur: 100% -> 70%
 Geodude: 0% -> 30%
+
+
+
+-- Route 105 --
+
+//Surf//
+Tentacool: 60% -> 30%
+Wingull: 35% -> 30%
+Magikarp: 0% -> 30%
+Tentacruel: 0% -> 5%
+
+  
+- Good Rod
+Magikarp: 60% -> 40%
+Tentacool: 20% -> 40%
+Wailmer: 20% -> 5%
+Starmie: 0% -> 5%
+Luvdisc: 0% -> 10%
+
+- Super Rod
+Wailmer: 100% -> 20%
+Luvdisc: 0% -> 30%
+Staryu: 0% -> 30%
+Carvanha: 0% -> 10%
+Clamperl: 0% -> 5%
+Horsea: 0% -> 5%
+
+
+-- Route 106 --
+
+//Surf//
+Tentacool: 60% -> 30%
+Wingull: 35% -> 30%
+Magikarp: 0% -> 30%
+Tentacruel: 0% -> 5%
+
+  
+- Good Rod
+Magikarp: 60% -> 40%
+Tentacool: 20% -> 40%
+Wailmer: 20% -> 5%
+Starmie: 0% -> 5%
+Luvdisc: 0% -> 10%
+
+- Super Rod
+Wailmer: 100% -> 20%
+Luvdisc: 0% -> 30%
+Staryu: 0% -> 30%
+Carvanha: 0% -> 10%
+Clamperl: 0% -> 5%
+Horsea: 0% -> 5%
 
 
 
@@ -218,6 +241,82 @@ Aron: 40% -> 20%
 Mawile: 0% -> 20%
 
 
+-- Route 107 --
+
+//Surf//
+Tentacool: 60% -> 30%
+Wingull: 35% -> 30%
+Magikarp: 0% -> 30%
+Tentacruel: 0% -> 5%
+
+  
+- Good Rod
+Magikarp: 60% -> 40%
+Tentacool: 20% -> 40%
+Wailmer: 20% -> 5%
+Starmie: 0% -> 5%
+Luvdisc: 0% -> 10%
+
+- Super Rod
+Wailmer: 100% -> 20%
+Luvdisc: 0% -> 30%
+Staryu: 0% -> 30%
+Carvanha: 0% -> 10%
+Clamperl: 0% -> 5%
+Horsea: 0% -> 5%
+
+
+-- Route 108 --
+
+//Surf//
+Tentacool: 60% -> 30%
+Wingull: 35% -> 30%
+Magikarp: 0% -> 30%
+Tentacruel: 0% -> 5%
+
+  
+- Good Rod
+Magikarp: 60% -> 40%
+Tentacool: 20% -> 40%
+Wailmer: 20% -> 5%
+Starmie: 0% -> 5%
+Luvdisc: 0% -> 10%
+
+- Super Rod
+Wailmer: 100% -> 20%
+Luvdisc: 0% -> 30%
+Staryu: 0% -> 30%
+Carvanha: 0% -> 10%
+Clamperl: 0% -> 5%
+Horsea: 0% -> 5%
+
+
+-- Route 109 --
+
+//Surf//
+Tentacool: 60% -> 30%
+Wingull: 35% -> 30%
+Magikarp: 0% -> 30%
+Azumarill: 0% -> 5%	
+
+- Good Rod
+Magikarp: 60% -> 40%
+Tentacool: 20% -> 40%
+Wailmer: 20% -> 0%
+Barboach: 0% -> 5%
+Luvdisc: 0% -> 10%
+Starmie: 0% -> 5%
+
+- Super Rod
+Wailmer: 100% -> 0%
+Luvdisc: 0% -> 30%
+Staryu: 0% -> 30%
+Carvanha: 0% -> 10%
+Barboach: 0% -> 20%
+Clamperl: 0% -> 5%
+Horsea: 0% -> 5%
+
+
 -- Slateport City --
 
 //Surf//
@@ -250,6 +349,32 @@ Horsea: 0% -> 5%
 Wingull: 8% -> 5%
 Plusle: 2% -> 10%
 Minun: 15% -> 10%
+
+//Surf//
+Tentacool: 60% -> 30%
+Wingull: 35% -> 30%
+Magikarp: 0% -> 30%
+Azumarill: 0% -> 5%
+
+//Fishing//
+
+- Good Rod
+Tentacool: 20% -> 40%
+Magikarp: 60% -> 40%
+Wailmer: 20% -> 0%
+Luvdisc: 0% -> 10%
+Barboach: 0% -> 5%
+Staryu: 0% -> 5%
+
+- Super Rod
+Wailmer: 100% -> 0%
+Luvdisc: 0% -> 30%
+Staryu: 0% -> 30%
+Carvanha: 0% -> 10%
+Barboach: 0% -> 20%
+Clamperl: 0% -> 5%
+Horsea: 0% -> 5%
+
 
 -- Route 117 --
 
