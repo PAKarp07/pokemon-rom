@@ -383,6 +383,32 @@ Volbeat: 1% -> 10%
 Illumise: 18% -> 10%
 Roselia: 0% -> 10%
 
+//Surf//
+Marill: 99% -> 40%
+Magikarp: 0% -> 30%
+Goldeen: 1% -> 20%
+Azumarill: 0% -> 5%
+Seaking: 0% -> 5%
+
+
+//Fishing//
+
+- Good Rod
+Goldeen: 20% -> 40%
+Magikarp: 60% -> 40%
+Corphish: 20% -> 5%
+Luvdisc: 0% -> 10%
+Barboach: 0% -> 4%
+Seaking: 0% -> 1%
+
+- Super Rod
+Corphish: 100% -> 30%
+Luvdisc: 0% -> 30%
+Seaking: 0% -> 	10%
+Barboach: 0% -> 20%
+Clamperl: 0% -> 8%
+Feebas: 0% -> 2%
+
 
 -- Route 111 --
 Trapinch: 35% -> 30%
