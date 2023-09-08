@@ -415,6 +415,32 @@ Trapinch: 35% -> 30%
 Cacnea: 6% -> 11%
 
 
+//Surf//
+Marill: 99% -> 	40%
+Magikarp: 0% -> 30%
+Goldeen: 1% -> 20%
+Azumarill: 0% -> 5%
+Seaking: 0% -> 5%
+
+//Fishing//
+
+-Good Rod
+Goldeen: 20% -> 40%
+Magikarp: 60% -> 40%
+Barboach: 20% -> 4%
+Luvdisc: 0% -> 10%
+Corphish: 0% -> 5%
+Seaking: 0% -> 1%
+
+- Super Rod
+Barboach: 100% -> 20%
+Luvdisc: 0% -> 30%
+Corphish: 0% -> 30%
+Seaking: 0% -> 10%
+Clamperl: 0% -> 8%
+Feebas: 0% -> 2%
+
+
 -- Fiery Path --
 Machop: 15% -> 10%
 Grimer: 2% -> 15%
@@ -430,6 +456,32 @@ Lombre: 20% -> 5%
 Nuzleaf: 1% -> 5%
 Seviper: 9% -> 5%
 Zangoose: 0% -> 5%
+
+//Surf//
+Marill: 99% -> 	30%
+Magikarp: 0% -> 20%
+Surskit: 0% -> 20%
+Goldeen: 1% -> 20%
+Azumarill: 0% -> 5%
+Seaking: 0% -> 5%
+
+//Fishing//
+
+-Good Rod
+Goldeen: 20% -> 40%
+Magikarp: 60% -> 40%
+Barboach: 20% -> 4%
+Luvdisc: 0% -> 10%
+Corphish: 0% -> 5%
+Seaking: 0% -> 1%
+
+- Super Rod
+Barboach: 100% -> 20%
+Luvdisc: 0% -> 30%
+Corphish: 0% -> 30%
+Seaking: 0% -> 10%
+Clamperl: 0% -> 8%
+Feebas: 0% -> 2%
 
 
 -- Meteor Falls 1F-1R --
@@ -476,10 +528,69 @@ Wigglytuff: 0% -> 4%
 Delcatty: 0% -> 4%
 Altaria: 0% -> 1%
 
--- Route 116 --
+//Surf//
+Tentacool: 60% -> 30%
+Wingull: 35% -> 30%
+Magikarp: 0% -> 30%
+Azumarill: 0% -> 5%
+
+
+//Fishing//
+
+- Good Rod
+Tentacool: 20% -> 40%
+Magikarp: 60% -> 40%
+Wailmer: 20% -> 0%
+Luvdisc: 0% -> 10%
+Barboach: 0% -> 5%
+Staryu: 0% -> 5%
+
+- Super Rod
+Wailmer: 100% -> 0%
+Luvdisc: 0% -> 30%
+Staryu: 0% -> 30%
+Carvanha: 0% -> 10%
+Barboach: 0% -> 20%
+Clamperl: 0% -> 5%
+Horsea: 0% -> 5%
+
+
+-- Route 120 --
 
 Manectric: 10% -> 1%
 Kecleon: 1% -> 10%
+
+//Surf//
+Marill: 99% -> 0%
+Surskit: 0% -> 30%
+Tentacool: 0% -> 30%
+Goldeen: 1% -> 10%
+Wingull: 0% -> 10%
+Masquerain: 0% -> 10%
+Seaking: 0% -> 5%
+Tentacruel: 0% -> 5%
+
+- Old Rod
+Goldeen: 30% -> 0%
+Tentacool: 0% -> 30%
+
+- Good Rod
+Goldeen: 20% -> 0%
+Magikarp: 60% -> 40%
+Tentacool: 0% -> 40%
+Barboach: 20% -> 4%
+Luvdisc: 0% -> 10%
+Corphish: 0% -> 5%
+Seaking: 0% -> 1%
+
+- Super Rod
+Corphish: 0% -> 30%
+Luvdisc: 0% -> 30%
+Seaking: 0% -> 10%
+Barboach: 100% -> 20%
+Clamperl: 0% -> 8%
+Feebas: 0% -> 2%
+
 
 
 -- Route 123 --
