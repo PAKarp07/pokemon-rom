@@ -554,40 +554,36 @@ Barboach: 0% -> 20%
 Clamperl: 0% -> 5%
 Horsea: 0% -> 5%
 
-
--- Route 120 --
-
-Manectric: 10% -> 1%
+-- Route 118 --
 Kecleon: 1% -> 10%
+Manectric: 10% -> 1%
 
 //Surf//
-Marill: 99% -> 0%
+Tentacool: 60% -> 30%
+Wingull: 35% -> 10%
+Pelipper: 5% -> 0%
 Surskit: 0% -> 30%
-Tentacool: 0% -> 30%
-Goldeen: 1% -> 10%
-Wingull: 0% -> 10%
+Goldeen: 0% -> 10%
 Masquerain: 0% -> 10%
 Seaking: 0% -> 5%
 Tentacruel: 0% -> 5%
 
-- Old Rod
-Goldeen: 30% -> 0%
-Tentacool: 0% -> 30%
-
 - Good Rod
-Goldeen: 20% -> 0%
+Tentacool: 20% -> 40%
 Magikarp: 60% -> 40%
-Tentacool: 0% -> 40%
-Barboach: 20% -> 4%
+Carvanha: 20% -> 0%
 Luvdisc: 0% -> 10%
 Corphish: 0% -> 5%
+Barboach: 0% -> 4%
 Seaking: 0% -> 1%
 
 - Super Rod
-Corphish: 0% -> 30%
+Carvanha: 60% -> 0%
+Sharpedo: 40% -> 0%
 Luvdisc: 0% -> 30%
+Corphish: 0% -> 30%
 Seaking: 0% -> 10%
-Barboach: 100% -> 20%
+Barboach: 0% -> 20%
 Clamperl: 0% -> 8%
 Feebas: 0% -> 2%
 
@@ -604,6 +600,68 @@ Wingull: 9% -> 0%
 Ralts: 0% -> 8%
 Kirlia: 0% -> 2%
 	
+//Surf//
+Tentacool: 60% -> 30%
+Wingull: 35% -> 10%
+Pelipper: 5% -> 0%
+Surskit: 0% -> 30%
+Goldeen: 0% -> 10%
+Masquerain: 0% -> 10%
+Seaking: 0% -> 5%
+Tentacruel: 0% -> 5%
+
+- Good Rod
+Tentacool: 20% -> 40%
+Magikarp: 60% -> 40%
+Wailmer: 20% -> 0%
+Luvdisc: 0% -> 10%
+Corphish: 0% -> 5%
+Barboach: 0% -> 4%
+Seaking: 0% -> 1%
+
+- Super Rod
+Wailmer: 100% -> 0%
+Luvdisc: 0% -> 30%
+Corphish: 0% -> 30%
+Seaking: 0% -> 10%
+Barboach: 0% -> 20%
+Clamperl: 0% -> 8%
+Feebas: 0% -> 2%
+
+
+-- Route 119 --
+
+//Surf//
+Tentacool: 60% -> 0%
+Marill: 0% -> 30%
+Wingull: 35% -> 10%
+Surskit: 0% -> 30%
+Goldeen: 0% -> 10%
+Masquerain: 0% -> 10%
+Seaking: 0% -> 5%
+
+
+- Old Rod
+Tentacool: 30% -> 0%
+Goldeen: 0% -> 30%
+
+- Good Rod
+Tentacool: 20% -> 0%
+Goldeen: 0% -> 40%	
+Magikarp: 60% -> 40%
+Carvanha: 20% -> 5%
+Luvdisc: 0% -> 10%
+Barboach: 0% -> 4%
+Seaking: 0% -> 1%
+
+- Super Rod
+Carvanha: 100% -> 30%
+Luvdisc: 0% -> 30%
+Seaking: 0% -> 10%
+Barboach: 0% -> 20%
+Clamperl: 0% -> 8%
+Feebas: 0% -> 2%
+
 
 -- Route 120 --
 
@@ -616,6 +674,33 @@ Seedot: 1% -> 0%
 Azumarill: 0% -> 5%
 Gloom: 0% -> 10%
 
+//Surf//
+Marill: 99% -> 30%
+Wingull: 35% -> 10%
+Surskit: 0% -> 30%
+Goldeen: 1% -> 10%
+Masquerain: 0% -> 10%
+Seaking: 0% -> 5%
+Pelipper: 0% -> 5%
+
+
+- Good Rod
+Magikarp: 60% -> 40%
+Luvdisc: 0% -> 10%
+Carvanha: 0% -> 5%
+Goldeen: 60% -> 40%
+Barboach: 20% -> 4%
+Seaking: 0% -> 1%
+
+- Super Rod
+Luvdisc: 0% -> 30%
+Seaking: 0% -> 10%
+Carvanha: 0% -> 30%
+Barboach: 100% -> 20%
+Clamperl: 0% -> 8%
+Feebas: 0% -> 2%
+
+
 
 -- Route 121 --
 
@@ -623,6 +708,72 @@ Poocheyena: 20% -> 0%
 Duskull: 0% -> 20%
 Shuppet: 30% -> 20%
 Gloom: 5% -> 15%
+
+//Surf//
+Tentacool: 60% -> 30%
+Wingull: 35% -> 10%
+Surskit: 0% -> 30%
+Pelipper: 5% -> 0%
+Goldeen: 0% -> 10%
+Masquerain: 0% -> 10%
+Seaking: 0% -> 5%
+Tentacruel: 0% -> 5%
+
+//Fishing//
+
+- Good Rod
+Tentacool: 20% -> 40%
+Magikarp: 60% -> 40%
+Wailmer: 20% -> 0%
+Luvdisc: 0% -> 10%
+Corphish: 0% -> 5%
+Barboach: 0% -> 4%
+Seaking: 0% -> 1%
+
+- Super Rod
+Wailmer: 100% -> 0%
+Luvdisc: 0% -> 30%
+Corphish: 0% -> 30%
+Seaking: 0% -> 10%
+Barboach: 0% -> 20%
+Clamperl: 0% -> 8%
+Feebas: 0% -> 2%
+
+
+
+-- Route 122 --
+
+//Surf//
+Tentacool: 60% -> 30%
+Wingull: 35% -> 10%
+Surskit: 0% -> 30%
+Pelipper: 5% -> 0%
+Goldeen: 0% -> 10%
+Masquerain: 0% -> 10%
+Seaking: 0% -> 5%
+Tentacruel: 0% -> 5%
+
+//Fishing//
+
+- Good Rod
+Tentacool: 20% -> 40%
+Magikarp: 60% -> 40%
+Wailmer: 20% -> 0%
+Luvdisc: 0% -> 10%
+Corphish: 0% -> 5%
+Barboach: 0% -> 4%
+Seaking: 0% -> 1%
+
+- Super Rod
+Wailmer: 100% -> 0%
+Luvdisc: 0% -> 30%
+Corphish: 0% -> 30%
+Seaking: 0% -> 10%
+Barboach: 0% -> 20%
+Clamperl: 0% -> 8%
+Feebas: 0% -> 2%
+
+
 
 
 -- Mt. Pyre - All Interior --
@@ -679,6 +830,44 @@ Clamperl: 0% -> 5%
 Horsea: 0% -> 5%
 
 
+-- Route 124 --
+
+//Surf//
+Tentacool: 60% -> 30%
+Wingull: 35% -> 20%
+Pelipper: 5% -> 20%
+Tentacruel: 0% -> 20%
+Wailmer: 0% -> 5%
+Seadra: 0% -> 5%
+
+
+//Fishing//
+
+- Good Rod
+Tentacool: 20% -> 40%
+Magikarp: 60% -> 40%
+Luvdisc: 0% -> 10%
+Wailmer: 20% -> 5%
+Staryu: 0% -> 5%
+
+- Super Rod
+Sharpedo: 40% -> 0%
+Wailmer: 60% -> 30%
+Luvdisc: 0% -> 20%
+Staryu: 0% -> 30%
+Huntail: 0% -> 4%
+Gorebyss: 0% -> 4%
+Wailord: 0% -> 1%
+Starmie: 0% -> 1%
+
+
+//Underwater//
+Clamperl: 65% -> 40%
+Chinchou: 30% -> 40%
+Relicanth: 5% -> 15%
+Lanturn: 0% -> 5%
+
+
 -- Mossdeep City --
 
 //Surf//
@@ -708,6 +897,38 @@ Gorebyss: 0% -> 4%
 Sharpedo: 40% -> 1%
 Starmie: 0% -> 1%
 
+
+
+-- Route 125 --
+
+//Surf//
+Tentacool: 60% -> 30%
+Pelipper: 5% -> 20%
+Wingull: 35% -> 30%
+Seadra: 0% -> 20%
+
+//Fishing//
+
+- Good Rod
+Tentacool: 20% -> 40%
+Magikarp: 60% -> 40%
+Luvdisc: 0% -> 10%
+Carvanha: 0% -> 5%
+Staryu: 0% -> 5%
+Wailmer: 20% -> 0%
+
+- Super Rod
+Wailmer: 40% -> 0%
+Luvdisc: 0% -> 30%
+Staryu: 0% -> 30%
+Carvanha: 0% -> 10%
+Carvanha: 0% -> 20%
+Huntail: 0% -> 4%
+Gorebyss: 0% -> 4%
+Sharpedo: 40% -> 1%
+Starmie: 0% -> 1%
+
+
 -- Shoal Cave - Ice room --
 
 Zubat: 40% -> 15%
@@ -718,6 +939,43 @@ Golbat: 5% -> 8%
 Sealeo: 0% -> 1%
 Glalie: 0% -> 1%
 
+
+-- Route 126 --
+
+//Surf//
+Tentacool: 60% -> 0%
+Wingull: 35% -> 30%
+Wailmer: 0% -> 40%
+Pelipper: 5% -> 20%
+Seadra: 0% -> 10%
+
+- Old Rod
+Tentacool: 30% -> 0%
+Wailmer: 0% -> 30%
+
+- Good Rod
+Tentacool: 20% -> 0%
+Wailmer: 20% -> 45%
+Magikarp: 60% -> 40%
+Luvdisc: 0% -> 14%
+Chinchou: 0% -> 1%
+
+- Super Rod
+Sharpedo: 40% -> 0%
+Wailmer: 60% -> 30%
+Chimecho: 0% -> 30%
+Luvdisc: 0% -> 10%
+Gorebyss: 0% -> 10%
+Huntail: 0% -> 10%
+Wailord: 0% -> 5%
+Lanturn: 0% -> 5%
+
+//Underwater//
+Clamperl: 65% -> 40%
+Chinchou: 30% -> 40%
+Relicanth: 5% -> 10%
+Wailord: 0% -> 5%
+Lanturn: 0% -> 5%
 
 
 -- Sootopolis City --
