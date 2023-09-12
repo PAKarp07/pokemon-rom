@@ -1047,34 +1047,6 @@ Lanturn: 0% -> 9%
 Gyarados: 20% -> 9%
 Feebas: 0% -> 2%
 
-
-
-
-
--- Pacifidlog Town --
-
-Tentacool: 60% -> 30%
-Wingull: 35% -> 30%
-Carvanha: 0% -> 25%
-Wailmer: 0% -> 10%
-
-
-//Fishing//
-
-- Good Rod
-Tentacool: 20% -> 40%
-Luvdisc: 0% -> 40%
-Magikarp: 60% -> 0%
-Carvanha: 0% -> 15%
-Wailmer: 0% -> 5%
-
-- Super Rod
-Wailmer: 60% -> 44%
-Carvanha: 0% -> 34%
-Sharpedo: 40% -> 2%
-Luvdisc: 0% -> 20%
-
-
 -- Route 128 --
 
 //Surf//
@@ -1102,8 +1074,6 @@ Tentacruel: 0% -> 20%
 Sharpedo: 0% -> 15%
 Gyarados: 0% -> 14%
 Feebas: 0% -> 2%
-
-
 
 -- Route 129 --
 
@@ -1137,6 +1107,177 @@ Gorebyss: 0% -> 10%
 Huntail: 0% -> 10%
 Wailord: 0% -> 5%
 
+
+-- Route 130 --
+
+//Surf//
+Tentacool: 60% -> 0%
+Wingull: 35% -> 30%
+Pelipper: 4% -> 20%
+Seadra: 0% -> 10%
+Carvanha: 0% -> 20%
+Wailmer: 0% -> 20%
+
+- Old Rod
+Tentacool: 30% -> 0%
+Wailmer: 0% -> 20%
+Carvanha: 0% -> 10%
+
+- Good Rod
+Tentacool: 20% -> 0%
+Wailmer: 20% -> 25% 
+Carvanha: 0% -> 20%
+Magikarp: 60% -> 40%
+Luvdisc: 0% -> 15%
+
+- Super Rod
+Sharpedo: 40% -> 5%
+Wailmer: 60% -> 30%
+Carvanha: 0% -> 30%
+Luvdisc: 0% -> 10%
+Gorebyss: 0% -> 10%
+Huntail: 0% -> 10%
+Wailord: 0% -> 5%
+
+
+-- Route 131 --
+
+//Surf//
+Tentacool: 60% -> 30%
+Wingull: 35% -> 30%
+Carvanha: 0% -> 25%
+Wailmer: 0% -> 10%
+
+//Fishing//
+
+- Good Rod
+Tentacool: 20% -> 40%
+Luvdisc: 0% -> 40%
+Magikarp: 60% -> 0%
+Carvanha: 0% -> 15%
+Wailmer: 20% -> 5%
+
+- Super Rod
+Wailmer: 60% -> 40%
+Carvanha: 0% -> 30%
+Sharpedo: 40% -> 10%
+Luvdisc: 0% -> 20%
+
+
+-- Pacifidlog Town --
+
+Tentacool: 60% -> 30%
+Wingull: 35% -> 30%
+Carvanha: 0% -> 25%
+Wailmer: 0% -> 10%
+
+
+//Fishing//
+
+- Good Rod
+Tentacool: 20% -> 40%
+Luvdisc: 0% -> 40%
+Magikarp: 60% -> 0%
+Carvanha: 0% -> 15%
+Wailmer: 20% -> 5%
+
+- Super Rod
+Wailmer: 60% -> 44%
+Carvanha: 0% -> 34%
+Sharpedo: 40% -> 2%
+Luvdisc: 0% -> 20%
+
+
+-- Route 132 --
+
+//Surf//
+Tentacool: 60% -> 0%
+Wingull: 35% -> 40%
+Pelipper: 5% -> 20%
+Carvanha: 0% -> 30%
+Sharpedo: 0% -> 10%
+
+
+//Fishing//
+
+- Old Rod
+Tentacool: 30% -> 0%
+Carvanha: 0% -> 30%
+
+- Good Rod
+Magikarp: 60% -> 40%
+Wailmer: 20% -> 0%
+Tentacool 20% -> 0%
+Carvanha: 0% -> 40%
+Luvdisc: 0% -> 10%
+Huntail: 0% -> 5%
+Gorebyss: 0% -> 5%
+
+- Super Rod
+Wailmer: 60% -> 0%
+Sharpedo: 40% -> 30%
+Carvanha: 0% -> 40%
+Gorebyss: 0% -> 15%
+Huntail: 0% -> 15%
+
+-- Route 133 --
+
+//Surf//
+Tentacool: 60% -> 0%
+Wingull: 35% -> 40%
+Pelipper: 5% -> 20%
+Carvanha: 0% -> 30%
+Sharpedo: 0% -> 10%
+
+
+//Fishing//
+
+- Old Rod
+Tentacool: 30% -> 0%
+Carvanha: 0% -> 30%
+
+- Good Rod
+Magikarp: 60% -> 40%
+Wailmer: 20% -> 0%
+Tentacool 20% -> 0%
+Carvanha: 0% -> 40%
+Luvdisc: 0% -> 10%
+Huntail: 0% -> 5%
+Gorebyss: 0% -> 5%
+
+- Super Rod
+Wailmer: 60% -> 0%
+Sharpedo: 40% -> 30%
+Carvanha: 0% -> 40%
+Gorebyss: 0% -> 15%
+Huntail: 0% -> 15%
+
+
+-- Route 134 --
+
+//Surf//
+Tentacool: 60% -> 30%
+Wingull: 35% -> 30%
+Magikarp: 0% -> 15%
+Carvanha: 0% -> 15%
+Tentacruel: 0% -> 5%
+
+- Good Rod
+Tentacool: 20% -> 40%
+Magikarp: 60% -> 40%
+Luvdisc: 0% -> 10%
+Staryu: 0% -> 5%
+Carvanha: 0% -> 5%
+Wailmer: 20% -> 0%
+
+- Super Rod
+Luvdisc: 0% -> 30%
+Staryu: 0% -> 30%
+Horsea: 15% -> 5%
+Sharpedo: 40% -> 0%
+Clamperl: 0% -> 5%
+Wailmer: 45% -> 0%
+Carvanha: 0% -> 30%
 
 -- Ever Grande City --
 
