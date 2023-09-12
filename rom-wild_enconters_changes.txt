@@ -977,6 +977,36 @@ Relicanth: 5% -> 10%
 Wailord: 0% -> 5%
 Lanturn: 0% -> 5%
 
+-- Route 127 --
+
+//Surf//
+Tentacool: 60% -> 0%
+Wingull: 35% -> 30%
+Wailmer: 0% -> 40%
+Pelipper: 5% -> 20%
+Seadra: 0% -> 10%
+
+- Old Rod
+Tentacool: 30% -> 0%
+Wailmer: 0% -> 30%
+
+- Good Rod
+Tentacool: 20% -> 0%
+Wailmer: 20% -> 45%
+Magikarp: 60% -> 40%
+Luvdisc: 0% -> 14%
+Chinchou: 0% -> 1%
+
+- Super Rod
+Sharpedo: 40% -> 0%
+Wailmer: 60% -> 30%
+Chimecho: 0% -> 30%
+Luvdisc: 0% -> 10%
+Gorebyss: 0% -> 10%
+Huntail: 0% -> 10%
+Wailord: 0% -> 5%
+Lanturn: 0% -> 5%
+
 
 -- Sootopolis City --
 
@@ -1018,6 +1048,9 @@ Gyarados: 20% -> 9%
 Feebas: 0% -> 2%
 
 
+
+
+
 -- Pacifidlog Town --
 
 Tentacool: 60% -> 30%
@@ -1040,6 +1073,69 @@ Wailmer: 60% -> 44%
 Carvanha: 0% -> 34%
 Sharpedo: 40% -> 2%
 Luvdisc: 0% -> 20%
+
+
+-- Route 128 --
+
+//Surf//
+Tentacool: 60% -> 30%
+Wingull: 35% -> 30%
+Pelipper: 5% -> 20%
+Tentacruel: 0% -> 20%
+
+- Good Rod
+Magikarp: 60% -> 10%
+Tentacool: 30% -> 0%
+Luvdisc: 20% -> 40%
+Corsola: 0% -> 40%
+Wailmer: 20% -> 0%
+Huntail: 0% -> 5%
+Gorebyss: 0% -> 5%
+
+- Super Rod
+Corsola: 15% -> 20%
+Wailmer: 45% -> 0%
+Luvdisc: 40% -> 0%
+Huntail: 0% -> 15%
+Gorebyss: 0% -> 15%
+Tentacruel: 0% -> 20%
+Sharpedo: 0% -> 15%
+Gyarados: 0% -> 14%
+Feebas: 0% -> 2%
+
+
+
+-- Route 129 --
+
+//Surf//
+Tentacool: 60% -> 0%
+Wingull: 35% -> 30%
+Pelipper: 4% -> 20%
+Seadra: 0% -> 10%
+Carvanha: 0% -> 20%
+Wailmer: 0% -> 20%
+Wailord: 1% -> 0%
+
+- Old Rod
+Tentacool: 30% -> 0%
+Wailmer: 0% -> 20%
+Carvanha: 0% -> 10%
+
+- Good Rod
+Tentacool: 20% -> 0%
+Wailmer: 20% -> 25% 
+Carvanha: 0% -> 20%
+Magikarp: 60% -> 40%
+Luvdisc: 0% -> 15%
+
+- Super Rod
+Sharpedo: 40% -> 5%
+Wailmer: 60% -> 30%
+Carvanha: 0% -> 30%
+Luvdisc: 0% -> 10%
+Gorebyss: 0% -> 10%
+Huntail: 0% -> 10%
+Wailord: 0% -> 5%
 
 
 -- Ever Grande City --
