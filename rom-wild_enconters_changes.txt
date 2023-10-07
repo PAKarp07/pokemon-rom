@@ -441,12 +441,42 @@ Clamperl: 0% -> 8%
 Feebas: 0% -> 2%
 
 
+-- Mirage Tower 4F --
+Sandshew: 50% -> 45%
+Sandslash: 0% -> 5%
+
+
 -- Fiery Path --
 Machop: 15% -> 10%
 Grimer: 2% -> 15%
 Koffing: 25% -> 15%
 Slugma: 10% -> 20%
 Torkoal: 18% -> 10%
+
+
+-- Magma Hideout 1F, 2F_1R, 2F_2R, 2F_3R --
+Geodude: 55% -> 20%
+Koffing: 0% -> 19%
+Grimer: 0% -> 19%
+Graveler: 15% -> 10%
+Weezing: 0% -> 1%
+Muk: 0% -> 1%
+
+
+-- Magma Hideout 3F_1R, 3F_2R, 3F_3R --
+Geodude: 55% -> 20%
+Graveler: 15% -> 20%
+Slugma: 0% -> 20%
+Magcargo: 0% -> 10%
+
+-- Magma Hideout 4F --
+Geodude: 55% -> 20%
+Graveler: 15% -> 20%
+Slugma: 0% -> 20%
+Magcargo: 0% -> 8%
+Beldum: 0% -> 1%
+Bagon: 0% -> 1%
+
 
 
 -- Route 114 --
@@ -495,14 +525,45 @@ Golbat: 0% -> 30%
 Solrock: 20% -> 5%
 Lunatone: 0% -> 5%
 
+
+//Fishing//
+
+//Good Rod
+Goldeen: 20% -> 40%
+Magikarp: 60% -> 40%
+
+
+//Super Rod
+Barboach: 100% -> 40%
+Goldeen: 0% -> 30%
+Seaking: 0% -> 25%
+Whiscash: 0% -> 5%
+
+
+
 -- Meteor Falls 1F-2R/B1F 1R --
 Golbat: 65% -> 50%
 Solrock: 35% -> 25%
 Lunatone: 0% -> 25%
 
 //Surf//
-Solrock: 10% -> 5%
+Zubat: 90% -> 60%
+Golbat: 0% -> 30%
+Solrock: 20% -> 5%
 Lunatone: 0% -> 5%
+
+//Fishing//
+
+//Good Rod
+Goldeen: 20% -> 40%
+Magikarp: 60% -> 40%
+
+//Super Rod
+Barboach: 80% -> 40%
+Seaking: 0% -> 50%
+Whiscash: 20% -> 10%
+	
+
 
 -- Meteor Falls B1F-2R --
 
@@ -512,8 +573,26 @@ Lunatone: 25% -> 15%
 Lunatone: 0% -> 15%
 
 //Surf//
-Solrock: 10% -> 5%
+Zubat: 90% -> 60%
+Golbat: 0% -> 30%
+Solrock: 20% -> 5%
 Lunatone: 0% -> 5%
+
+
+//Fishing//
+
+//Good Rod
+Goldeen: 20% -> 40%
+Magikarp: 60% -> 40%
+Barboach: 20% -> 19%
+Feebas: 0% -> 1% 
+
+//Super Rod
+Barboach: 100% -> 40%
+Feebas: 0% -> 20%
+Seaking: 0% -> 30%
+Whiscash: 20% -> 10%
+
 
 
 -- Route 115 --
@@ -928,6 +1007,12 @@ Gorebyss: 0% -> 4%
 Sharpedo: 40% -> 1%
 Starmie: 0% -> 1%
 
+-- Shoal Cave - All low%high rooms --
+//Surf
+Tentacool: 60% -> 0%
+Spheal: 10% -> 50%
+Golbat: 0% -> 10%
+Seadra: 0% -> 10% 
 
 -- Shoal Cave - Ice room --
 
@@ -949,6 +1034,8 @@ Wailmer: 0% -> 40%
 Pelipper: 5% -> 20%
 Seadra: 0% -> 10%
 
+
+//Fishing//
 - Old Rod
 Tentacool: 30% -> 0%
 Wailmer: 0% -> 30%
@@ -976,6 +1063,86 @@ Chinchou: 30% -> 40%
 Relicanth: 5% -> 10%
 Wailord: 0% -> 5%
 Lanturn: 0% -> 5%
+
+-- Seafloor Cavern Entrance --
+
+//Surf//
+Tentacool: 60% -> 30%
+Zubat: 35% -> 30%
+Golbat: 5% -> 20%
+Tentacruel: 0% -> 20%
+
+//Fishing//
+- Good Rod
+Tentacool: 20% -> 40%
+Magikarp: 60% -> 40%
+Wailmer: 20% -> 0%
+Luvdisc: 0% -> 10%
+Chinchou: 0% -> 5%
+Staryu: 0% -> 5%
+
+- Super Rod
+Wailmer: 100% -> 0%
+Luvdisc: 0% -> 30%
+Staryu: 0% -> 20%
+Chinchou: 0% -> 20%
+Starmie: 0% -> 10%
+Lanturn: 0% -> 10%
+
+-- Seafloor Cavern Entrance Room 1,2,3,4,5 --
+Zubat: 90% -> 20%
+Golbat: 10% -> 29%
+Aron: 0% -> 20%
+Lairon: 0% -> 29%
+Crobat: 0% -> 1%
+Aggron: 0% -> 1%
+
+
+-- Seafloor Cavern Entrance Room 6,7 --
+Zubat: 90% -> 20%
+Golbat: 10% -> 29%
+Aron: 0% -> 20%
+Lairon: 0% -> 29%
+Crobat: 0% -> 1%
+Aggron: 0% -> 1%
+
+//Surf//
+Goldeen: 0% -> 30%
+Tentacool: 60% -> 0%
+Zubat: 35% -> 30%
+Golbat: 5% -> 20%
+Seaking: 0% -> 20%
+
+
+
+//Fishing//
+-Old Rod
+Tentacool: 30% -> 0%
+Goldeen: 0% -> 30%
+
+-Good Rod
+Tentacool: 20% -> 0%
+Magikarp: 60% -> 40%
+Wailmer: 20% -> 0%
+Goldeen: 0% -> 40%
+Luvdisc: 0% -> 10%
+Barboach: 0% -> 5%
+Seaking: 0% -> 5%
+
+-Super Rod
+Wailmer: 0% -> 100%
+Luvdisc: 0% -> 30%
+Barboach: 0% -> 30%
+Seaking: 0% -> 30%
+Whiscash: 0% -> 10%
+
+-- Seafloor Cavern Entrance Room 8 --
+Zubat: 90% -> 20%
+Golbat: 10% -> 29%
+Aron: 0% -> 20%
+Lairon: 0% -> 29%
+Beldum: 0% -> 2%
+
 
 -- Route 127 --
 
@@ -1046,6 +1213,14 @@ Tentacruel: 0% -> 10%
 Lanturn: 0% -> 9%
 Gyarados: 20% -> 9%
 Feebas: 0% -> 2%
+
+
+
+-- Cave of Origin Entrance, 1F --
+Zubat: 90% -> 20%
+Golbat: 10% -> 20%
+Sableye: 0% -> 30%
+Mawile: 0% -> 30%
 
 -- Route 128 --
 

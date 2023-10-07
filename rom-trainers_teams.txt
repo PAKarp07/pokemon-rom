@@ -4,19 +4,19 @@
 
 - Roxanne
 
-1. Aron (Lead) LVL 13 ivs 25 all
+1. Aron (Lead) LVL 14 ivs 25 all
         	Item: N/A
 		Ability: Sturdy
 		Nature: Adamant (+Atk; -Sp. Atk)
 		Moveset: Metal Claw; Rock Tomb; Headbutt; Sandstorm
 		
-2. Nosepass LVL 14 ivs 25 all
+2. Nosepass LVL 15 ivs 25 all
 		Item: N/A
 		Ability: Sturdy
 		Nature: Careful (+Sp. Def; -Sp. Atk)
 		Moveset: Sandstorm; Rock Tomb; Toxic; Protect
 		
-3. Anorith (Ace) LVL 16 ivs 31 all
+3. Anorith (Ace) LVL 17 ivs 31 all
 		Item: Oran Berry
 		Ability: Battle Armor
 		Nature: Jolly (+Spe; -Sp. Atk)
