@@ -240,6 +240,9 @@ Mawile: 0% -> 10%
 Aron: 40% -> 20%
 Mawile: 0% -> 20%
 
+//Rock Smash//
+Geodude: 70% -> 60%
+Nosepass: 30% -> 40%
 
 -- Route 107 --
 
@@ -274,7 +277,7 @@ Wingull: 35% -> 30%
 Magikarp: 0% -> 30%
 Tentacruel: 0% -> 5%
 
-  
+//Fishing//
 - Good Rod
 Magikarp: 60% -> 40%
 Tentacool: 20% -> 40%
@@ -290,6 +293,34 @@ Carvanha: 0% -> 10%
 Clamperl: 0% -> 5%
 Horsea: 0% -> 5%
 
+-- Abandoned Ship Rooms B1F, Hidden Floor Corridors --
+
+//Surf//
+Tentacool: 99% -> 0%
+Tentacruel: 1% -> 0%
+Corsola: 0% -> 50%
+Luvdisc: 0% -> 50%
+
+//Fishing//
+- Old Rod
+Tentacool: 30% -> 0%
+Luvdisc: 0% -> 30%
+
+- Good Rod
+Magikarp: 60% -> 40%
+Tentacool: 40% -> 0%
+Luvdisc: 0% -> 55%
+Staryu: 0% -> 5%
+
+- Super Rod
+Tentacool: 80% -> 0%
+Tentacruel: 20% -> 0%
+Luvdisc: 0% -> 40%
+Staryu: 0% -> 40%
+Huntail: 0% -> 9%
+Gorebyss: 0% -> 9%
+Starmie: 0% -> 2%
+
 
 -- Route 109 --
 
@@ -299,6 +330,7 @@ Wingull: 35% -> 30%
 Magikarp: 0% -> 30%
 Azumarill: 0% -> 5%	
 
+//Fishing//
 - Good Rod
 Magikarp: 60% -> 40%
 Tentacool: 20% -> 40%
@@ -375,6 +407,20 @@ Barboach: 0% -> 20%
 Clamperl: 0% -> 5%
 Horsea: 0% -> 5%
 
+-- New Mauville Entrance --
+
+Voltorb: 50% -> 35%
+Magnemite: 50% -> 35%
+Pikachu: 0% -> 30%
+
+
+-- New Mauville Inside --
+Voltorb: 49% -> 30%
+Magnemite: 49% -> 30%
+Pikachu: 0% -> 30%
+Magneton: 1% -> 5%
+Electrode: 1% -> 5%
+
 
 -- Route 117 --
 
@@ -413,6 +459,10 @@ Feebas: 0% -> 2%
 -- Route 111 --
 Trapinch: 35% -> 30%
 Cacnea: 6% -> 11%
+
+//Rock Smash//
+Geodude: 100% -> 60%
+Nosepass: 0% -> 40%
 
 
 //Surf//
@@ -487,6 +537,10 @@ Nuzleaf: 1% -> 5%
 Seviper: 9% -> 5%
 Zangoose: 0% -> 5%
 
+//Rock Smash//
+Geodude: 100% -> 60%
+Nosepass: 0% -> 40%
+
 //Surf//
 Marill: 99% -> 	30%
 Magikarp: 0% -> 20%
@@ -541,7 +595,7 @@ Whiscash: 0% -> 5%
 
 
 
--- Meteor Falls 1F-2R/B1F 1R --
+-- Meteor Falls 1F-2R/B1F 1R/Steven's Cave --
 Golbat: 65% -> 50%
 Solrock: 35% -> 25%
 Lunatone: 0% -> 25%
@@ -819,6 +873,73 @@ Clamperl: 0% -> 8%
 Feebas: 0% -> 2%
 
 
+-- Safari Zone Area 1 --
+Pikachu: 5% -> 40%
+Oddish: 40% -> 0%
+Treeko: 0% -> 5%
+
+-- Safari Zone Area 2 --
+Pikachu: 5% -> 40%
+Oddish: 40% -> 0%
+Treeko: 0% -> 5%
+
+//Surf//
+Psyduck: 95% -> 35%
+Goldeen: 0% -> 30%
+Golduck: 5% -> 30%
+Mudkip: 0% -> 5%
+
+
+//Fishing//
+- Good Rod
+Magikarp: 60% -> 40%
+Horsea: 0% -> 19%
+Seaking: 0% -> 1%
+
+- Super Rod
+Goldeen: 80% -> 10%
+Horsea: 0% -> 40%
+Seadra: 0% -> 15%
+Clamperl: 0% -> 13%
+Feebas: 0% -> 2% 
+
+
+-- Safari Zone Area 3 --
+Gloom: 15% -> 0%
+Dodrio: 5% -> 10%
+Heracross: 0% -> 5%
+Torchic: 0% -> 5%
+
+//Surf//
+Psyduck: 100% -> 35%
+Goldeen: 0% -> 30%
+Golduck: 0% -> 30%
+Mudkip: 0% -> 5%
+
+
+//Fishing//
+- Good Rod
+Magikarp: 60% -> 40%
+Horsea: 0% -> 19%
+Seaking: 0% -> 1%
+
+- Super Rod
+Goldeen: 80% -> 10%
+Horsea: 0% -> 40%
+Seadra: 0% -> 15%
+Clamperl: 0% -> 13%
+Feebas: 0% -> 2% 
+
+
+-- Safari Zone Area 4 --
+Gloom: 15% -> 0%
+Xatu	: 5% -> 10%
+Heracross: 0% -> 5%
+Torchic: 0% -> 5%
+
+//Rock Smash//
+Geodude: 100% -> 60%
+Nosepass: 0% -> 40%
 
 -- Route 122 --
 
@@ -1007,22 +1128,42 @@ Gorebyss: 0% -> 4%
 Sharpedo: 40% -> 1%
 Starmie: 0% -> 1%
 
--- Shoal Cave - All low%high rooms --
+-- Shoal Cave - All low&high rooms --
 //Surf
 Tentacool: 60% -> 0%
 Spheal: 10% -> 50%
 Golbat: 0% -> 10%
 Seadra: 0% -> 10% 
 
+//Fishing//
+
+- Good Rod
+Tentacool: 20% -> 40%
+Magikarp: 60% -> 40%
+Luvdisc: 0% -> 10%
+Carvanha: 0% -> 5%
+Staryu: 0% -> 5%
+Wailmer: 20% -> 0%
+
+- Super Rod
+Wailmer: 40% -> 0%
+Luvdisc: 0% -> 30%
+Staryu: 0% -> 30%
+Carvanha: 0% -> 10%
+Carvanha: 0% -> 20%
+Huntail: 0% -> 4%
+Gorebyss: 0% -> 4%
+Sharpedo: 40% -> 1%
+Starmie: 0% -> 1%
+
 -- Shoal Cave - Ice room --
 
-Zubat: 40% -> 15%
+Zubat: 40% -> 0%
 Golbat: 5% -> 8%
-Spheal: 45% -> 35%
-Snorunt: 10% -> 35%
-Golbat: 5% -> 8%
-Sealeo: 0% -> 1%
-Glalie: 0% -> 1%
+Snorunt: 10% -> 45%
+Golbat: 5% -> 0%
+Sealeo: 0% -> 8%
+Glalie: 0% -> 2%
 
 
 -- Route 126 --
@@ -1338,6 +1479,21 @@ Carvanha: 0% -> 30%
 Sharpedo: 40% -> 10%
 Luvdisc: 0% -> 20%
 
+-- Sky Pilar 1F,3F --
+
+Sableye: 30% -> 0%
+Dusklops: 0% -> 15%
+Claydol: 25% -> 30%
+Skarmory: 0% -> 10%
+
+
+-- Sky Pilar 5F --
+Claydol: 19% -> 30%
+Sableye: 30% -> 0%
+Skarmory: 0% -> 30%
+Golbat: 30% -> 0%
+Dusklops: 0% -> 15%
+Altaria: 6% -> 10%
 
 -- Pacifidlog Town --
 

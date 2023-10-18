@@ -189,7 +189,7 @@ TM and HM:
 
 
 lvl 40
-Stats: 70 HP | 120 Atk | 55 DEF | 95 Sp. Atk | 55 Sp. Def | 110 Spe TOTAL: 505
+Stats: 70 HP | 120 Atk | 55 DEF | 90 Sp. Atk | 55 Sp. Def | 110 Spe TOTAL: 500
 Movepool:
 
 
@@ -199,7 +199,8 @@ TM and HM:
 
 /- Camerupt -/
 
-Stats: 80 HP | 100 Atk | 80 DEF | 100 Sp. Atk | 80 Sp. Def | 40 Spe TOTAL: 480
+lvl: 40
+Stats: 100 HP | 100 Atk | 80 DEF | 100 Sp. Atk | 80 Sp. Def | 45 Spe TOTAL: 505
 Movepool:
 
 
@@ -229,7 +230,7 @@ TM and HM:
 
 /- Altaria -/
 
-lvl: 42
+lvl: 44
 Stats: 100 HP | 75 Atk | 90 DEF | 75 Sp. Atk | 105 Sp. Def | 95 Spe TOTAL: 540
 Movepool:
 
