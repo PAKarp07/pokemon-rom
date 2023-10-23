@@ -26,19 +26,29 @@ Movepool:
 
 TM and HM:
 
+/- Poochyena -/
+Stats: 35 HP | 65 Atk | 35 DEF | 30 Sp. Atk | 35 Sp. Def | 40 Spe TOTAL: 240
+Movepool:
+
 
 /- Mightyena -/
 
-Lvl up: 23
-Stats: 75 HP | 110 Atk | 70 DEF | 50 Sp. Atk | 70 Sp. Def | 90 Spe TOTAL: 465
+Lvl up: 24
+Stats: 75 HP | 100 Atk | 70 DEF | 50 Sp. Atk | 70 Sp. Def | 90 Spe TOTAL: 455
 Movepool:
 
 TM and HM:
 
 
 /- Linoone -/
+Stats: 80 HP | 80 Atk | 65 DEF | 40 Sp. Atk | 65 Sp. Def | 110 Spe TOTAL: 440
+Movepool:
 
-Stats: 70 HP | 80 Atk | 65 DEF | 50 Sp. Atk | 65 Sp. Def | 100 Spe TOTAL: 440
+TM and HM:
+
+
+/- Silcoon -/
+Stats: 60 HP | 35 Atk | 60 DEF | 25 Sp. Atk | 25 Sp. Def | 15 Spe TOTAL: 220
 Movepool:
 
 TM and HM:
@@ -46,8 +56,17 @@ TM and HM:
 
 /- Beautify -/
 
+Lvl up: 12
 Type: Bug Psychic
-Stats: 60 HP | 60 Atk | 45 DEF | 120 Sp. Atk | 45 Sp. Def | 90 Spe TOTAL: 420
+Stats: 50 HP | 60 Atk | 45 DEF | 120 Sp. Atk | 45 Sp. Def | 90 Spe TOTAL: 410
+Movepool:
+
+TM and HM:
+
+
+
+/- Cascoon -/
+Stats: 60 HP | 35 Atk | 60 DEF | 25 Sp. Atk | 25 Sp. Def | 15 Spe TOTAL: 220
 Movepool:
 
 TM and HM:
@@ -55,20 +74,101 @@ TM and HM:
 
 /- Dustox -/
 
-Stats: 60 HP | 70 Atk | 95 DEF | 40 Sp. Atk | 95 Sp. Def | 60 Spe TOTAL: 420
+Lvl up: 12
+Stats: 70 HP | 30 Atk | 90 DEF | 70 Sp. Atk | 90 Sp. Def | 60 Spe TOTAL: 410
 Movepool:
 
+TM and HM:
+
+/- Lombre -/
+
+Stats: 70 HP | 50 Atk | 50 DEF | 70 Sp. Atk | 80 Sp. Def | 50 Spe TOTAL: 370
+Movepool:
+
+TM and HM:
+
+/- Ludicolo -/
+
+Stats: 90 HP | 50 Atk | 70 DEF | 100 Sp. Atk | 100 Sp. Def | 70 Spe TOTAL: 480
+Movepool:
+
+TM and HM:
+
+
+/- Nuzleaf -/
+
+Stats: 60 HP | 75 Atk | 40 DEF | 75 Sp. Atk | 40 Sp. Def | 80 Spe TOTAL: 340
+Movepool:
+
+TM and HM:
+
+
+/- Shiftry -/
+
+Stats: 70 HP | 105 Atk | 55 DEF | 105 Sp. Atk | 55 Sp. Def | 90 Spe TOTAL: 480
+Movepool:
+
+TM and HM:
+
+
+/- Pelipper -/
+
+Add "Drizzle" (menor chance se possivel)
+Movepool:
+
+TM and HM:
+
+
+/- Ralts -/
+
+Stats: 30 HP | 25 Atk | 25 DEF | 55 Sp. Atk | 55 Sp. Def | 40 Spe TOTAL: 230
+Movepool:
+
+	LVL 1 - Confusion
+TM and HM:
+
+
+/- Kirlia -/
+
+Stats: 40 HP | 35 Atk | 35 DEF | 75 Sp. Atk | 70 Sp. Def | 60 Spe TOTAL: 315
+Movepool:
+
+
+TM and HM:
+
+
+/- Gardevoir -/
+
+Stats: 70 HP | 65 Atk | 65 DEF | 125 Sp. Atk | 115 Sp. Def | 80 Spe TOTAL: 520
+Movepool:
+
+	
 TM and HM:
 
 
 /- Masquerain -/
 
-Stats: 70 HP | 60 Atk | 62 DEF | 100 Sp. Atk | 82 Sp. Def | 80 Spe TOTAL: 454 	
+Stats: 70 HP | 60 Atk | 60 DEF | 100 Sp. Atk | 80 Sp. Def | 90 Spe TOTAL: 460 	
+Type: Bug Water
 Movepool:
+
 TM and HM:
+
+
+/- Shroomish -/
+
+Stats: 60 HP | 50 Atk | 60 DEF | 50 Sp. Atk | 60 Sp. Def | 35 Spe TOTAL: 315 
+Movepool:
+
+	LVL 36 - Spore
+
+TM and HM:
+
 
 /- Breloom -/
 
+LVL up: 26
+Stats: 60 HP | 130 Atk | 80 DEF | 50 Sp. Atk | 60 Sp. Def | 90 Spe TOTAL: 480 
 Movepool:
 
 TM and HM:
