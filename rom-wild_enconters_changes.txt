@@ -988,8 +988,7 @@ Wingull: 10% -> 0%
 Shuppet: 60% -> 20%
 Duskull: 0% -> 20%
 Meditite: 0% ->	20%
-Chimecho: 0% -> 8%
-Medicham: 0% -> 1%
+Chimecho: 0% -> 9%
 Ninetales: 0% -> 1%
 
 

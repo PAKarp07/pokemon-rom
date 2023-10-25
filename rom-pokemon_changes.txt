@@ -89,7 +89,7 @@ TM and HM:
 
 /- Ludicolo -/
 
-Stats: 90 HP | 50 Atk | 70 DEF | 100 Sp. Atk | 100 Sp. Def | 70 Spe TOTAL: 480
+Stats: 100 HP | 50 Atk | 70 DEF | 95 Sp. Atk | 105 Sp. Def | 70 Spe TOTAL: 490
 Movepool:
 
 TM and HM:
@@ -105,7 +105,7 @@ TM and HM:
 
 /- Shiftry -/
 
-Stats: 70 HP | 105 Atk | 55 DEF | 105 Sp. Atk | 55 Sp. Def | 90 Spe TOTAL: 480
+Stats: 70 HP | 105 Atk | 60 DEF | 105 Sp. Atk | 60 Sp. Def | 90 Spe TOTAL: 490
 Movepool:
 
 TM and HM:
@@ -130,7 +130,7 @@ TM and HM:
 
 /- Kirlia -/
 
-Stats: 40 HP | 35 Atk | 35 DEF | 75 Sp. Atk | 70 Sp. Def | 60 Spe TOTAL: 315
+Stats: 40 HP | 35 Atk | 35 DEF | 85 Sp. Atk | 70 Sp. Def | 60 Spe TOTAL: 325
 Movepool:
 
 
@@ -139,6 +139,7 @@ TM and HM:
 
 /- Gardevoir -/
 
+Lvl up: 36
 Stats: 70 HP | 65 Atk | 65 DEF | 125 Sp. Atk | 115 Sp. Def | 80 Spe TOTAL: 520
 Movepool:
 
@@ -168,7 +169,7 @@ TM and HM:
 /- Breloom -/
 
 LVL up: 28
-Stats: 60 HP | 130 Atk | 80 DEF | 50 Sp. Atk | 60 Sp. Def | 95 Spe TOTAL: 485 
+Stats: 60 HP | 130 Atk | 80 DEF | 50 Sp. Atk | 60 Sp. Def | 90 Spe TOTAL: 480 
 Movepool:
 
 TM and HM:
@@ -188,7 +189,7 @@ TM and HM:
 
 /- Ninjask -/
 
-lvl 32
+lvl 30
 Stats: 75 HP | 90 Atk | 55 DEF | 50 Sp. Atk | 55 Sp. Def | 160 Spe TOTAL: 485	
 Movepool:
 
@@ -198,7 +199,7 @@ TM and HM:
 
 /- Shedinja -/
 
-lvl 32
+lvl 30
 Stats: 1 HP | 150 Atk | 45 DEF | 30 Sp. Atk | 30 Sp. Def | 80 Spe TOTAL: 336	
 Movepool:
 
@@ -224,7 +225,7 @@ TM and HM:
 
 /- Exploud -/
 
-Stats: 104 HP | 91 Atk | 73 DEF | 101 Sp. Atk | 73 Sp. Def | 68 Spe TOTAL: 510	
+Stats: 105 HP | 81 Atk | 78 DEF | 110 Sp. Atk | 78 Sp. Def | 68 Spe TOTAL: 520	
 Movepool:
 
 TM and HM:
@@ -242,7 +243,7 @@ TM and HM:
 /- Seaking -/
 
 lvl 30
-Stats: 80 HP | 95 Atk | 65 DEF | 65 Sp. Atk | 80 Sp. Def | 80 Spe TOTAL: 465	
+Stats: 80 HP | 95 Atk | 65 DEF | 65 Sp. Atk | 100 Sp. Def | 80 Spe TOTAL: 485	
 Movepool:
 
 TM and HM:
@@ -251,15 +252,24 @@ TM and HM:
 /- Azumarill -/
 
 lvl 26
-Stats: 110 HP | 60 Atk | 80 DEF | 40 Sp. Atk | 80 Sp. Def | 50 Spe TOTAL: 420	
+Stats: 110 HP | 55 Atk | 80 DEF | 40 Sp. Atk | 80 Sp. Def | 50 Spe TOTAL: 415	
 Movepool:
 
 TM and HM:
 
 
-/- Delcatty -/
+/- Skitty -/
 
-Stats: 70 HP | 65 Atk | 70 DEF | 65 Sp. Atk | 70 Sp. Def | 110 Spe TOTAL: 450
+Stats: 50 HP | 55 Atk | 45 DEF | 55 Sp. Atk | 45 Sp. Def | 50 Spe TOTAL: 300
+Movepool:
+
+TM and HM:
+
+
+
+/- Delcatty -/
+	
+Stats: 70 HP | 80 Atk | 80 DEF | 80 Sp. Atk | 80 Sp. Def | 90 Spe TOTAL: 485
 Movepool:
 
 TM and HM:
@@ -267,7 +277,7 @@ TM and HM:
 
 /- Sableye -/
 
-Stats: 70 HP | 85 Atk | 125 DEF | 85 Sp. Atk | 115 Sp. Def | 20 Spe TOTAL: 480
+Stats: 50 HP | 85 Atk | 125 DEF | 85 Sp. Atk | 115 Sp. Def | 20 Spe TOTAL: 480
 Movepool:
 
 
@@ -279,21 +289,61 @@ TM and HM:
 
 Type: Steel Ghost
 Stats: 70 HP | 125 Atk | 95 DEF | 55 Sp. Atk | 55 Sp. Def | 80 Spe TOTAL: 480
-ability: Intimidate
+ability: Intimidate/Strong Jaw
 Movepool:
 
 
 TM and HM:
+
+/- Meditite -/
+
+Stats: 30 HP | 50 Atk | 55 DEF | 40 Sp. Atk | 55 Sp. Def | 60 Spe TOTAL: 290
+Movepool:	
+
+
+TM and HM:
+
 
 
 
 /- Medicham -/
 
-Stats: 60 HP | 80 Atk | 75 DEF | 45 Sp. Atk | 75 Sp. Def | 100 Spe TOTAL: 435
+lvl up: 40
+Stats: 70 HP | 75 Atk | 75 DEF | 45 Sp. Atk | 75 Sp. Def | 105 Spe TOTAL: 445
 Movepool:
 
 
 TM and HM:
+
+
+/- Manectric -/
+
+lvl up: 40
+Stats: 70 HP | 70 Atk | 60 DEF | 105 Sp. Atk | 60 Sp. Def | 120 Spe TOTAL: 485
+Movepool:
+
+
+TM and HM:
+
+
+/- Plusle -/
+
+Stats: 60 HP | 40 Atk | 50 DEF | 85 Sp. Atk | 95 Sp. Def | 100 Spe TOTAL: 430
+Movepool:
+
+
+TM and HM:
+
+
+
+/- Minun -/
+
+Stats: 60 HP | 40 Atk | 95 DEF | 85 Sp. Atk | 50 Sp. Def | 100 Spe TOTAL: 430
+Movepool:
+
+
+TM and HM:
+
 
 
 
