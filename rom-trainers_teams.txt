@@ -4,13 +4,13 @@
 
 - Roxanne
 
-1. Aron (Lead) LVL 14 ivs 25 all
+1. Aron (Lead) LVL 14 ivs 31 all
         	Item: N/A
 		Ability: Sturdy
 		Nature: Adamant (+Atk; -Sp. Atk)
 		Moveset: Metal Claw; Rock Tomb; Headbutt; Sandstorm
 		
-2. Nosepass LVL 15 ivs 25 all
+2. Nosepass LVL 15 ivs 31 all
 		Item: N/A
 		Ability: Sturdy
 		Nature: Careful (+Sp. Def; -Sp. Atk)
@@ -26,19 +26,19 @@
 ----
 - Brawly
 
-1. Meditite (Lead) LVL 16 ivs 25 all
+1. Meditite (Lead) LVL 16 ivs 31 all
         	Item: N/A
 		Ability: Pure Power
 		Nature: Impish (+Def; -Sp. Atk)
 		Moveset: Light Screen; Reflect; Fake Out; Brick Break
 		
-2. Machop LVL 17; ivs 25 all
+2. Machop LVL 17; ivs 31 all
 		Item: N/A
 		Ability: No Guard
 		Nature: Adamant (+Atk; -Sp. Atk)
 		Moveset: Bulk Up; Fire Punch; Karate Chop; Mega Punch
 		
-3. Makuhita LVL 18; ivs 25 all
+3. Makuhita LVL 18; ivs 31 all
 		Item: N/A
 		Ability: Thick Fat
 		Nature: Adamant (+Atk; -Sp. Atk)

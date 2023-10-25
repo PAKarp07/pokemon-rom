@@ -160,15 +160,15 @@ TM and HM:
 Stats: 60 HP | 50 Atk | 60 DEF | 50 Sp. Atk | 60 Sp. Def | 35 Spe TOTAL: 315 
 Movepool:
 
-	LVL 36 - Spore
+	LVL 40 - Spore
 
 TM and HM:
 
 
 /- Breloom -/
 
-LVL up: 26
-Stats: 60 HP | 130 Atk | 80 DEF | 50 Sp. Atk | 60 Sp. Def | 90 Spe TOTAL: 480 
+LVL up: 28
+Stats: 60 HP | 130 Atk | 80 DEF | 50 Sp. Atk | 60 Sp. Def | 95 Spe TOTAL: 485 
 Movepool:
 
 TM and HM:
@@ -188,8 +188,8 @@ TM and HM:
 
 /- Ninjask -/
 
-lvl 30
-Stats: 61 HP | 90 Atk | 55 DEF | 55 Sp. Atk | 55 Sp. Def | 160 Spe TOTAL: 476	
+lvl 32
+Stats: 75 HP | 90 Atk | 55 DEF | 50 Sp. Atk | 55 Sp. Def | 160 Spe TOTAL: 485	
 Movepool:
 
 TM and HM:
@@ -198,16 +198,42 @@ TM and HM:
 
 /- Shedinja -/
 
-lvl 30
-Stats: 1 HP | 150 Atk | 50 DEF | 30 Sp. Atk | 50 Sp. Def | 80 Spe TOTAL: 311	
+lvl 32
+Stats: 1 HP | 150 Atk | 45 DEF | 30 Sp. Atk | 30 Sp. Def | 80 Spe TOTAL: 336	
 Movepool:
 
 TM and HM:
 
 
+/- Whismur -/
+
+Stats: 64 HP | 51 Atk | 33 DEF | 61 Sp. Atk | 33 Sp. Def | 28 Spe TOTAL: 270	
+Movepool:
+
+TM and HM:
+
+
+/- Loudred -/
+
+Stats: 84 HP | 71 Atk | 53 DEF | 81 Sp. Atk | 53 Sp. Def | 48 Spe TOTAL: 390	
+Movepool:
+
+TM and HM:
+
+
+
 /- Exploud -/
 
-Stats: 104 HP | 91 Atk | 73 DEF | 91 Sp. Atk | 73 Sp. Def | 78 Spe TOTAL: 510	
+Stats: 104 HP | 91 Atk | 73 DEF | 101 Sp. Atk | 73 Sp. Def | 68 Spe TOTAL: 510	
+Movepool:
+
+TM and HM:
+
+
+/- Hariyama -/
+
+lvl 32
+Stats: 140 HP | 120 Atk | 70 DEF | 40 Sp. Atk | 70 Sp. Def | 50 Spe TOTAL: 490	
 Movepool:
 
 TM and HM:
@@ -215,12 +241,20 @@ TM and HM:
 
 /- Seaking -/
 
-lvl:30
-
+lvl 30
+Stats: 80 HP | 95 Atk | 65 DEF | 65 Sp. Atk | 80 Sp. Def | 80 Spe TOTAL: 465	
 Movepool:
 
 TM and HM:
 
+
+/- Azumarill -/
+
+lvl 26
+Stats: 110 HP | 60 Atk | 80 DEF | 40 Sp. Atk | 80 Sp. Def | 50 Spe TOTAL: 420	
+Movepool:
+
+TM and HM:
 
 
 /- Delcatty -/
