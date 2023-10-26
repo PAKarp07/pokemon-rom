@@ -111,6 +111,14 @@ Movepool:
 TM and HM:
 
 
+/- Swellow -/
+
+Stats: 60 HP | 90 Atk | 60 DEF | 65 Sp. Atk | 60 Sp. Def | 125 Spe TOTAL: 460
+Movepool:
+
+TM and HM:
+
+
 /- Pelipper -/
 
 Add "Drizzle" (menor chance se possivel)
@@ -176,6 +184,17 @@ TM and HM:
 
 
 
+/- Alakazam -/
+
+lvl 45
+Stats: 60 HP | 50 Atk | 65 DEF | 145 Sp. Atk | 95 Sp. Def | 120 Spe TOTAL: 535	
+Movepool:
+
+TM and HM:
+
+
+
+
 
 /- Nincada -/
 
@@ -234,7 +253,7 @@ TM and HM:
 /- Hariyama -/
 
 lvl 32
-Stats: 140 HP | 120 Atk | 70 DEF | 40 Sp. Atk | 70 Sp. Def | 50 Spe TOTAL: 490	
+Stats: 140 HP | 110 Atk | 70 DEF | 40 Sp. Atk | 70 Sp. Def | 50 Spe TOTAL: 480	
 Movepool:
 
 TM and HM:
@@ -258,6 +277,23 @@ Movepool:
 TM and HM:
 
 
+/- Golem -/
+
+lvl 40
+Stats: 90 HP | 120 Atk | 130 DEF | 55 Sp. Atk | 80 Sp. Def | 50 Spe TOTAL: 525	
+Movepool:
+
+TM and HM:
+
+
+/- Nosepass -/
+
+Stats: 75 HP | 45 Atk | 125 DEF | 45 Sp. Atk | 90 Sp. Def | 30 Spe TOTAL: 410	
+Movepool:
+
+TM and HM:
+
+
 /- Skitty -/
 
 Stats: 50 HP | 55 Atk | 45 DEF | 55 Sp. Atk | 45 Sp. Def | 50 Spe TOTAL: 300
@@ -273,6 +309,24 @@ Stats: 70 HP | 80 Atk | 80 DEF | 80 Sp. Atk | 80 Sp. Def | 90 Spe TOTAL: 485
 Movepool:
 
 TM and HM:
+
+
+
+/- Zubat -/
+
+Stats: 40 HP | 55 Atk | 35 DEF | 30 Sp. Atk | 40 Sp. Def | 60 Spe TOTAL: 260
+Movepool:
+
+TM and HM:
+
+
+/- Crobat -/
+
+Stats: 85 HP | 90 Atk | 80 DEF | 70 Sp. Atk | 80 Sp. Def | 120 Spe TOTAL: 525
+Movepool:
+
+TM and HM:
+
 
 
 /- Sableye -/
@@ -292,8 +346,34 @@ Stats: 70 HP | 125 Atk | 95 DEF | 55 Sp. Atk | 55 Sp. Def | 80 Spe TOTAL: 480
 ability: Intimidate/Strong Jaw
 Movepool:
 
+TM and HM:
+
+
+/- Lairon -/
+
+LVL up 28
+
+Movepool:
 
 TM and HM:
+
+
+/- Aggron -/
+
+Stats: 80 HP | 110 Atk | 180 DEF | 50 Sp. Atk | 70 Sp. Def | 50 Spe TOTAL: 540
+Movepool:
+
+TM and HM:
+
+
+/- Machamp -/
+
+lvl 38
+Stats: 90 HP | 135 Atk | 80 DEF | 65 Sp. Atk | 85 Sp. Def | 60 Spe TOTAL: 515
+Movepool:
+
+TM and HM:
+
 
 /- Meditite -/
 
@@ -309,7 +389,7 @@ TM and HM:
 /- Medicham -/
 
 lvl up: 40
-Stats: 70 HP | 75 Atk | 75 DEF | 45 Sp. Atk | 75 Sp. Def | 105 Spe TOTAL: 445
+Stats: 70 HP | 70 Atk | 75 DEF | 45 Sp. Atk | 75 Sp. Def | 100 Spe TOTAL: 435
 Movepool:
 
 
@@ -319,7 +399,7 @@ TM and HM:
 /- Manectric -/
 
 lvl up: 40
-Stats: 70 HP | 70 Atk | 60 DEF | 105 Sp. Atk | 60 Sp. Def | 120 Spe TOTAL: 485
+Stats: 70 HP | 70 Atk | 60 DEF | 100 Sp. Atk | 60 Sp. Def | 125 Spe TOTAL: 485
 Movepool:
 
 
