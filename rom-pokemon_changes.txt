@@ -425,11 +425,96 @@ Movepool:
 TM and HM:
 
 
+/- Magneton -/
+
+Stats: 65 HP | 60 Atk | 100 DEF | 120 Sp. Atk | 80 Sp. Def | 60 Spe TOTAL: 485
+Movepool:
 
 
+TM and HM:
+
+
+
+/- Electrode -/
+
+Type: Electric/Steel
+Stats: 60 HP | 50 Atk | 70 DEF | 90 Sp. Atk | 80 Sp. Def | 150 Spe TOTAL: 500
+Movepool:
+
+
+TM and HM:
+
+
+/- Volbeat -/
+
+Stats: 85 HP | 75 Atk | 75 DEF | 47 Sp. Atk | 85 Sp. Def | 85 Spe TOTAL: 452
+Movepool:
+
+
+TM and HM:
+
+/- Illumise -/
+
+Stats: 85 HP | 47 Atk | 85 DEF | 75 Sp. Atk | 75 Sp. Def | 85 Spe TOTAL: 452
+Movepool:
+
+
+TM and HM:
+
+
+
+/- Gloom -/
+
+Movepool:
+
+
+TM and HM:
+
+
+/- Vileplume -/
+
+Movepool:
+
+
+TM and HM:
+
+
+
+/- Bellossom -/
+
+Movepool:
+
+
+TM and HM:
+
+
+/- Dodrio -/
+
+Movepool:
+
+
+TM and HM:
+
+	Remove Fly
+	
+	
+	
+	
+/- Roselia -/
+
+Stats: 60 HP | 60 Atk | 60 DEF | 110 Sp. Atk | 90 Sp. Def | 75 Spe TOTAL: 455
+Movepool:
+
+
+TM and HM:
+
+
+
+
+	
 /- Swalot -/
 
-Stats: 105 HP | 83 Atk | 83 DEF | 63 Sp. Atk | 83 Sp. Def | 55 Spe TOTAL: 472
+Stats: 120 HP | 77 Atk | 83 DEF | 77 Sp. Atk | 83 Sp. Def | 40 Spe TOTAL: 480
 Movepool:
 
 
@@ -463,12 +548,42 @@ TM and HM:
 
 /- Camerupt -/
 
-lvl: 40
-Stats: 100 HP | 100 Atk | 80 DEF | 100 Sp. Atk | 80 Sp. Def | 45 Spe TOTAL: 505
+lvl: 42
+Stats: 100 HP | 110 Atk | 80 DEF | 110 Sp. Atk | 80 Sp. Def | 45 Spe TOTAL: 525
 Movepool:
 
 
 TM and HM:
+
+
+/- Slugma -/
+
+Stats: 40 HP | 40 Atk | 50 DEF | 80 Sp. Atk | 50 Sp. Def | 20 Spe TOTAL: 280
+Movepool:
+
+
+TM and HM:
+
+
+/- Magcargo -/
+
+Stats: 90 HP | 50 Atk | 120 DEF | 102 Sp. Atk | 102 Sp. Def | 30 Spe TOTAL: 494
+Movepool:
+
+
+TM and HM:
+
+
+/- Torkoal -/
+
+ability: drought
+Movepool:
+
+
+TM and HM:
+
+
+
 
 
 
