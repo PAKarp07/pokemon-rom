@@ -34,7 +34,7 @@ Movepool:
 /- Mightyena -/
 
 Lvl up: 24
-Stats: 75 HP | 100 Atk | 70 DEF | 50 Sp. Atk | 70 Sp. Def | 90 Spe TOTAL: 455
+Stats: 75 HP | 100 Atk | 70 DEF | 50 Sp. Atk | 70 Sp. Def | 95 Spe TOTAL: 460
 Movepool:
 
 TM and HM:
@@ -48,7 +48,7 @@ TM and HM:
 
 
 /- Silcoon -/
-Stats: 60 HP | 35 Atk | 60 DEF | 25 Sp. Atk | 25 Sp. Def | 15 Spe TOTAL: 220
+Stats: 60 HP | 35 Atk | 60 DEF | 25 Sp. Atk | 55 Sp. Def | 15 Spe TOTAL: 250
 Movepool:
 
 TM and HM:
@@ -57,8 +57,7 @@ TM and HM:
 /- Beautify -/
 
 Lvl up: 12
-Type: Bug Psychic
-Stats: 50 HP | 60 Atk | 45 DEF | 120 Sp. Atk | 45 Sp. Def | 90 Spe TOTAL: 410
+Stats: 50 HP | 65 Atk | 45 DEF | 120 Sp. Atk | 45 Sp. Def | 90 Spe TOTAL: 415
 Movepool:
 
 TM and HM:
@@ -66,7 +65,7 @@ TM and HM:
 
 
 /- Cascoon -/
-Stats: 60 HP | 35 Atk | 60 DEF | 25 Sp. Atk | 25 Sp. Def | 15 Spe TOTAL: 220
+Stats: 60 HP | 35 Atk | 60 DEF | 25 Sp. Atk | 55 Sp. Def | 15 Spe TOTAL: 250
 Movepool:
 
 TM and HM:
@@ -75,7 +74,7 @@ TM and HM:
 /- Dustox -/
 
 Lvl up: 12
-Stats: 70 HP | 30 Atk | 90 DEF | 70 Sp. Atk | 90 Sp. Def | 60 Spe TOTAL: 410
+Stats: 70 HP | 30 Atk | 90 DEF | 80 Sp. Atk | 90 Sp. Def | 55 Spe TOTAL: 415
 Movepool:
 
 TM and HM:
@@ -147,8 +146,8 @@ TM and HM:
 
 /- Gardevoir -/
 
-Lvl up: 36
-Stats: 70 HP | 65 Atk | 65 DEF | 125 Sp. Atk | 115 Sp. Def | 80 Spe TOTAL: 520
+Lvl up: 42
+Stats: 65 HP | 65 Atk | 65 DEF | 125 Sp. Atk | 115 Sp. Def | 80 Spe TOTAL: 515
 Movepool:
 
 	
@@ -157,8 +156,8 @@ TM and HM:
 
 /- Masquerain -/
 
-Stats: 70 HP | 60 Atk | 60 DEF | 100 Sp. Atk | 80 Sp. Def | 90 Spe TOTAL: 460 	
 Type: Bug Water
+Stats: 70 HP | 60 Atk | 60 DEF | 100 Sp. Atk | 80 Sp. Def | 90 Spe TOTAL: 460 	
 Movepool:
 
 TM and HM:
@@ -545,6 +544,16 @@ Movepool:
 TM and HM:
 
 
+/- Wailord -/
+
+
+Movepool:
+
+
+TM and HM:
+
+
+
 
 /- Camerupt -/
 
@@ -583,6 +592,43 @@ Movepool:
 TM and HM:
 
 
+/- Muk -/
+
+Movepool:
+
+
+TM and HM:
+
+
+
+/- Weezing -/
+
+Stats: 75 HP | 75 Atk | 120 DEF | 90 Sp. Atk | 80 Sp. Def | 60 Spe TOTAL: 500
+Movepool:
+
+
+TM and HM:
+
+
+
+/- Grumpig -/
+
+Stats: 85 HP | 45 Atk | 65 DEF | 95 Sp. Atk | 115 Sp. Def | 80 Spe TOTAL: 485
+Movepool:
+
+
+TM and HM:
+
+
+
+/- Sandslash -/
+
+ability -> create an where slash type moves are 50% more effective "Sharp Claws"
+Stats: 75 HP | 100 Atk | 110 DEF | 45 Sp. Atk | 55 Sp. Def | 80 Spe TOTAL: 465
+Movepool:
+
+
+TM and HM:
 
 
 
@@ -594,6 +640,26 @@ Movepool:
 
 
 TM and HM:
+
+
+
+/- Skarmory -/
+
+Stats: 75 HP | 80 Atk | 140 DEF | 40 Sp. Atk | 90 Sp. Def | 70 Spe TOTAL: 495
+Movepool:
+
+
+TM and HM:
+
+
+/- Flygon -/
+
+Movepool:
+
+
+TM and HM:
+
+
 
 
 /- Swablu -/
@@ -609,19 +675,30 @@ TM and HM:
 
 /- Altaria -/
 
-lvl: 44
-Stats: 100 HP | 75 Atk | 90 DEF | 75 Sp. Atk | 105 Sp. Def | 95 Spe TOTAL: 540
+lvl: 45
+Stats: 100 HP | 75 Atk | 95 DEF | 75 Sp. Atk | 115 Sp. Def | 80 Spe TOTAL: 540
 Movepool:
 
 
 TM and HM:
 
+
+/- Zangooze -/
+
+
+ability -> create an where slash type moves are 50% more effective "Sharp Claws"
+Type: Normal Dark
+Stats: 75 HP | 120 Atk | 60 DEF | 60 Sp. Atk | 60 Sp. Def | 100 Spe TOTAL: 475
+Movepool:
+
+
+TM and HM:
 
 
 /- Seviper -/
 
 Type: Poison Dark
-Stats: 83 HP | 115 Atk | 60 DEF | 60 Sp. Atk | 60 Sp. Def | 80 Spe TOTAL: 458
+Stats: 95 HP | 120 Atk | 60 DEF | 60 Sp. Atk | 60 Sp. Def | 80 Spe TOTAL: 475
 Movepool:
 
 
@@ -629,8 +706,22 @@ TM and HM:
 
 
 
+/- Lunatone -/
+
+
+Stats: 95 HP | 60 Atk | 65 DEF | 95 Sp. Atk | 90 Sp. Def | 70 Spe TOTAL: 475
+Movepool:
+
+
+TM and HM:
+
+
+
+
 /- Solrock -/
 
+
+Stats: 95 HP | 60 Atk | 90 DEF | 95 Sp. Atk | 65 Sp. Def | 70 Spe TOTAL: 475
 Movepool:
 
 
@@ -641,7 +732,7 @@ TM and HM:
 
 /- Whiscash -/
 
-Stats: 110 HP | 75 Atk | 70 DEF | 75 Sp. Atk | 90 Sp. Def | 60 Spe TOTAL: 480
+Stats: 110 HP | 80 Atk | 70 DEF | 80 Sp. Atk | 90 Sp. Def | 60 Spe TOTAL: 490
 Movepool:
 
 TM and HM:
@@ -658,11 +749,68 @@ TM and HM:
 
 
 
+/- Cradily -/
+
+Stats: 90 HP | 80 Atk | 110 DEF | 80 Sp. Atk | 110 Sp. Def | 50 Spe TOTAL: 520
+Movepool:
+
+
+TM and HM:
+
+
+/- Armaldo -/
+
+Stats: 70 HP | 125 Atk | 100 DEF | 70 Sp. Atk | 90 Sp. Def | 65 Spe TOTAL: 520
+Movepool:
+
+
+TM and HM:
+
+
+
+/- Wigglytuff -/
+
+Stats: 140 HP | 70 Atk | 80 DEF | 90 Sp. Atk | 60 Sp. Def | 45 Spe TOTAL: 485
+Movepool:
+
+
+TM and HM:
+
+
+/- Feebas -/
+
+Stats: 40 HP | 20 Atk | 30 DEF | 50 Sp. Atk | 55 Sp. Def | 80 Spe TOTAL: 275
+Movepool:
+
+
+
+/- Milotic -/
+
+Lvl up 45
+Movepool:
+
+
+TM and HM:
+
+
+
 /- Castform -/
 
 Stats: 80 HP | 80 Atk | 80 DEF | 80 Sp. Atk | 80 Sp. Def | 80 Spe TOTAL: 480
 Movepool:
+
 TM and HM:
+
+
+/- Kecleon -/
+
+Stats: 80 HP | 95 Atk | 70 DEF | 60 Sp. Atk | 120 Sp. Def | 50 Spe TOTAL: 475
+Movepool:
+
+
+TM and HM:
+
+
 
 
 /- Banette -/
@@ -678,7 +826,7 @@ TM and HM:
 
 /- Duskclops -/
 
-Stats: 65 HP | 85 Atk | 130 DEF | 60 Sp. Atk | 130 Sp. Def | 25 Spe TOTAL: 495
+Stats: 70 HP | 85 Atk | 130 DEF | 60 Sp. Atk | 130 Sp. Def | 20 Spe TOTAL: 495
 Movepool:
 
 
@@ -689,7 +837,7 @@ TM and HM:
 
 /- Tropius -/
 
-Stats: 99 HP | 58 Atk | 85 DEF | 82 Sp. Atk | 85 Sp. Def | 51 Spe TOTAL: 460
+Stats: 105 HP | 58 Atk | 85 DEF | 92 Sp. Atk | 88 Sp. Def | 61 Spe TOTAL: 489
 Movepool:
 
 
@@ -706,6 +854,64 @@ Movepool:
 
 
 TM and HM:
+
+
+
+/- Raichu -/
+
+Stats: 60 HP | 95 Atk | 55 DEF | 95 Sp. Atk | 80 Sp. Def | 110 Spe TOTAL: 495
+Movepool:
+
+
+
+TM and HM:
+
+
+/- Golduck -/
+
+Type: Water Psychic
+
+Movepool:
+
+
+
+TM and HM:
+
+
+
+/- Xatu -/
+
+Stats: 65 HP | 75 Atk | 70 DEF | 95 Sp. Atk | 80 Sp. Def | 95 Spe TOTAL: 480
+
+Movepool:
+
+
+
+TM and HM:
+
+
+
+/- Girafarig -/
+
+Stats: 70 HP | 80 Atk | 65 DEF | 100 Sp. Atk | 65 Sp. Def | 105 Spe TOTAL: 485
+
+Movepool:
+
+
+
+TM and HM:
+
+
+/- Rhydon -/
+
+Stats: 100 HP | 130 Atk | 120 DEF | 45 Sp. Atk | 65 Sp. Def | 40 Spe TOTAL: 500
+
+Movepool:
+
+
+
+TM and HM:
+
 
 
 
@@ -732,17 +938,6 @@ Movepool:
 TM and HM:
 
 
-
-
-/- Luvdisc -/
-
-
-Stats: 55 HP | 30 Atk | 55 DEF | 95 Sp. Atk | 65 Sp. Def | 100 Spe TOTAL: 395
-Movepool:
-
-
-TM and HM:
-
 /- Clamperl -/
 
 lvl 38: Male -> Huntail; Female -> Gorebyss
@@ -768,6 +963,38 @@ TM and HM:
 /- Gorebyss -/
 
 Stats: 55 HP | 60 Atk | 105 DEF | 110 Sp. Atk | 75 Sp. Def | 80 Spe TOTAL: 485
+Movepool:
+
+
+TM and HM:
+
+
+
+/- Relicanth -/
+
+Stats: 100 HP | 90 Atk | 130 DEF | 45 Sp. Atk | 75 Sp. Def | 55 Spe TOTAL: 495
+Movepool:
+
+
+TM and HM:
+
+
+
+/- Corsola -/
+
+Stats: 95 HP | 55 Atk | 105 DEF | 75 Sp. Atk | 105 Sp. Def | 35 Spe TOTAL: 470
+Movepool:
+
+
+TM and HM:
+
+
+
+
+/- Luvdisc -/
+
+
+Stats: 55 HP | 30 Atk | 55 DEF | 95 Sp. Atk | 65 Sp. Def | 100 Spe TOTAL: 395
 Movepool:
 
 
