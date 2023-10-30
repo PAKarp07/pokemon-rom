@@ -1,7 +1,6 @@
 //------------// Pokemons Changes //------------//
 
-/- Treecko ->
-
+/- Treecko -/
 Movepool:
 
 	LVL 12 - Detect
@@ -9,7 +8,7 @@ Movepool:
 TM and HM:
 
 
-/- Grovyle ->
+/- Grovyle -/
 
 Movepool:
 
@@ -964,7 +963,7 @@ TM and HM:
 
 Stats: 55 HP | 60 Atk | 105 DEF | 110 Sp. Atk | 75 Sp. Def | 80 Spe TOTAL: 485
 Movepool:
-
+	
 
 TM and HM:
 
@@ -990,15 +989,49 @@ TM and HM:
 
 
 
+/- Lanturn -/
 
-/- Luvdisc -/
-
-
-Stats: 55 HP | 30 Atk | 55 DEF | 95 Sp. Atk | 65 Sp. Def | 100 Spe TOTAL: 395
+LVL up 32
+Stats: 125 HP | 58 Atk | 78 DEF | 86 Sp. Atk | 86 Sp. Def | 67 Spe TOTAL: 495
 Movepool:
 
 
 TM and HM:
+
+
+
+/- Luvdisc -/
+
+
+Stats: 55 HP | 30 Atk | 55 DEF | 100 Sp. Atk | 65 Sp. Def | 110 Spe TOTAL: 415
+Movepool:
+
+
+TM and HM:
+
+
+
+
+/- Kingdra -/
+
+LVL up: 48 (add dragon scale later)
+Stats: 75 HP | 95 Atk | 95 DEF | 95 Sp. Atk | 95 Sp. Def | 95 Spe TOTAL: 550
+Movepool:
+
+
+TM and HM:
+
+
+/- Beldum -/
+
+
+Movepool:
+
+	LVL 1 - Tackle
+	LVL 15 - Take Down
+
+TM and HM:
+
 
 
 
