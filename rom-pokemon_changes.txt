@@ -3,7 +3,8 @@
 /- Treecko -/
 Movepool:
 
-	LVL 12 - Detect
+	LVL 14 - Detect
+	LVL 43 - Giga Drain
 
 TM and HM:
 
@@ -13,6 +14,10 @@ TM and HM:
 Movepool:
 
 	LVL 12 - Detect
+	LVL 25 - Dual Chop (novo)
+	LVL 33 - Giga Drain
+	
+	Tirar False Swipe
 
 TM and HM:
 
@@ -22,7 +27,17 @@ TM and HM:
 
 Type: Grass Dragon
 Movepool:
-
+	
+	LVL 
+	LVL 12 - Detect
+	LVL 30 - Giga Drain
+	LVL 36 - Double Team
+	LVL 51 - Dragon Claw
+	LVL 56 - Endeavor
+	
+	
+	Tirar False Swipe
+	
 TM and HM:
 
 /- Poochyena -/

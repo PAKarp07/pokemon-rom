@@ -1,2 +1,12 @@
 //------------// Pokemon Moves Changes //------------//
 
+/-- Moves to add --/
+
+Dual Chop (gen 5)
+
+/-- Moves to update --/
+
+
+Leaf Blade - update last gen
+
+False Swipe - add as TM & sell on mart
