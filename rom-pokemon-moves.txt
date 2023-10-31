@@ -8,6 +8,15 @@ Leaf Storm (gen 4)
 Flame Charge (gen 5)
 Flare Blitz (gen 4)
 Close Combat (gen 4)
+Bullet Punch (gen 4)
+Bulldoze (gen 4)
+Fire Fang (gen 4)
+Thunder Fang (gen 4)
+Ice Fang (gen 4)
+Psychic Fangs (gen 7)
+Shadow Claw (gen 4)
+Hone Claws (gen 5)
+Lash Out (gen 9, with changes)
 
 /-- Moves to update --/
 
