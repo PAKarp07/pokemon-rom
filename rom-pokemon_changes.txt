@@ -87,6 +87,40 @@ Movepool:
 	
 TM and HM:
 
+
+
+/- Torchic -/
+
+Movepool:
+	
+	LVL 1 - Growl
+	LVL 1 - Scratch
+	LVL 6 - Ember
+	LVL 9 - Focus Energy
+	LVL 11 - Quick Attack
+	LVL 12 - Sand-Attack
+	LVL 14 - Flame Charge (novo)
+	LVL 16 - Peck
+	lvl 18 - Aerial Ace
+	LVL 21 - Fire Spin
+	LVL 28 - Slash
+	LVL 30 - Bounce
+	LVL 35 - Flamethrower
+	LVL 38 - Feather Dance
+	LVL 42 - Reversal
+	LVL 46 - Fire Blitz (novo)
+	
+TM and HM:
+
+/- Combusken -/
+
+Movepool:
+
+
+	
+TM and HM:
+
+
 /- Poochyena -/
 Stats: 35 HP | 65 Atk | 35 DEF | 30 Sp. Atk | 35 Sp. Def | 40 Spe TOTAL: 240
 Movepool:

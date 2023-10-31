@@ -3,6 +3,11 @@
 /-- Moves to add --/
 
 Dual Chop (gen 5)
+Energy Ball (gen 4)	
+Leaf Storm (gen 4)
+Flame Charge (gen 5)
+Flare Blitz (gen 4)
+Close Combat (gen 4)
 
 /-- Moves to update --/
 
