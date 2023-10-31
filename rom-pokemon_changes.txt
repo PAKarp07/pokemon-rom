@@ -2,10 +2,26 @@
 
 /- Treecko -/
 Movepool:
-
-	LVL 14 - Detect
+	
+	
+	LVL 1 - Leer
+	LVL 1 - Pound
+	LVL 6 - Absorb
+	LVL 11 - Quick Attack
+	LVL 12 - Detect
+	LVL 14 - Pursuit
+	LVL 16 - Mega Drain
+	LVL 21 - Screech
+	LVL 23 - Dual Chop (novo)
+	LVL 26 - Mega Drain
+	LVL 28 - Double Team
+	LVL 31 - Agility
+	LVL 36 - Slam
 	LVL 43 - Giga Drain
-
+	LVL 48 - Energy Ball (novo)
+	LVL 51 - Endeavor
+	LVL 55 - Leaf Storm (novo)
+	
 TM and HM:
 
 
@@ -13,12 +29,29 @@ TM and HM:
 
 Movepool:
 
-	LVL 12 - Detect
-	LVL 25 - Dual Chop (novo)
-	LVL 33 - Giga Drain
-	
-	Tirar False Swipe
 
+	LVL 1 - Absorb
+	LVL 1 - Leer
+	LVL 1 - Pound
+	LVL 1 - Quick Attack
+	LVL 6 - Absorb
+	LVL 11 - Quick Attack
+	LVL 12 - Detect
+	LVL 14 - Pursuit
+	LVL 16 - Mega Drain
+	LVL 17 - Fury Cutter
+	LVL 23 - Screech
+	LVL 25 - Dual Chop (novo)
+	LVL 29 - Leaf Blade
+	LVL 32 - Double Team
+	LVL 35 - Agility
+	LVL 41 - Slam
+	LVL 43 - Giga Drain
+	LVL 48 - Energy Ball (novo)
+	LVL 51 - Endeavor
+	LVL 55 - Leaf Storm (novo)
+	
+	
 TM and HM:
 
 
@@ -28,15 +61,29 @@ TM and HM:
 Type: Grass Dragon
 Movepool:
 	
-	LVL 
+	LVL 1 - Dual Chop (novo)
+	LVL 1 - Absorb
+	LVL 1 - Quick Attack
+	LVL 1 - Leer
+	LVL 6 - Absorb
+	LVL 11 - Quick Attack
 	LVL 12 - Detect
-	LVL 30 - Giga Drain
-	LVL 36 - Double Team
+	LVL 14 - Pursuit
+	LVL 16 - Mega Drain
+	LVL 17 - Fury Cutter
+	LVL 23 - Screech
+	LVL 25 - Dual Chop (novo)
+	LVL 29 - Leaf Blade
+	LVL 32 - Double Team
+	LVL 35 - Agility
+	LVL 41 - Slam
+	LVL 42 - Giga Drain
+	LVL 46 - Energy Ball (novo)
+	LVL 48 - Endeavor
 	LVL 51 - Dragon Claw
-	LVL 56 - Endeavor
+	LVL 55 - Leaf Storm (novo)
 	
 	
-	Tirar False Swipe
 	
 TM and HM:
 
@@ -44,6 +91,7 @@ TM and HM:
 Stats: 35 HP | 65 Atk | 35 DEF | 30 Sp. Atk | 35 Sp. Def | 40 Spe TOTAL: 240
 Movepool:
 
+TM and HM:
 
 /- Mightyena -/
 
