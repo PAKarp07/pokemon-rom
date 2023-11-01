@@ -16,7 +16,19 @@ Ice Fang (gen 4)
 Psychic Fangs (gen 7)
 Shadow Claw (gen 4)
 Hone Claws (gen 5)
-Lash Out (gen 9, with changes)
+Lash Out (gen 9, with changes, pwr=100, acc=90, 10% flinch)
+Baby-Doll Eyes (gen 6)
+Bug Bite (gen 4, without eating berry effect)
+Struggle Bug (gen 4)
+Bug Buzz (gen 4)
+Quiver Dance (gen 5)
+Scald (gen 5, without thaw it while frozen)
+Zen Headbutt (gen 4)
+Leaf Tornado (gen 5)
+Grass Pledge (gen 5, without special requirements)
+Dual Wingbeat (gen 8)
+Brave Bird (gen 4)
+Liquidation (gen 7)
 
 /-- Moves to update --/
 
@@ -24,3 +36,11 @@ Lash Out (gen 9, with changes)
 Leaf Blade - update last gen
 
 False Swipe - add as TM & sell on mart
+
+Razor Wind - flying type -> power 110
+
+Pursuit - Power = 55
+
+Bullet Seed - update last gen
+
+Knock Off (pwr=85)

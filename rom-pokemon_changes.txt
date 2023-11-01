@@ -9,18 +9,18 @@ Movepool:
 	LVL 6 - Absorb
 	LVL 11 - Quick Attack
 	LVL 12 - Detect
-	LVL 14 - Pursuit
+	LVL 14 - Pursuit (updated)
 	LVL 16 - Mega Drain
 	LVL 21 - Screech
-	LVL 23 - Dual Chop (novo)
+	LVL 23 - Dual Chop (gen 5)
 	LVL 26 - Mega Drain
 	LVL 28 - Double Team
 	LVL 31 - Agility
 	LVL 36 - Slam
 	LVL 43 - Giga Drain
-	LVL 48 - Energy Ball (novo)
+	LVL 48 - Energy Ball (gen 4)
 	LVL 51 - Endeavor
-	LVL 55 - Leaf Storm (novo)
+	LVL 55 - Leaf Storm (gen 4)
 	
 TM and HM:
 
@@ -37,19 +37,19 @@ Movepool:
 	LVL 6 - Absorb
 	LVL 11 - Quick Attack
 	LVL 12 - Detect
-	LVL 14 - Pursuit
+	LVL 14 - Pursuit (updated)
 	LVL 16 - Mega Drain
 	LVL 17 - Fury Cutter
 	LVL 23 - Screech
-	LVL 25 - Dual Chop (novo)
-	LVL 29 - Leaf Blade
+	LVL 25 - Dual Chop (gen 5)
+	LVL 29 - Leaf Blade (updated)
 	LVL 32 - Double Team
 	LVL 35 - Agility
 	LVL 41 - Slam
 	LVL 43 - Giga Drain
-	LVL 48 - Energy Ball (novo)
+	LVL 48 - Energy Ball (gen 4)
 	LVL 51 - Endeavor
-	LVL 55 - Leaf Storm (novo)
+	LVL 55 - Leaf Storm (gen 4)
 	
 	
 TM and HM:
@@ -61,27 +61,27 @@ TM and HM:
 Type: Grass Dragon
 Movepool:
 	
-	LVL 1 - Dual Chop (novo)
+	LVL 1 - Dual Chop (gen 5)
 	LVL 1 - Absorb
 	LVL 1 - Quick Attack
 	LVL 1 - Leer
 	LVL 6 - Absorb
 	LVL 11 - Quick Attack
 	LVL 12 - Detect
-	LVL 14 - Pursuit
+	LVL 14 - Pursuit (updated)
 	LVL 16 - Mega Drain
 	LVL 17 - Fury Cutter
 	LVL 23 - Screech
-	LVL 25 - Dual Chop (novo)
-	LVL 29 - Leaf Blade
+	LVL 25 - Dual Chop (gen 5)
+	LVL 29 - Leaf Blade (updated)
 	LVL 32 - Double Team
 	LVL 35 - Agility
 	LVL 41 - Slam
 	LVL 42 - Giga Drain
-	LVL 46 - Energy Ball (novo)
+	LVL 46 - Energy Ball (gen 4)
 	LVL 48 - Endeavor
 	LVL 51 - Dragon Claw
-	LVL 55 - Leaf Storm (novo)
+	LVL 55 - Leaf Storm (gen 4)
 	
 	
 	
@@ -99,7 +99,7 @@ Movepool:
 	LVL 9 - Focus Energy
 	LVL 11 - Quick Attack
 	LVL 12 - Sand-Attack
-	LVL 14 - Flame Charge (novo)
+	LVL 14 - Flame Charge (gen 5)
 	LVL 16 - Peck
 	LVL 18 - Fire Spin
 	lvl 21 - Aerial Ace
@@ -108,7 +108,7 @@ Movepool:
 	LVL 35 - Flamethrower
 	LVL 38 - Feather Dance
 	LVL 42 - Reversal
-	LVL 46 - Fire Blitz (novo)
+	LVL 46 - Fire Blitz (gen 4)
 	
 TM and HM:
 
@@ -136,8 +136,8 @@ Movepool:
 	LVL 42 - Feather Dance
 	LVL 44 - Reversal
 	LVL 46 - Sky Uppercut
-	LVL 50 - Fire Blitz (novo)
-	LVL 54 - Close Combat (novo)
+	LVL 50 - Fire Blitz (gen 4)
+	LVL 54 - Close Combat (gen 4)
 	
 TM and HM:
 
@@ -167,8 +167,8 @@ Movepool:
 	LVL 40 - Reversal
 	LVL 42 - Sky Uppercut
 	LVL 45 - Mirror Move
-	LVL 50 - Fire Blitz (novo)
-	LVL 54 - Close Combat (novo)
+	LVL 50 - Fire Blitz (gen 4)
+	LVL 54 - Close Combat (gen 4)
 	
 TM and HM:
 
@@ -212,7 +212,7 @@ Movepool:
 	LVL 18 - Foresight
 	LVL 20 - Whirlpool
 	LVL 22 - Water Pulse
-	LVL 25 - Bulldoze (novo)
+	LVL 25 - Bulldoze (gen 4)
 	LVL 28 - Take Down
 	LVL 30 - Rock Slide
 	LVL 32 - Amnesia
@@ -241,7 +241,7 @@ Movepool:
 	LVL 18 - Foresight
 	LVL 20 - Whirlpool
 	LVL 22 - Water Pulse
-	LVL 24 - Bulldoze (novo)
+	LVL 24 - Bulldoze (gen 4)
 	LVL 26 - Take Down
 	LVL 28 - Rock Slide
 	LVL 32 - Amnesia
@@ -265,20 +265,19 @@ Movepool:
 	LVL 16 - Quick Attack
 	LVL 17 - Roar
 	LVL 19 - Swagger
-	LVL 22 - Pursuit
-	LVL 24 - Fire Fang (novo)
-	LVL 24 - Thunder Fang (novo)
-	LVL 24 - Ice Fang (novo)
+	LVL 22 - Pursuit (updated)
+	LVL 24 - Fire Fang (gen 4)
+	LVL 24 - Thunder Fang (gen 4)
+	LVL 24 - Ice Fang (gen 4)
 	LVL 25 - Scary Face
 	LVL 28 - Poison Fang
 	LVL 30 - Taunt
 	LVL 34 - Dig
 	LVL 36 - Take Down
 	LVL 40 - Crunch
-	LVL 44 - Psychic Fangs (novo)
-	LVL 48 - Shadow Claw (novo)
-	LVL 50 - Hone Claws (novo)
-	LVL 58 - Lash Out (novo)
+	LVL 44 - Psychic Fangs (gen 7)
+	LVL 48 - Shadow Claw (gen 4)
+	LVL 50 - Hone Claws (gen 5)
 	
 TM and HM:
 
@@ -288,29 +287,141 @@ Lvl up: 24
 Stats: 75 HP | 100 Atk | 70 DEF | 50 Sp. Atk | 70 Sp. Def | 95 Spe TOTAL: 460
 Movepool:
 
+	LVL 1 - Tackle
+	LVL 1 - Howl
+	LVL 1 - Sand-Attack
+	LVL 4 - Howl
+	LVL 7 - Sand-Attack
+	LVL 10 - Bite
+	LVL 13 - Leer
+	LVL 16 - Quick Attack
+	LVL 17 - Roar
+	LVL 19 - Swagger
+	LVL 22 - Pursuit (updated)
+	LVL 23 - Fire Fang (gen 4)
+	LVL 23 - Thunder Fang (gen 4)
+	LVL 23 - Ice Fang (gen 4)
+	LVL 27 - Scary Face
+	LVL 30 - Poison Fang
+	LVL 33 - Taunt
+	LVL 36 - Dig
+	LVL 38 - Take Down
+	LVL 42 - Crunch
+	LVL 45 - Psychic Fangs (gen 7)
+	LVL 48 - Shadow Claw (gen 4)
+	LVL 50 - Hone Claws (gen 5)
+	LVL 58 - Lash Out (gen 9, but new changes)
+	
 TM and HM:
+
+	
+/- Zigzagoon -/
+
+Movepool:
+
+	LVL 1 - Tackle
+	LVL 1 - Growl
+	LVL 6 - Quick Attack
+	LVL 8 - Sand-Attack
+	LVL 9 - Tail-Whip
+	LVL 11 - Fury Swipes
+	LVL 14 - Covet
+	LVL 16 - Headbutt
+	LVL 18 - Baby-Doll Eyes (gen 6)
+	LVL 20 - Pin Missile
+	LVL 22 - Thief
+	LVL 24 - Rest
+	LVL 26 - Take Down
+	LVL 30 - Substitute
+	LVL 33 - Extreme Speed
+	LVL 37 - Flail
+	LVL 42 - Facade
+	LVL 46 - Knock Off (updated)
+	LVL 49 - Double-Edge
+	LVL 56 - Belly Drum
 
 
 /- Linoone -/
 Stats: 80 HP | 80 Atk | 65 DEF | 40 Sp. Atk | 65 Sp. Def | 110 Spe TOTAL: 440
 Movepool:
 
+	LVL 1 - Tackle
+	LVL 1 - Growl
+	LVL 1 - Quick Attack
+	LVL 1 - Sand-Attack
+	LVL 6 - Quick Attack
+	LVL 8 - Sand-Attack
+	LVL 9 - Tail-Whip
+	LVL 11 - Fury Swipes
+	LVL 13 - Covet
+	LVL 16 - Headbutt
+	LVL 18 - Baby-Doll Eyes (gen 6)
+	LVL 20 - Pin Missile
+	LVL 22 - Thief
+	LVL 24 - Rest
+	LVL 26 - Swift
+	LVL 29 - Double Team
+	LVL 32 - Substitute
+	LVL 35 - Slash
+	LVL 40 - Facade
+	LVL 43 - Night Slash (gen 4)
+	LVL 46 - Hone Claws (gen 5)
+	LVL 39 - Knock Off (updated)
+	LVL 51 - Double-Edge
+	LVL 56 - Belly Drum
+	
 TM and HM:
 
+
+
+/- Wurmple -/
+
+Movepool:
+
+	LVL 1 - String Shot
+	LVL 1 - Tackle
+	LVL 5 - Poison Sting
+	LVL 15 - Bug Bite (gen 4, without eating berry effect)
+	
 
 /- Silcoon -/
 Stats: 60 HP | 35 Atk | 60 DEF | 25 Sp. Atk | 55 Sp. Def | 15 Spe TOTAL: 250
 Movepool:
 
-TM and HM:
-
-
+	LVL 1 - Tackle
+	LVL 1 - Harden
+	
+	
 /- Beautify -/
 
 Lvl up: 12
 Stats: 50 HP | 65 Atk | 45 DEF | 120 Sp. Atk | 45 Sp. Def | 90 Spe TOTAL: 415
 Movepool:
 
+	LVL 1 - Poison Sting
+	LVL 1 - Tackle
+	LVL 1 - String Shot
+	LVL 5 - Absorb
+	LVL 12 - Absorb
+	LVL 12 - Gust
+	LVL 15 - Sleep Powder
+	LVL 15 - Poison Powder
+	LVL 15 - Stun Spore
+	LVL 17 - Morning Sun
+	LVL 20 - Air Cutter
+	LVL 22 - Struggle Bug (gen 4)
+	LVL 24 - Mega Drain
+	LVL 27 - Air Slash
+	LVL 28 - Attract
+	LVL 30 - Whirlwind
+	LVL 32 - Silver Wind
+	LVL 34 - Giga Drain
+	LVL 37 - Protect
+	LVL 39 - Toxic
+	LVL 42 - Bug Buzz (gen 4)
+	LVL 47 - Quiver Dance (gen 5)
+	LVL 50 - Razor Wind (updated)
+	
 TM and HM:
 
 
@@ -319,22 +430,91 @@ TM and HM:
 Stats: 60 HP | 35 Atk | 60 DEF | 25 Sp. Atk | 55 Sp. Def | 15 Spe TOTAL: 250
 Movepool:
 
-TM and HM:
-
-
+	LVL 1 - Tackle
+	LVL 1 - Harden
+	
+	
 /- Dustox -/
 
 Lvl up: 12
 Stats: 70 HP | 30 Atk | 90 DEF | 80 Sp. Atk | 90 Sp. Def | 55 Spe TOTAL: 415
 Movepool:
 
+	LVL 1 - Poison Sting
+	LVL 1 - Tackle
+	LVL 1 - String Shot
+	LVL 5 - Confusion
+	LVL 12 - Confusion
+	LVL 12 - Acid
+	LVL 15 - Sleep Powder
+	LVL 15 - Poison Powder
+	LVL 15 - Stun Spore
+	LVL 17 - Moonlight
+	LVL 20 - Protect
+	LVL 22 - Struggle Bug (gen 4)
+	LVL 24 - Psybeam
+	LVL 27 - Venoshock (gen 5, sem o efeito)
+	LVL 28 - Protect
+	LVL 30 - Whirlwind
+	LVL 32 - Toxic
+	LVL 34 - Silver Wind
+	LVL 37 - Sludge Bomb
+	LVL 39 - Substitute
+	LVL 42 - Bug Buzz (gen 4)
+	LVL 45 - Quiver Dance (gen 5)
+	
 TM and HM:
+
+
+/- Lotad -/
+Movepool:
+
+	LVL 1 - Astonish
+	LVL 1 - Growl
+	LVL 3 - Absorb
+	LVL 6 - Water Gun
+	LVL 9 - Mist
+	LVL 12 - Leech Seed
+	LVL 14 - Mega Drain
+	LVL 16 - Flail
+	LVL 20 - Bubble Beam
+	LVL 24 - Icy Wind
+	LVL 27 - Rain Dance
+	LVL 30 - Giga Drain
+	LVL 35 - Body Slam
+	LVL 39 - Energy Ball (gen 4)
+	LVL 44 - Synthesis
+	LVL 48 - Scald (gen 5, without thaw it while frozen)
+	LVL 50 - Hydro Pump
+	LVL 53 - Solar Beam
 
 /- Lombre -/
 
 Stats: 70 HP | 50 Atk | 50 DEF | 70 Sp. Atk | 80 Sp. Def | 50 Spe TOTAL: 370
 Movepool:
 
+	LVL 1 - Astonish
+	LVL 1 - Growl
+	LVL 1 - Absorb
+	LVL 1 - Water Gun
+	LVL 3 - Absorb
+	LVL 6 - Water Gun
+	LVL 12 - Leech Seed
+	LVL 14 - Mega Drain
+	LVL 18 - Fake Out
+	LVL 20 - Bubble Beam
+	LVL 24 - Icy Wind
+	LVL 27 - Rain Dance
+	LVL 30 - Giga Drain
+	LVL 35 - Body Slam
+	LVL 38 - Protect
+	LVL 42 - Energy Ball (gen 4)
+	LVL 46 - Synthesis
+	LVL 50 - Scald (gen 5, without thaw it while frozen)
+	LVL 52 - Hydro Pump
+	LVL 55 - Solar Beam
+	
+	
 TM and HM:
 
 /- Ludicolo -/
@@ -342,7 +522,52 @@ TM and HM:
 Stats: 100 HP | 50 Atk | 70 DEF | 95 Sp. Atk | 105 Sp. Def | 70 Spe TOTAL: 490
 Movepool:
 
+	LVL 1 - Astonish
+	LVL 1 - Growl
+	LVL 1 - Absorb
+	LVL 1 - Water Gun
+	LVL 3 - Absorb
+	LVL 6 - Water Gun
+	LVL 12 - Leech Seed
+	LVL 14 - Mega Drain
+	LVL 18 - Fake Out
+	LVL 20 - Bubble Beam
+	LVL 24 - Icy Wind
+	LVL 27 - Rain Dance
+	LVL 30 - Giga Drain
+	LVL 35 - Body Slam
+	LVL 38 - Protect
+	LVL 42 - Energy Ball (gen 4)
+	LVL 46 - Synthesis
+	LVL 50 - Scald (gen 5, without thaw it while frozen)
+	LVL 52 - Hydro Pump
+	LVL 55 - Solar Beam
+
 TM and HM:
+	
+	
+
+/- Seedot -/
+
+Movepool:
+
+	LVL 1 - Bide
+	LVL 1 - Harden
+	LVL 1 - Tackle
+	LVL 3 - Absorb
+	LVL 6 - Astonish
+	LVL 7 - Growth
+	LVL 12 - Rollout
+	LVL 14 - Mega Drain
+	LVL 16 - Double Team
+	LVL 21 - Pursuit (updated)
+	LVL 25 - Leaf Tornado (gen 5)
+	LVL 30 - Sunny Day
+	LVL 32 - Giga Drain
+	LVL 37 - Night Slash (gen 4)
+	LVL 40 - Spite
+	LVL 44 - Explosion
+	LVL 46 - Zen Headbutt (gen 4)
 
 
 /- Nuzleaf -/
@@ -352,28 +577,170 @@ Movepool:
 
 TM and HM:
 
-
+	LVL 1 - Harden
+	LVL 1 - Tackle
+	LVL 1 - Absorb
+	LVL 3 - Absorb
+	LVL 6 - Astonish
+	LVL 7 - Growth
+	LVL 12 - Rollout
+	LVL 14 - Mega Drain
+	LVL 16 - Double Team
+	LVL 18 - Fake Out
+	LVL 20 - Razor Leaf
+	LVL 22 - Pursuit (updated)
+	LVL 26 - Leaf Tornado (gen 5)
+	LVL 30 - Sunny Day
+	LVL 32 - Giga Drain
+	LVL 33 - Sunny Day
+	LVL 37 - Night Slash (gen 4)
+	LVL 39 - Spite
+	LVL 42 - Zen Headbutt (gen 4)
+	LVL 45 - Knock Off (updated)
+	LVL 50 - Leaf Blade (updated)
+	LVL 53 - Dark Pulse
+	
+	
 /- Shiftry -/
 
 Stats: 70 HP | 105 Atk | 60 DEF | 105 Sp. Atk | 60 Sp. Def | 90 Spe TOTAL: 490
 Movepool:
 
+	LVL 1 - Harden
+	LVL 1 - Tackle
+	LVL 1 - Absorb
+	LVL 3 - Absorb
+	LVL 6 - Astonish
+	LVL 7 - Growth
+	LVL 12 - Rollout
+	LVL 14 - Mega Drain
+	LVL 16 - Double Team
+	LVL 18 - Fake Out
+	LVL 20 - Razor Leaf
+	LVL 22 - Pursuit (updated)
+	LVL 26 - Leaf Tornado (gen 5)
+	LVL 30 - Sunny Day
+	LVL 32 - Giga Drain
+	LVL 33 - Sunny Day
+	LVL 37 - Night Slash (gen 4)
+	LVL 39 - Spite
+	LVL 42 - Zen Headbutt (gen 4)
+	LVL 45 - Knock Off (updated)
+	LVL 50 - Grass Pledge (gen 5, without special requirements)
+	LVL 53 - Leaf Blade (updated)
+	LVL 55 - Dark Pulse
+	
+		
 TM and HM:
 
+
+	
+/- Taillow -/
+
+Movepool:
+	
+	LVL 1 - Growl
+	LVL 1 - Peck
+	LVL 4 - Focus Energy
+	LVL 8 - Quick Attack
+	LVL 13 - Wing Attack
+	LVL 17 - Double Team
+	LVL 21 - Aerial Ace
+	LVL 24 - Steel Wing
+	LVL 27 - Detect
+	LVL 32 - Agility
+	LVL 37 - Endeavor
+	LVL 40 - Facade
+	LVL 42 - Dual Wingbeat (gen 8)
+	LVL 45 - Reversal
+	LVL 48 - Feather Dance
+	LVL 52 - Brave Bird (gen 4)
+
+TM and HM:
 
 /- Swellow -/
 
 Stats: 60 HP | 90 Atk | 60 DEF | 65 Sp. Atk | 60 Sp. Def | 125 Spe TOTAL: 460
 Movepool:
 
+	LVL 1 - Growl
+	LVL 1 - Peck
+	LVL 4 - Focus Energy
+	LVL 8 - Quick Attack
+	LVL 13 - Wing Attack
+	LVL 17 - Double Team
+	LVL 21 - Aerial Ace
+	LVL 24 - Steel Wing
+	LVL 27 - Detect
+	LVL 32 - Agility
+	LVL 37 - Endeavor
+	LVL 40 - Facade
+	LVL 42 - Dual Wingbeat (gen 8)
+	LVL 45 - Swagger
+	LVL 48 - Reversal
+	LVL 50 - Feather Dance
+	LVL 52 - Brave Bird (gen 4)
+	LVL 55 - Giga Impact
+	
 TM and HM:
 
+	
 
-/- Pelipper -/
+/- Wingull -/
 
-Add "Drizzle" (menor chance se possivel)
 Movepool:
 
+	LVL 1 - Growl
+	LVL 1 - Water Gun
+	LVL 5 - Quick Attack
+	LVL 10 - Supersonic
+	LVL 12 - Swift
+	LVL 15 - Wing Attack
+	LVL 18 - Water Pulse
+	LVL 22 - Icy Wind
+	LVL 24 - Air Cutter
+	LVL 26 - Mist
+	LVL 30 - Amnesia
+	LVL 32 - Rain Rance
+	LVL 36 - Air Slash
+	LVL 42 - Roost
+	LVL 45 - Liquidation (gen 7)
+	LVL 49 - Ice Beam
+	LVL 52 - Hurricane
+	LVL 55 - Hydro Pump
+	
+	
+TM and HM:
+	
+/- Pelipper -/
+
+Add Drizzle
+Movepool:
+
+	LVL 1 - Growl
+	LVL 1 - Water Gun
+	LVL 1 - Quick Attack
+	LVL 5 - Quick Attack
+	LVL 10 - Supersonic
+	LVL 12 - Swift
+	LVL 15 - Wing Attack
+	LVL 18 - Water Pulse
+	LVL 25 - Icy Wind
+	LVL 27 - Air Cutter
+	LVL 30 - Mist
+	LVL 33 - Amnesia
+	LVL 35 - Rain Rance
+	LVL 37 - Stockpile
+	LVL 37 - Swallow
+	LVL 37 - Spit Up
+	LVL 38 - Protect
+	LVL 40 - Air Slash
+	LVL 42 - Roost
+	LVL 45 - Liquidation (gen 7)
+	LVL 49 - Ice Beam
+	LVL 52 - Hurricane
+	LVL 55 - Hydro Pump
+	
 TM and HM:
 
 
@@ -397,7 +764,7 @@ TM and HM:
 
 /- Gardevoir -/
 
-Lvl up: 42
+Lvl up: 40
 Stats: 65 HP | 65 Atk | 65 DEF | 125 Sp. Atk | 115 Sp. Def | 80 Spe TOTAL: 515
 Movepool:
 
