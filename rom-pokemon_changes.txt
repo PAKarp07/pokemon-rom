@@ -680,7 +680,7 @@ Movepool:
 	LVL 48 - Reversal
 	LVL 50 - Feather Dance
 	LVL 52 - Brave Bird (gen 4)
-	LVL 55 - Giga Impact
+	LVL 55 - Giga Impact (gen 4)
 	
 TM and HM:
 
@@ -749,7 +749,23 @@ TM and HM:
 Stats: 30 HP | 25 Atk | 25 DEF | 55 Sp. Atk | 55 Sp. Def | 40 Spe TOTAL: 230
 Movepool:
 
-	LVL 1 - Confusion
+	LVL 1 - Disarming Voice (gen 6, normal type)
+	LVL 1 - Teleport
+	LVL 1 - Growl
+	LVL 6 - Confusion
+	LVL 9 - Hypnosis
+	LVL 12 - Draining Kiss (gen 6, but with absorb stats, type=Normal)
+	LVL 15 - Double Team
+	LVL 18 - Psybeam
+	LVL 22 - Skill Swap
+	LVL 25 - Charm
+	LVL 29 - Calm Mind
+	LVL 33 - Psychic
+	LVL 36 - Imprison
+	LVL 40 - Future Sight
+	LVL 46 - Dream Eater
+	LVL 50 - Hyper Voice (updated)
+	
 TM and HM:
 
 
@@ -757,8 +773,26 @@ TM and HM:
 
 Stats: 40 HP | 35 Atk | 35 DEF | 85 Sp. Atk | 70 Sp. Def | 60 Spe TOTAL: 325
 Movepool:
-
-
+	
+	LVL 1 - Disarming Voice (gen 6, normal type)
+	LVL 1 - Teleport
+	LVL 1 - Growl
+	LVL 1 - Confusion
+	LVL 6 - Confusion
+	LVL 9 - Hypnosis
+	LVL 12 - Draining Kiss (gen 6, but with absorb stats, type=Normal)
+	LVL 15 - Double Team
+	LVL 18 - Psybeam
+	LVL 22 - Skill Swap
+	LVL 25 - Charm
+	LVL 30 - Calm Mind
+	LVL 32 - Imprison
+	LVL 38 - Future Sight
+	LVL 42 - Dark Pulse (gen 4)
+	LVL 45 - Psychic
+	LVL 48 - Dream Eater
+	LVL 52 - Hyper Voice (updated)
+		
 TM and HM:
 
 
@@ -767,8 +801,45 @@ TM and HM:
 Lvl up: 40
 Stats: 65 HP | 65 Atk | 65 DEF | 125 Sp. Atk | 115 Sp. Def | 80 Spe TOTAL: 515
 Movepool:
-
 	
+	LVL 1 - Disarming Voice (gen 6, normal type)
+	LVL 1 - Teleport
+	LVL 1 - Growl
+	LVL 1 - Confusion
+	LVL 6 - Confusion
+	LVL 9 - Hypnosis
+	LVL 12 - Draining Kiss (gen 6, but with absorb stats, type=Normal)
+	LVL 15 - Double Team
+	LVL 18 - Psybeam
+	LVL 22 - Skill Swap
+	LVL 25 - Charm
+	LVL 30 - Calm Mind
+	LVL 32 - Imprison
+	LVL 38 - Future Sight
+	LVL 40 - Psychic (evo move)
+	LVL 45 - Dark Pulse (gen 4)
+	LVL 49 - Dream Eater
+	LVL 54 - Hyper Voice (updated)
+	
+TM and HM:
+
+
+/- Surskit -/
+Movepool:
+
+	LVL 1 - Bubble
+	LVL 1 - Quick Attack
+	LVL 9 - Sweet Scent
+	LVL 11 - Struggle Bug (gen 4)
+	LVL 15 - Bubble Beam
+	LVL 22 - Agility
+	LVL 25 - Haze
+	LVL 26 - Mist
+	LVL 32 - Baton Pass
+	LVL 36 - Scald (gen 5, without thaw it while frozen)
+	LVL 40 - Bug Buzz (gen 4)
+	LVL 46 - Giga Drain
+
 TM and HM:
 
 
@@ -778,6 +849,27 @@ Type: Bug Water
 Stats: 70 HP | 60 Atk | 60 DEF | 100 Sp. Atk | 80 Sp. Def | 90 Spe TOTAL: 460 	
 Movepool:
 
+	LVL 1 - Bubble
+	LVL 1 - Quick Attack
+	LVL 1 - Sweet Scent
+	LVL 1 - Struggle Bug (gen 4)
+	LVL 9 - Sweet Scent
+	LVL 11 - Struggle Bug (gen 4)
+	LVL 13 - Gust
+	LVL 15 - Bubble Beam
+	LVL 22 - Agility
+	LVL 22 - Air Cutter (evo move)
+	LVL 25 - Haze
+	LVL 26 - Mist
+	LVL 28 - Stun Spore
+	LVL 30 - Baton Pass
+	LVL 34 - Air Slash
+	LVL 38 - Scald (gen 5, without thaw it while frozen)
+	LVL 42 - Bug Buzz (gen 4)
+	LVL 46 - Giga Drain
+	LVL 49 - Whirlwind
+	LVL 53 - Quiver Dance (gen 5)
+	
 TM and HM:
 
 
@@ -786,8 +878,22 @@ TM and HM:
 Stats: 60 HP | 50 Atk | 60 DEF | 50 Sp. Atk | 60 Sp. Def | 35 Spe TOTAL: 315 
 Movepool:
 
-	LVL 40 - Spore
-
+	LVL 1 - Absorb
+	LVL 1 - Tackle
+	LVL 6 - Stun Spore
+	LVL 10 - Leech Seed
+	LVL 13 - Bug Bite (gen 4, without eating berry effect)
+	LVL 16 - Mega Drain
+	LVL 19 - Growth
+	LVL 22 - Headbutt
+	LVL 25 - Bullet Seed
+	LVL 30 - Venoshock (gen 5, without double damage, 10% poison)
+	LVL 34 - Giga Drain
+	LVL 38 - Spore
+	LVL 42 - Toxic
+	LVL 44 - Seed Bomb (gen 4)
+	LVL 45 - Zen Headbutt (gen 4)
+	
 TM and HM:
 
 
@@ -798,9 +904,43 @@ Stats: 60 HP | 130 Atk | 80 DEF | 50 Sp. Atk | 60 Sp. Def | 90 Spe TOTAL: 480
 Movepool:
 
 TM and HM:
+	
+	LVL 1 - Absorb
+	LVL 1 - Tackle
+	LVL 6 - Stun Spore
+	LVL 10 - Leech Seed
+	LVL 13 - Bug Bite (gen 4, without eating berry effect)
+	LVL 16 - Mega Drain
+	LVL 19 - Growth
+	LVL 22 - Headbutt
+	LVL 25 - Bullet Seed
+	LVL 28 - Mach Punch (evo move)
+	LVL 32 - Brick Break
+	LVL 35 - Fake Tears
+	LVL 38 - Sky Uppercut
+	LVL 45 - Zen Headbutt (gen 4)
+	LVL 47 - Poison Jab (gen 4)
+	LVL 50 - Seed Bomb (gen 4)
+	LVL 52 - Dynamic Punch
+	LVL 55 - Drain Punch
+	LVL 58 - Focus Punch
 
 
+/- Slakoth -/
 
+Movepool:
+	
+
+TM and HM:
+
+
+/- Abra -/
+
+Movepool:
+	LVL 1 - Teleport
+	LVL 1 - Astonish
+	
+	
 /- Alakazam -/
 
 lvl 45
