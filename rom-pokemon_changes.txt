@@ -39,7 +39,7 @@ Movepool:
 	LVL 12 - Detect
 	LVL 14 - Pursuit (updated)
 	LVL 16 - Mega Drain
-	LVL 17 - Fury Cutter
+	LVL 17 - Fury Cutter (updated)
 	LVL 23 - Screech
 	LVL 25 - Dual Chop (gen 5)
 	LVL 29 - Leaf Blade (updated)
@@ -70,7 +70,7 @@ Movepool:
 	LVL 12 - Detect
 	LVL 14 - Pursuit (updated)
 	LVL 16 - Mega Drain
-	LVL 17 - Fury Cutter
+	LVL 17 - Fury Cutter (updated)
 	LVL 23 - Screech
 	LVL 25 - Dual Chop (gen 5)
 	LVL 29 - Leaf Blade (updated)
@@ -325,7 +325,7 @@ Movepool:
 	LVL 8 - Sand-Attack
 	LVL 9 - Tail-Whip
 	LVL 11 - Fury Swipes
-	LVL 14 - Covet
+	LVL 14 - Covet  (updated)
 	LVL 16 - Headbutt
 	LVL 18 - Baby-Doll Eyes (gen 6)
 	LVL 20 - Pin Missile
@@ -353,7 +353,7 @@ Movepool:
 	LVL 8 - Sand-Attack
 	LVL 9 - Tail-Whip
 	LVL 11 - Fury Swipes
-	LVL 13 - Covet
+	LVL 13 - Covet  (updated)
 	LVL 16 - Headbutt
 	LVL 18 - Baby-Doll Eyes (gen 6)
 	LVL 20 - Pin Missile
@@ -921,17 +921,94 @@ TM and HM:
 	LVL 45 - Zen Headbutt (gen 4)
 	LVL 47 - Poison Jab (gen 4)
 	LVL 50 - Seed Bomb (gen 4)
-	LVL 52 - Dynamic Punch
-	LVL 55 - Drain Punch
-	LVL 58 - Focus Punch
+	LVL 52 - Drain Punch (gen 4)
+	LVL 55 - Focus Punch
 
 
 /- Slakoth -/
 
 Movepool:
 	
-
+	LVL 1 - Scratch
+	LVL 1 - Yawn
+	LVL 6 - Encore
+	LVL 9 - Slack Off
+	LVL 14 - Covet (updated)
+	LVL 18 - Feint Attack
+	LVL 22 - Amnesia
+	LVL 25 - Headbutt
+	LVL 28 - Rest
+	LVL 30 - Counter
+	LVL 34 - Snore
+	LVL 37 - Flail
+	LVL 40 - Endure
+	LVL 44 - Hammer Arm (gen 4)
+	
+	
 TM and HM:
+
+
+
+/- Vigoroth -/
+
+Stats: 80 HP | 90 Atk | 80 DEF | 55 Sp. Atk | 55 Sp. Def | 90 Spe TOTAL: 450 
+Movepool:
+	
+	LVL 1 - Scratch
+	LVL 1 - Yawn
+	LVL 1 - Encore
+	LVL 1 - Slack Off
+	LVL 6 - Encore
+	LVL 9 - Slack Off
+	LVL 14 - Covet (updated)
+	LVL 18 - Feint Attack
+	LVL 22 - Amnesia
+	LVL 24 - Fury Swipes
+	LVL 27 - Headbutt
+	LVL 30 - Endure
+	LVL 32 - Body Slam
+	LVL 35 - Slash
+	LVL 40 - Counter
+	LVL 44 - Curse
+	LVL 46 - Hammer Arm (gen 4)
+	LVL 48 - Reversal
+	LVL 50 - Giga Impact (gen 4)
+	LVL 54 - Focus Punch (gen 4)
+	
+TM and HM:
+
+
+
+/- Slaking -/
+
+Movepool:
+	
+	LVL 1 - Scratch
+	LVL 1 - Yawn
+	LVL 1 - Encore
+	LVL 1 - Slack Off
+	LVL 6 - Encore
+	LVL 9 - Slack Off
+	LVL 14 - Covet (updated)
+	LVL 18 - Feint Attack
+	LVL 22 - Amnesia
+	LVL 24 - Fury Swipes
+	LVL 27 - Headbutt
+	LVL 30 - Endure
+	LVL 32 - Body Slam
+	LVL 35 - Slash
+	LVL 36 - Rest (evo move)
+	LVL 36 - Snore (evo move)
+	LVL 40 - Counter
+	LVL 44 - Flail
+	LVL 46 - Hammer Arm (gen 4)
+	LVL 48 - Knock Off (updated)
+	LVL 50 - Mega Kick
+	LVL 54 - Giga Impact (gen 4)
+	
+TM and HM:
+
+
 
 
 /- Abra -/
@@ -941,12 +1018,65 @@ Movepool:
 	LVL 1 - Astonish
 	
 	
+	
+/- Kadabra -/
+
+Movepool:
+
+	LVL 1 - Teleport
+	LVL 1 - Confusion
+	LVL 1 - Kinesis
+	LVL 1 - Disable
+	LVL 5 - Disable
+	LVL 8 - Reflect
+	LVL 13 - Double Team
+	LVL 16 - Confusion (evo move)
+	LVL 20 - Protect
+	LVL 23 - Magic Coat
+	LVL 25 - Psybeam
+	LVL 27 - Hidden Power
+	LVL 30 - Recover
+	LVL 32 - Taunt
+	LVL 36 - Ominous Wind (gen 4)
+	LVL 40 - Trick
+	LVL 42 - Psych Up
+	LVL 43 - Future Sight
+	LVL 46 - Shadow Ball
+	LVL 50 - Psychic
+	LVL 54 - Calm Mind
+	
+TM and HM:
+
+
+	
 /- Alakazam -/
 
 lvl 45
 Stats: 60 HP | 50 Atk | 65 DEF | 145 Sp. Atk | 95 Sp. Def | 120 Spe TOTAL: 535	
 Movepool:
-
+	
+	LVL 1 - Teleport
+	LVL 1 - Confusion
+	LVL 1 - Kinesis
+	LVL 1 - Disable
+	LVL 5 - Disable
+	LVL 8 - Reflect
+	LVL 13 - Double Team
+	LVL 16 - Confusion (evo move)
+	LVL 20 - Protect
+	LVL 23 - Magic Coat
+	LVL 25 - Psybeam
+	LVL 27 - Hidden Power
+	LVL 30 - Recover
+	LVL 32 - Taunt
+	LVL 36 - Ominous Wind (gen 4)
+	LVL 40 - Trick
+	LVL 42 - Psych Up
+	LVL 43 - Future Sight
+	LVL 46 - Shadow Ball
+	LVL 50 - Psychic
+	LVL 54 - Calm Mind
+	
 TM and HM:
 
 
@@ -958,6 +1088,23 @@ TM and HM:
 Stats: 41 HP | 75 Atk | 90 DEF | 30 Sp. Atk | 30 Sp. Def | 40 Spe TOTAL: 306	
 Movepool:
 
+	LVL 1 - Harden
+	LVL 1 - Scratch
+	LVL 5 - Sand-Attack
+	LVL 9 - Mud-Slap
+	LVL 12 - Fury Swipes
+	LVL 15 - False Swipe
+	LVL 18 - Fury Cutter (updated)
+	LVL 21 - Mind Reader
+	LVL 24 - Metal Claw
+	LVL 28 - Endure
+	LVL 33 - Dig
+	LVL 36 - Leech Life (updated)
+	LVL 40 - Slash
+	LVL 42 - Night Slash (gen 4)
+	LVL 46 - Swagger
+	LVL 48 - X-Scissors (gen 4)
+	
 TM and HM:
 
 
@@ -969,16 +1116,57 @@ lvl 30
 Stats: 75 HP | 90 Atk | 55 DEF | 50 Sp. Atk | 55 Sp. Def | 160 Spe TOTAL: 485	
 Movepool:
 
+	LVL 1 - Harden
+	LVL 1 - Scratch
+	LVL 5 - Sand-Attack
+	LVL 9 - Mud-Slap
+	LVL 12 - Fury Swipes
+	LVL 15 - False Swipe
+	LVL 18 - Fury Cutter (updated)
+	LVL 21 - Mind Reader
+	LVL 24 - Metal Claw
+	LVL 28 - Endure
+	LVL 30 - Double Team
+	LVL 32 - Aerial Ace
+	LVL 35 - Screech
+	LVL 38 - Agility
+	LVL 40 - Leech Life (updated)
+	LVL 42 - Slash
+	LVL 45 - Night Slash (gen 4)
+	LVL 47 - Swagger
+	LVL 50 - X-Scissors (gen 4)
+	LVL 56 - Swords Dance
+
 TM and HM:
-
-
+	
+	
 
 /- Shedinja -/
 
 lvl 30
 Stats: 1 HP | 150 Atk | 45 DEF | 30 Sp. Atk | 30 Sp. Def | 80 Spe TOTAL: 336	
 Movepool:
-
+	
+	LVL 1 - Harden
+	LVL 1 - Scratch
+	LVL 5 - Sand-Attack
+	LVL 9 - Mud-Slap
+	LVL 12 - Fury Swipes
+	LVL 15 - False Swipe
+	LVL 18 - Fury Cutter (updated)
+	LVL 21 - Mind Reader
+	LVL 24 - Metal Claw
+	LVL 28 - Endure
+	LVL 30 - Shadow Sneak (gen 4)
+	LVL 35 - Confuse Ray
+	LVL 40 - Leech Life (updated)
+	LVL 42 - Shadow Claw (gen 4)
+	LVL 45 - Grudge
+	LVL 48 - Spite
+	LVL 50 - X-Scissors (gen 4)
+	LVL 52 - Phantom Force (gen 6)
+	
+	
 TM and HM:
 
 
@@ -986,6 +1174,11 @@ TM and HM:
 
 Stats: 64 HP | 51 Atk | 33 DEF | 61 Sp. Atk | 33 Sp. Def | 28 Spe TOTAL: 270	
 Movepool:
+
+	LVL 1 - Astonish
+	LVL 1 - Pound
+	LVL 5 - Echoed Voice (gen 5)
+
 
 TM and HM:
 

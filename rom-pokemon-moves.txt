@@ -35,6 +35,13 @@ Draining Kiss (gen 6, but with absorb stats, type=Normal)
 Venoshock (gen 5, without double damage, 10% poison)
 Seed Bomb (gen 4)
 Poison Jab (gen 4)
+Hammer Arm (gen 4)
+Ominous Wind (gen 4)
+X-Scissors (gen 4)
+Shadow Sneak (gen 4)
+Phantom Force (gen 6)
+Echoed Voice (gen 5)
+
 
 /-- Moves to update --/
 
@@ -52,3 +59,7 @@ Bullet Seed - update last gen
 Knock Off (pwr=85)
 
 Hyper Voice (pwr=110, acc=90, pp=5)
+
+Covet (pwr = 60, pp=25)
+
+Fury Cutter (updated)
