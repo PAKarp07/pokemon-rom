@@ -51,6 +51,9 @@ Aqua Jet (gen 4)
 Ice Spinner (gen 9, without extra)
 Rock Polish (gen 4)
 Stone Edge (gen 4)
+Head Smash (gen 4)
+Wild Charge (gen 5)
+Cross Posion (gen 4)
 
 /-- Moves to update --/
 

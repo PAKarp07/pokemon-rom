@@ -1524,24 +1524,91 @@ TM and HM:
 /- Graveler -/
 
 Movepool:
-
-
+	
+	LVL 1 - Defense Curl
+	LVL 1 - Tackle
+	LVL 1 - Rock Polish (gen 4)
+	LVL 1 - Rollout 
+	LVL 6 - Rock Polish (gen 4)
+	LVL 8 - Rollout
+	LVL 10 - Magnitude
+	LVL 13 - Rock Throw
+	LVL 17 - Bulldoze (gen 4)
+	LVL 20 - Endure
+	LVL 22 - Sandstorm
+	LVL 25 - Self-Destruct
+	LVL 28 - Rock Throw
+	LVL 31 - Iron Defense
+	LVL 34 - Body Slam
+	LVL 38 - Curse
+	LVL 40 - Rock Slide
+	LVL 45 - Explosion
+	LVL 47 - Double-Edge
+	LVL 49 - Counter
+	LVL 52 - Earthquake
+	LVL 55 - Stone Edge (gen 4)
+	
 TM and HM:
 	
 /- Golem -/
 
 lvl 40
-Stats: 90 HP | 120 Atk | 130 DEF | 55 Sp. Atk | 80 Sp. Def | 50 Spe TOTAL: 525	
+Stats: 90 HP | 125 Atk | 130 DEF | 55 Sp. Atk | 80 Sp. Def | 50 Spe TOTAL: 530	
 Movepool:
+
+	LVL 1 - Defense Curl
+	LVL 1 - Tackle
+	LVL 1 - Rock Polish (gen 4)
+	LVL 1 - Rollout 
+	LVL 6 - Rock Polish (gen 4)
+	LVL 8 - Rollout
+	LVL 10 - Magnitude
+	LVL 13 - Rock Throw
+	LVL 17 - Bulldoze (gen 4)
+	LVL 20 - Endure
+	LVL 22 - Sandstorm
+	LVL 25 - Self-Destruct
+	LVL 28 - Rock Throw
+	LVL 31 - Iron Defense
+	LVL 34 - Body Slam
+	LVL 38 - Curse
+	LVL 40 - Rock Slide
+	LVL 42 - Explosion
+	LVL 45 - Double-Edge
+	LVL 47 - Iron Head
+	LVL 49 - Counter	
+	LVL 52 - Earthquake
+	LVL 55 - Stone Edge (gen 4)
 
 TM and HM:
 
 
 /- Nosepass -/
 
-Stats: 75 HP | 45 Atk | 125 DEF | 45 Sp. Atk | 90 Sp. Def | 30 Spe TOTAL: 410	
+Ability: take out Sturdy, add Wild Charge
+Stats: 70 HP | 65 Atk | 135 DEF | 45 Sp. Atk | 90 Sp. Def | 30 Spe TOTAL: 435	
 Movepool:
-
+	
+	LVL 1 - Tackle
+	LVL 4 - Harden
+	LVL 7 - Block
+	LVL 10 - Rock Throw
+	LVL 13 - Thunder Wave
+	LVL 16 - Sandstorm
+	LVL 20 - Rest
+	LVL 22 - Bulldoze (gen 4)
+	LVL 24 - Spark
+	LVL 27 - Recover
+	LVL 29 - Rock Blast
+	LVL 32 - Iron Defense
+	LVL 35 - Thunder Punch
+	LVL 38 - Body Slam
+	LVL 40 - Rock Slide
+	LVL 44 - Zap Cannon
+	LVL 44 - Lock-On
+	LVL 48 - Wild Charge (gen 5)
+	LVL 52 - Head Smash (gen 4)
+	
 TM and HM:
 
 
@@ -1549,16 +1616,66 @@ TM and HM:
 
 Stats: 50 HP | 55 Atk | 45 DEF | 55 Sp. Atk | 45 Sp. Def | 50 Spe TOTAL: 300
 Movepool:
-
+	
+	LVL 1 - Tackle
+	LVL 1 - Growl
+	LVL 3 - Tail-Whip
+	LVL 5 - Fake Out
+	LVL 7 - Sing
+	LVL 9 - Helping Hand
+	LVL 11 - Attract
+	LVL 13 - Disarming Voice (gen 6, normal type)
+	LVL 16 - Double Slap
+	LVL 19 - Assist
+	LVL 21 - Charm
+	LVL 23 - Covet
+	LVL 26 - Thunder Wave
+	LVL 30 - Heal Bell
+	LVL 32 - Protect
+	LVL 34 - Wish
+	LVL 37 - Knock Off
+	LVL 39 - Toxic
+	LVL 42 - Baton Pass
+	LVL 44 - Body Slam
+	LVL 47 - Safeguard
+	LVL 50 - Double-Edge
+	LVL 53 - Hyper Voice (updated)
+	LVL 57 - Belly Drum
+	
 TM and HM:
-
-
-
+	
+	
 /- Delcatty -/
 	
 Stats: 70 HP | 80 Atk | 80 DEF | 80 Sp. Atk | 80 Sp. Def | 90 Spe TOTAL: 485
 Movepool:
-
+	
+	LVL 1 - Tackle
+	LVL 1 - Growl
+	LVL 3 - Tail-Whip
+	LVL 5 - Fake Out
+	LVL 7 - Sing
+	LVL 9 - Helping Hand
+	LVL 11 - Attract
+	LVL 13 - Disarming Voice (gen 6, normal type)
+	LVL 16 - Double Slap
+	LVL 19 - Assist
+	LVL 21 - Charm
+	LVL 23 - Covet
+	LVL 26 - Thunder Wave
+	LVL 30 - Heal Bell
+	LVL 32 - Protect
+	LVL 34 - Wish
+	LVL 37 - Knock Off
+	LVL 39 - Toxic
+	LVL 44 - Body Slam
+	LVL 47 - Safeguard
+	LVL 50 - Double-Edge
+	LVL 53 - Hyper Voice (updated)
+	LVL 57 - Belly Drum
+	
+	LVL ?? - Baton Pass (evo move)
+	
 TM and HM:
 
 
@@ -1568,13 +1685,96 @@ TM and HM:
 Stats: 40 HP | 55 Atk | 35 DEF | 30 Sp. Atk | 40 Sp. Def | 60 Spe TOTAL: 260
 Movepool:
 
+	LVL 1 - Absorb
+	LVL 1 - Supersonic
+	LVL 5 - Astonish
+	LVL 8 - Gust
+	LVL 10 - Double Team
+	LVL 13 - Wing Attack
+	LVL 15 - Poison Fang 
+	LVL 18 - Bite
+	LBL 22 - Mean Look
+	LVL 26 - Confuse Ray
+	LVL 30 - Haze
+	LVL 33 - Aerial Ace
+	LVL 37 - Torment
+	LVL 40 - X-Scissors (gen 4)
+	LVL 45 - Whirlwind
+	LVL 48 - Zen Headbutt
+	LVL 50 - Leech Life (updated)
+	LVL 55 - Brave Bird
+	
 TM and HM:
+	
 
+/- Golbat -/
 
+Movepool:
+
+	LVL 1 - Absorb
+	LVL 1 - Supersonic
+	LVL 5 - Astonish
+	LVL 8 - Gust
+	LVL 10 - Double Team
+	LVL 13 - Wing Attack
+	LVL 15 - Poison Fang 
+	LVL 18 - Bite
+	LBL 22 - Mean Look
+	LVL 26 - Confuse Ray
+	LVL 30 - Haze
+	LVL 33 - Aerial Ace
+	LVL 35 - Crunch
+	LVL 39 - Torment
+	LVL 41 - Toxic
+	LVL 43 - X-Scissors (gen 4)
+	LVL 47 - Whirlwind
+	LVL 50 - Zen Headbutt
+	LVL 52 - Leech Life (updated)
+	LVL 54 - Brave Bird
+	
+TM and HM:
+	
 /- Crobat -/
 
 Stats: 85 HP | 90 Atk | 80 DEF | 70 Sp. Atk | 80 Sp. Def | 120 Spe TOTAL: 525
 Movepool:
+	
+	LVL 1 - Absorb
+	LVL 1 - Supersonic
+	LVL 5 - Astonish
+	LVL 8 - Gust
+	LVL 10 - Double Team
+	LVL 13 - Wing Attack
+	LVL 15 - Poison Fang 
+	LVL 18 - Bite
+	LBL 22 - Mean Look
+	LVL 26 - Confuse Ray
+	LVL 30 - Haze
+	LVL 33 - Aerial Ace
+	LVL 35 - Crunch
+	LVL 39 - Torment
+	LVL 41 - Toxic
+	LVL 43 - X-Scissors (gen 4)
+	LVL 47 - Whirlwind
+	LVL 50 - Zen Headbutt
+	LVL 52 - Leech Life (updated)
+	LVL 54 - Brave Bird
+	
+	LVL ?? - Cross Posion (gen 4, evo move)
+	
+TM and HM:
+
+
+/- Tentacool -/
+
+Movepool:
+
+	LVL 1 - Poison Sting
+	LVL 1 - Water Gun
+	LVL 4 - Acid
+	LVL 8 - Wrap
+	LVL 10 - Bubble
+	LVL 12 - Supersonic
 
 TM and HM:
 
