@@ -41,7 +41,16 @@ X-Scissors (gen 4)
 Shadow Sneak (gen 4)
 Phantom Force (gen 6)
 Echoed Voice (gen 5)
-
+Extrasensory (gen 4, updated)
+Focus Blast (gen 4)
+Sound Wave (NEW -> type: flying, pwr=80, acc=100%, pp=15, 10% confusion)
+Chilling Water (gen 9)
+Drill Run (gen 5)
+Aqua Tail (gen 4)
+Aqua Jet (gen 4)
+Ice Spinner (gen 9, without extra)
+Rock Polish (gen 4)
+Stone Edge (gen 4)
 
 /-- Moves to update --/
 
@@ -62,4 +71,6 @@ Hyper Voice (pwr=110, acc=90, pp=5)
 
 Covet (pwr = 60, pp=25)
 
-Fury Cutter (updated)
+Fury Cutter - update last gen
+
+Uproar - update last gen

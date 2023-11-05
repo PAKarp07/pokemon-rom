@@ -704,7 +704,7 @@ Movepool:
 	LVL 32 - Rain Rance
 	LVL 36 - Air Slash
 	LVL 42 - Roost
-	LVL 45 - Liquidation (gen 7)
+	LVL 45 - Scald (gen 5)
 	LVL 49 - Ice Beam
 	LVL 52 - Hurricane
 	LVL 55 - Hydro Pump
@@ -736,7 +736,7 @@ Movepool:
 	LVL 38 - Protect
 	LVL 40 - Air Slash
 	LVL 42 - Roost
-	LVL 45 - Liquidation (gen 7)
+	LVL 45 - Scald (gen 5)
 	LVL 49 - Ice Beam
 	LVL 52 - Hurricane
 	LVL 55 - Hydro Pump
@@ -1178,8 +1178,19 @@ Movepool:
 	LVL 1 - Astonish
 	LVL 1 - Pound
 	LVL 5 - Echoed Voice (gen 5)
-
-
+	LVL 10 - Supersonic
+	LVL 15 - Howl
+	LVL 18 - Rest
+	LVL 18 - Sleep Talk
+	LVL 21 - Stomp
+	LVL 25 - Roar
+	LVL 30 - Uproar (updated)
+	LVL 33 - Screech
+	LVL 36 - Metronome
+	LVL 40 - Fake Tears
+	LVL 42 - Extrasensory (gen 4, updated)
+	LVL 50 - Hyper Voice (updated)
+	
 TM and HM:
 
 
@@ -1187,6 +1198,29 @@ TM and HM:
 
 Stats: 84 HP | 71 Atk | 53 DEF | 81 Sp. Atk | 53 Sp. Def | 48 Spe TOTAL: 390	
 Movepool:
+
+	LVL 1 - Astonish
+	LVL 1 - Pound
+	LVL 1 - Echoed Voice (gen 5)
+	LVL 1 - Supersonic
+	LVL 4 - Echoed Voice (gen 5)
+	LVL 8 - Supersonic
+	LVL 12 - Howl
+	LVL 15 - Rest
+	LVL 15 - Sleep Talk
+	LVL 20 - Bite	
+	LVL 22 - Roar
+	LVL 25 - Screech
+	LVL 28 - Taunt
+	LVL 32 - Knock Off
+	LVL 35 - Uproar (updated)
+	LVL 38 - Fake Tears
+	LVL 40 - Extrasensory (gen 4, updated)
+	LVL 43 - Swagger
+	LVL 45 - Crunch
+	LVL 48 - Explosion
+	LVL 52 - Focus Blast (gen 4)
+	LVL 56 - Hyper Voice (updated)
 
 TM and HM:
 
@@ -1196,9 +1230,64 @@ TM and HM:
 
 Stats: 105 HP | 81 Atk | 78 DEF | 110 Sp. Atk | 78 Sp. Def | 68 Spe TOTAL: 520	
 Movepool:
-
+	
+	LVL 1 - Astonish
+	LVL 1 - Pound
+	LVL 1 - Echoed Voice (gen 5)
+	LVL 1 - Supersonic
+	LVL 4 - Echoed Voice (gen 5)
+	LVL 8 - Supersonic
+	LVL 12 - Howl
+	LVL 15 - Rest
+	LVL 15 - Sleep Talk
+	LVL 20 - Bite	
+	LVL 22 - Roar
+	LVL 25 - Screech
+	LVL 28 - Taunt
+	LVL 32 - Knock Off
+	LVL 35 - Uproar (updated)
+	LVL 38 - Fake Tears
+	LVL 40 - Extrasensory (gen 4, updated)
+	LVL 40 - Hyper Voice (evo move)
+	LVL 42 - Swagger
+	LVL 44 - Crunch
+	LVL 47 - Sound Wave (NEW)
+	LVL 50 - Explosion
+	LVL 52 - Focus Blast (gen 4)
+	LVL 55 - Hyper Voice (evo move)
+	
 TM and HM:
 
+
+
+/- Makuhita -/
+Stats: 72 HP | 60 Atk | 40 DEF | 20 Sp. Atk | 40 Sp. Def | 35 Spe TOTAL: 267	
+
+Movepool:
+
+	LVL 1 - Focus Energy
+	LVL 1 - Tackle
+	LVL 4 - Sand-Attack
+	LVL 7 - Arm Thrust
+	LVL 10 - Fake Out
+	LVL 13 - Whirlwind
+	LVL 18 - Thunder Punch
+	LVL 18 - Fire Punch
+	LVL 18 - Ice Punch
+	LVL 20 - Detect
+	LVL 24 - Bulk Up
+	LVL 27 - Vital Throw
+	LVL 30 - Smelling Salt
+	LVL 34 - Endure
+	LVL 37 - Mega Punch
+	LVL 40 - Knock Off
+	LVL 42 - Counter
+	LVL 45 - Belly Drum
+	LVL 50 - Drain Punch (gen 4) 
+	LVL 54 - Close Combat (gen 4)
+	
+	
+TM and HM:
 
 /- Hariyama -/
 
@@ -1206,27 +1295,239 @@ lvl 32
 Stats: 140 HP | 110 Atk | 70 DEF | 40 Sp. Atk | 70 Sp. Def | 50 Spe TOTAL: 480	
 Movepool:
 
+	LVL 1 - Focus Energy
+	LVL 1 - Tackle
+	LVL 4 - Sand-Attack
+	LVL 7 - Arm Thrust
+	LVL 10 - Fake Out
+	LVL 13 - Whirlwind
+	LVL 18 - Thunder Punch
+	LVL 18 - Fire Punch
+	LVL 18 - Ice Punch
+	LVL 20 - Detect
+	LVL 24 - Bulk Up
+	LVL 27 - Vital Throw
+	LVL 30 - Smelling Salt
+	LVL 32 - Mega Punch  (evo move)
+	LVL 34 - Endure
+	LVL 38 - Reversal
+	LVL 40 - Knock Off
+	LVL 42 - Counter
+	LVL 45 - Focus Punch
+	LVL 50 - Drain Punch (gen 4) 
+	LVL 54 - Close Combat (gen 4)
+
 TM and HM:
+
+/- Goldeen -/
+
+Movepool:
+	
+	LVL 1 - Peck
+	LVL 1 - Tail Whip
+	LVL 5 - Supersonic
+	LVL 7 - Chilling Water (gen 9)
+	LVL 10 - Fury Attack
+	LVL 14 - Water Pulse
+	LVL 16 - Rain Dance
+	LVL 19 - Horn Attack
+	LVL 22 - Agility
+	LVL 26 - Haze
+	LVL 30 - Flail
+	LVL 32 - Waterfall
+	LVL 35 - Follow Me
+	LVL 40 - Double-Edge
+	LVL 44 - Drill Run (gen 5)
+	LVL 48 - Megahorn
+	LVL 52 - Horn Drill
+
+TM and HM:
+
 
 
 /- Seaking -/
 
 lvl 30
-Stats: 80 HP | 95 Atk | 65 DEF | 65 Sp. Atk | 100 Sp. Def | 80 Spe TOTAL: 485	
+Stats: 80 HP | 100 Atk | 65 DEF | 65 Sp. Atk | 100 Sp. Def | 80 Spe TOTAL: 490	
 Movepool:
 
+	LVL 1 - Peck
+	LVL 1 - Tail Whip
+	LVL 5 - Supersonic
+	LVL 7 - Chilling Water (gen 9)
+	LVL 10 - Fury Attack
+	LVL 14 - Water Pulse
+	LVL 16 - Rain Dance
+	LVL 19 - Horn Attack
+	LVL 22 - Agility
+	LVL 26 - Haze
+	LVL 30 - Flail
+	LVL 32 - Waterfall
+	LVL 34 - Protect
+	LVL 35 - Follow Me
+	LVL 38 - Double-Edge
+	LVL 40 - Drill Run (gen 5)
+	LVL 45 - Megahorn
+	LVL 50 - Skull Bash
+	LVL 52 - Horn Drill
+	
+	
 TM and HM:
 
 
+
+/- Magikarp -/
+
+Movepool:
+
+	LVL 1 - Splash
+	LVL 15 - Tackle
+	LVL 25 - Flail
+	LVL 35 - Bounce
+
+/- Gyarados -/
+
+Movepool:
+
+	LVL 1 - Twister
+	LVL 1 - Tackle
+	LVL 1 - Flail
+	LVL 1 - Leer
+	LVL 3 - Twister
+	LVL 4 - Whirlpool
+	LVL 4 - Whirlpool
+	LVL 8 - Ice Fang (gen 4)
+	LVL 12 - Scary Face
+	LVL 18 - Water Pulse
+	LVL 20 - Bite (evo move)
+	LVL 22 - Air Cutter
+	LVL 25 - Dragon Rage
+	LVL 30 - Mean Look
+	LVL 32 - Screech
+	LVL 37 - Crunch
+	LVL 42 - Aqua Tail (gen 4)
+	LVL 47 - Rain Dance
+	LVL 50 - Hydro Pump
+	LVL 52 - Thrash
+	LVL 58 - Outrage
+	LVL 63 - Dragon Rage
+	
+TM and HM:
+
+
+
+/- Azurill -/
+
+Movepool:
+	
+	LVL 1 - Splash
+	LVL 1 - Water Gun
+	LVL 1 - Tail-Whip
+	LVL 3 - Helping Hand
+	LVL 7 - Bubble
+	LVL 10 - Charm
+	LVL 15 - Encore
+	LVL 17 - Refresh
+	LVL 20 - Aqua Jet (gen 4)
+	LVL 24 - Perish Song
+	LVL 27 - Slam
+	LVL 30 - Bounce
+	LVL 35 - Protect
+	LVL 38 - Bounce
+	LVL 40 - Waterfall
+	LVL 43 - Ice Spinner (gen 9, without extra)
+	LVL 45 - Belly Drum
+	LVL 48 - Double-Edge
+	LVL 52 - Superpower
+	
+TM and HM:
+
+
+/- Marill -/
+
+Movepool:
+	
+	LVL 1 - Splash
+	LVL 1 - Water Gun
+	LVL 1 - Tail-Whip
+	LVL 3 - Helping Hand
+	LVL 7 - Bubble
+	LVL 10 - Charm
+	LVL 15 - Encore
+	LVL 17 - Refresh
+	LVL 20 - Aqua Jet (gen 4)
+	LVL 24 - Slam
+	LVL 30 - Bounce
+	LVL 32 - Protect
+	LVL 35 - Bounce
+	LVL 38 - Iron Tail
+	LVL 40 - Waterfall
+	LVL 42 - Belly Drum
+	LVL 44 - Ice Spinner (gen 9, without extra)
+	LVL 48 - Double-Edge
+	LVL 52 - Superpower
+	
 /- Azumarill -/
 
-lvl 26
+lvl 24
 Stats: 110 HP | 55 Atk | 80 DEF | 40 Sp. Atk | 80 Sp. Def | 50 Spe TOTAL: 415	
 Movepool:
 
+	LVL 1 - Splash
+	LVL 1 - Water Gun
+	LVL 1 - Tail-Whip
+	LVL 3 - Helping Hand
+	LVL 7 - Bubble
+	LVL 10 - Charm
+	LVL 15 - Encore
+	LVL 17 - Refresh
+	LVL 20 - Aqua Jet (gen 4)
+	LVL 24 - Slam
+	LVL 30 - Bounce
+	LVL 32 - Protect
+	LVL 35 - Bounce
+	LVL 38 - Iron Tail
+	LVL 42 - Waterfall
+	LVL 45 - Ice Spinner (gen 9, without extra)
+	LVL 48 - Double-Edge
+	LVL 55 - Superpower
+	
+TM and HM:
+	
+/- Geodude -/
+
+Movepool:
+	LVL 1 - Defense Curl
+	LVL 1 - Tackle
+	LVL 6 - Rock Polish (gen 4)
+	LVL 8 - Rollout
+	LVL 10 - Magnitude
+	LVL 13 - Rock Throw
+	LVL 17 - Bulldoze (gen 4)
+	LVL 20 - Endure
+	LVL 22 - Sandstorm
+	LVL 25 - Self-Destruct
+	LVL 28 - Rock Throw
+	LVL 32 - Body Slam
+	LVL 36 - Curse
+	LVL 38 - Rock Slide
+	LVL 42 - Explosion
+	LVL 45 - Double-Edge
+	LVL 47 - Counter
+	LVL 50 - Earthquake
+	LVL 54 - Stone Edge (gen 4)
+	
 TM and HM:
 
 
+	
+/- Graveler -/
+
+Movepool:
+
+
+TM and HM:
+	
 /- Golem -/
 
 lvl 40
