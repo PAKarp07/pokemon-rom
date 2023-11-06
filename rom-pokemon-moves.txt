@@ -54,6 +54,7 @@ Stone Edge (gen 4)
 Head Smash (gen 4)
 Wild Charge (gen 5)
 Cross Posion (gen 4)
+Dark Pulse (gen 4)
 
 /-- Moves to update --/
 

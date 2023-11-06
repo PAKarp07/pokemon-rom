@@ -1771,12 +1771,56 @@ Movepool:
 
 	LVL 1 - Poison Sting
 	LVL 1 - Water Gun
+	LVL 3 - Constrict
 	LVL 4 - Acid
 	LVL 8 - Wrap
 	LVL 10 - Bubble
 	LVL 12 - Supersonic
-
+	LVL 16 - Water Pulse
+	LVL 20 - Screech
+	LVL 24 - Bubble Beam
+	LVL 28 - Aurora Beam
+	LVL 32 - Barrier
+	LVL 35 - Acid Armor
+	LVL 40 - Poison Jab (gen 4)
+	LVL 42 - Surf
+	LVL 46 - Memento
+	LVL 48 - Toxic
+	LVL 51 - Sludge Bomb
+	LVL 53 - Hydro Pump
+	
 TM and HM:
+
+
+/- Tentacruel -/
+
+Movepool:
+
+	LVL 1 - Poison Sting
+	LVL 1 - Water Gun
+	LVL 1 - Constrict
+	LVL 1 - Acid
+	LVL 3 - Constrict
+	LVL 4 - Acid
+	LVL 8 - Wrap
+	LVL 10 - Bubble
+	LVL 12 - Supersonic
+	LVL 16 - Water Pulse
+	LVL 20 - Screech
+	LVL 24 - Bubble Beam
+	LVL 28 - Aurora Beam
+	LVL 30 - Payback 
+	LVL 32 - Barrier
+	LVL 35 - Acid Armor
+	LVL 40 - Poison Jab (gen 4)
+	LVL 42 - Surf
+	LVL 46 - Memento
+	LVL 48 - Toxic
+	LVL 51 - Sludge Bomb
+	LVL 53 - Hydro Pump
+	
+TM and HM:
+
 
 
 
@@ -1784,8 +1828,26 @@ TM and HM:
 
 Stats: 50 HP | 85 Atk | 125 DEF | 85 Sp. Atk | 115 Sp. Def | 20 Spe TOTAL: 480
 Movepool:
-
-
+	
+	LVL 1 - Leer
+	LVL 1 - Scratch
+	LVL 3 - Astonish
+	LVL 9 - Shadow Sneak (gen 4)
+	LVL 12 - Fury Swipes
+	LVL 16 - Fake Out
+	LVL 20 - Disable
+	LVL 23 - Detect
+	LVL 25 - Night Shade
+	LVL 29 - Feint Attack
+	LVL 32 - Confuse Ray
+	LVL 37 - Snatch
+	LVL 40 - Knock Off (updated)
+	LVL 42 - Mean Look
+	LVL 45 - Shadow Ball
+	LVL 48 - Taunt
+	LVL 50 - Dark Pulse (gen 4)
+	LVL 52 - Recover
+	
 TM and HM:
 
 
