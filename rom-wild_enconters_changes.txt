@@ -231,14 +231,16 @@ Horsea: 0% -> 5%
 
 -- Granite Cave B1F --
 
-Aron: 40% -> 30%
-Mawile: 0% -> 10%
-
+Mawile: 0% -> 1%
+Sableye: 10% -> 1%
+Zubat: 30% -> 38%
 
 -- Granite Cave B2F --
 
-Aron: 40% -> 20%
-Mawile: 0% -> 20%
+Zubat: 30% -> 40%
+Mawile: 0% -> 1%
+Sableye: 10% -> 1%
+Abra: 10% -> 18%
 
 //Rock Smash//
 Geodude: 70% -> 60%
