@@ -1844,9 +1844,9 @@ Movepool:
 	LVL 40 - Knock Off (updated)
 	LVL 42 - Mean Look
 	LVL 45 - Shadow Ball
-	LVL 48 - Taunt
-	LVL 50 - Dark Pulse (gen 4)
-	LVL 52 - Recover
+	LVL 48 - Dark Pulse (gen 4)
+	LVL 50 - Taunt
+	LVL 54 - Recover
 	
 TM and HM:
 
@@ -1858,8 +1858,43 @@ Type: Steel Ghost
 Stats: 70 HP | 125 Atk | 95 DEF | 55 Sp. Atk | 55 Sp. Def | 80 Spe TOTAL: 480
 ability: Intimidate/Strong Jaw
 Movepool:
+	
+	LVL 1 - Fake Tears
+	LVL 1 - Astonish
+	LVL 5 - Sweet Scent
+	LVL 7 - ViceGrip
+	LVL 12 - Bite
+	LVL 15 - Attract
+	LVL 18 - Stockpile
+	LVL 18 - Spit Up
+	LVL 18 - Stockpile
+	LVL 20 - Night Shade
+	LVL 24 - Feint Attack
+	LVL 27 - Fire Fang (gen 4)
+	LVL 27 - Ice Fang (gen 4)
+	LVL 27 - Thunder Fang (gen 4)
+	LVL 30 - Iron Defense
+	LVL 33 - Torment
+	LVL 37 - Shadow Claw (gen 4)
+	LVL 40 - Crunch
+	LVL 42 - Iron Head
+	LVL 45 - Taunt
+	LVL 49 - Spectral Bite (NEW)
+	LVL 53 - Steel Crush (NEW)
+	
+	
+TM and HM:
+
+
+/- Aron -/
+
+Movepool:
+
+
 
 TM and HM:
+
+
 
 
 /- Lairon -/
