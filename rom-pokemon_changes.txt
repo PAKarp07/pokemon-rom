@@ -1888,9 +1888,25 @@ TM and HM:
 
 /- Aron -/
 
+Ability: Rock Head/Filter (gen 4)
 Movepool:
 
-
+	LVL 1 - Harden
+	LVL 1 - Tackle
+	LVL 4 - Metal Claw
+	LVL 8 - Rock Tomb
+	LVL 12 - Roar
+	LVL 16 - Headbutt
+	LVL 20 - Sandstorm
+	LVL 25 - Protect
+	LVL 30 - Rock Slide
+	LVL 32 - Metal Sound
+	LVL 37 - Take Down
+	LVL 40 - Iron Head
+	LVL 44 - Iron Defense
+	LVL 47 - Double-Edge
+	LVL 50 - Iron Tail
+	LVL 52 - Head Smash (gen 4)
 
 TM and HM:
 
@@ -1899,18 +1915,59 @@ TM and HM:
 
 /- Lairon -/
 
+Ability: Rock Head/Filter (gen 4)
 LVL up 28
 
 Movepool:
 
+	LVL 1 - Harden
+	LVL 1 - Tackle
+	LVL 1 - Metal Claw
+	LVL 4 - Metal Claw
+	LVL 8 - Rock Tomb
+	LVL 12 - Roar
+	LVL 16 - Headbutt
+	LVL 20 - Sandstorm
+	LVL 25 - Protect
+	LVL 28 - Bulldoze (gen 4, evo move)
+	LVL 30 - Rock Slide
+	LVL 32 - Metal Sound
+	LVL 37 - Take Down
+	LVL 40 - Iron Head
+	LVL 44 - Iron Defense
+	LVL 47 - Double-Edge
+	LVL 50 - Iron Tail
+	LVL 52 - Head Smash (gen 4)
+	
 TM and HM:
 
 
 /- Aggron -/
 
+Ability: Rock Head/Filter (gen 4)
 Stats: 80 HP | 110 Atk | 180 DEF | 50 Sp. Atk | 70 Sp. Def | 50 Spe TOTAL: 540
 Movepool:
-
+	
+	LVL 1 - Harden
+	LVL 1 - Tackle
+	LVL 1 - Metal Claw
+	LVL 4 - Metal Claw
+	LVL 8 - Rock Tomb
+	LVL 12 - Roar
+	LVL 16 - Headbutt
+	LVL 20 - Sandstorm
+	LVL 25 - Protect
+	LVL 28 - Bulldoze
+	LVL 30 - Rock Slide
+	LVL 32 - Metal Sound
+	LVL 37 - Take Down
+	LVL 40 - Iron Head
+	LVL 42 - Reversal 
+	LVL 44 - Iron Defense
+	LVL 47 - Double-Edge
+	LVL 50 - Iron Tail
+	LVL 52 - Head Smash (gen 4)
+	
 TM and HM:
 
 
