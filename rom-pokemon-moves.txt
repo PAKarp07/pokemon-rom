@@ -62,7 +62,12 @@ Psycho Cut (gen 4)
 Drain Punch (gen 4)
 Discharge (gen 4)
 Nasty Plot (gen 4)
-
+Nuzzle (gen 6)
+Charge Beam (gen 4)
+Flash Cannon (gen 4)
+Snarl (gen 5)
+Electro Ball (gen 5)
+Eerie Impulse (gen 6)
 
 /-- Moves to update --/
 

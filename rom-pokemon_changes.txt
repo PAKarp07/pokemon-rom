@@ -559,7 +559,8 @@ Movepool:
 	LVL 7 - Growth
 	LVL 12 - Rollout
 	LVL 14 - Mega Drain
-	LVL 16 - Double Team
+	LVL 16 - Pursuit (updated)
+	LVL 19 - Snarl (gen 5)
 	LVL 21 - Pursuit (updated)
 	LVL 25 - Leaf Tornado (gen 5)
 	LVL 30 - Sunny Day
@@ -585,10 +586,10 @@ TM and HM:
 	LVL 7 - Growth
 	LVL 12 - Rollout
 	LVL 14 - Mega Drain
-	LVL 16 - Double Team
-	LVL 18 - Fake Out
-	LVL 20 - Razor Leaf
-	LVL 22 - Pursuit (updated)
+	LVL 16 - Fake Out
+	LVL 18 - Razor Leaf
+	LVL 20 - Pursuit (updated)
+	LVL 23 - Snarl (gen 5)
 	LVL 26 - Leaf Tornado (gen 5)
 	LVL 30 - Sunny Day
 	LVL 32 - Giga Drain
@@ -614,10 +615,10 @@ Movepool:
 	LVL 7 - Growth
 	LVL 12 - Rollout
 	LVL 14 - Mega Drain
-	LVL 16 - Double Team
-	LVL 18 - Fake Out
-	LVL 20 - Razor Leaf
-	LVL 22 - Pursuit (updated)
+	LVL 16 - Fake Out
+	LVL 18 - Razor Leaf
+	LVL 20 - Pursuit (updated)
+	LVL 23 - Snarl (gen 5)
 	LVL 26 - Leaf Tornado (gen 5)
 	LVL 30 - Sunny Day
 	LVL 32 - Giga Drain
@@ -2190,8 +2191,29 @@ TM and HM:
 
 Stats: 60 HP | 40 Atk | 50 DEF | 85 Sp. Atk | 95 Sp. Def | 100 Spe TOTAL: 430
 Movepool:
-
-
+	
+	LVL 1 - Growl
+	LVL 1 - Nuzzle (gen 6)
+	LVL 1 - Quick Attack
+	LVL 4 - Helping Hand
+	LVL 7 - Spark
+	LVL 10 - Encore
+	LVL 13 - Skill Swap
+	LVL 16 - Swift
+	LVL 19 - Charm
+	LVL 22 - Charge Beam (gen 4)
+	LVL 26 - Fake Tears
+	LVL 28 - Charge
+	LVL 31 - Discharge (gen 4)
+	LVL 34 - Baton Pass
+	LVL 37 - Agility
+	LVL 40 - Substitute
+	LVL 43 - Protect
+	LVL 45 - Wish
+	LVL 48 - Thunder
+	LVL 52 - Sweet Kiss
+	LVL 55 - Nasty Plot (gen 4)
+	
 TM and HM:
 
 
@@ -2201,26 +2223,139 @@ TM and HM:
 Stats: 60 HP | 40 Atk | 95 DEF | 85 Sp. Atk | 50 Sp. Def | 100 Spe TOTAL: 430
 Movepool:
 
+	LVL 1 - Growl
+	LVL 1 - Nuzzle (gen 6)
+	LVL 1 - Quick Attack
+	LVL 4 - Helping Hand
+	LVL 7 - Spark
+	LVL 10 - Encore
+	LVL 13 - Skill Swap
+	LVL 16 - Swift
+	LVL 19 - Charm
+	LVL 22 - Charge Beam (gen 4)
+	LVL 26 - Fake Tears
+	LVL 28 - Charge
+	LVL 31 - Discharge (gen 4)
+	LVL 34 - Baton Pass
+	LVL 37 - Agility
+	LVL 40 - Substitute
+	LVL 43 - Protect
+	LVL 45 - Wish
+	LVL 48 - Thunder
+	LVL 52 - Sweet Kiss
+	LVL 55 - Nasty Plot (gen 4)
 
 TM and HM:
 
+/- Magnemite -/
 
+Movepool:
+
+	LVL 1 - Tackle
+	LVL 1 - Thunder Shock
+	LVL 4 - Supersonic
+	LVL 7 - Thunder Wave
+	LVL 10 - Endure
+	LVL 14 - Sonicboom
+	LVL 19 - Swift
+	LVL 22 - Charge Beam (gen 4)
+	LVL 25 - Self-Destruct
+	LVL 28 - Light Screen
+	LVL 32 - Iron Defense
+	LVL 35 - Iron Head (gen 4)
+	LVL 38 - Discharge (gen 4)
+	LVL 40 - Metal Sound
+	LVL 43 - Sound Wave (NEW)
+	LVL 45 - Flash Cannon (gen 4)
+	LVL 48 - Explosion
+	LVL 51 - Hyper Beam
+	LVL 56 - Lock-On
+	LVL 56 - Zap Cannon
+	
+TM and HM:
+
+	
 /- Magneton -/
 
 Stats: 65 HP | 60 Atk | 100 DEF | 120 Sp. Atk | 80 Sp. Def | 60 Spe TOTAL: 485
 Movepool:
 
+	LVL 1 - Tackle
+	LVL 1 - Thunder Shock
+	LVL 1 - Supersonic
+	LVL 1 - Thunder Wave
+	LVL 4 - Supersonic
+	LVL 7 - Thunder Wave
+	LVL 10 - Endure
+	LVL 14 - Sonicboom
+	LVL 19 - Swift
+	LVL 22 - Charge Beam (gen 4)
+	LVL 25 - Self-Destruct
+	LVL 28 - Light Screen
+	LVL 30 - Tri Attack (evo move)
+	LVL 32 - Iron Defense
+	LVL 35 - Iron Head (gen 4)
+	LVL 38 - Discharge (gen 4)
+	LVL 40 - Metal Sound
+	LVL 43 - Sound Wave (NEW)
+	LVL 45 - Flash Cannon (gen 4)
+	LVL 48 - Explosion
+	LVL 51 - Hyper Beam
+	LVL 56 - Lock-On
+	LVL 56 - Zap Cannon
 
 TM and HM:
 
 
+/- Voltorb -/
+
+Movepool:
+
+	LVL 1 - Tackle
+	LVL 1 - Leer
+	LVL 4 - Thunder Shock
+	LVL 9 - Rollout
+	LVL 13 - Pursuit (updated)
+	LVL 16 - Sonicboom
+	LVL 19 - Protect
+	LVL 22 - Self-Destruct
+	LVL 25 - Swift
+	LVL 27 - Charged Beam (gen 4)
+	LVL 31 - Eerie Impulse (gen 6)
+	LVL 35 - Mirror Coat
+	LVL 38 - Discharge (gen 4)
+	LVL 42 - Explosion
+	LVL 44 - Taunt
+	LVL 47 - Block
+	LVL 50 - Electro Ball (gen 5)
+	
+TM and HM:
+
 
 /- Electrode -/
 
-Type: Electric/Steel
 Stats: 60 HP | 50 Atk | 70 DEF | 90 Sp. Atk | 80 Sp. Def | 150 Spe TOTAL: 500
 Movepool:
 
+	LVL 1 - Tackle
+	LVL 1 - Leer
+	LVL 1 - Thunder Shock
+	LVL 1 - Rollout
+	LVL 4 - Thunder Shock
+	LVL 9 - Rollout
+	LVL 13 - Pursuit (updated)
+	LVL 16 - Sonicboom
+	LVL 19 - Protect
+	LVL 22 - Self-Destruct
+	LVL 25 - Swift
+	LVL 27 - Charged Beam (gen 4)
+	LVL 31 - Eerie Impulse (gen 6)
+	LVL 35 - Mirror Coat
+	LVL 38 - Discharge (gen 4)
+	LVL 42 - Explosion
+	LVL 44 - Taunt
+	LVL 47 - Block
+	LVL 50 - Electro Ball (gen 5)
 
 TM and HM:
 
