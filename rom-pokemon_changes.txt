@@ -1971,12 +1971,89 @@ Movepool:
 TM and HM:
 
 
+/- Machop -/
+
+Movepool:
+
+	LVL 1 - Leer
+	LVL 1 - Low Kick
+	LVL 4 - Focus Energy
+	LVL 8 - Seismic Toss
+	LVL 12 - Foresight
+	LVL 15 - Karate Chop
+	LVL 18 - Scary Face
+	LVL 21 - Revenge
+	LVL 25 - Fire Punch
+	LVL 25 - Ice Punch
+	LVL 25 - Thunder Punch
+	LVL 28 - Dual Chop (gen 5)
+	LVL 31 - Swagger
+	LVL 33 - Bulk Up
+	LVL 36 - Knock Off
+	LVL 40 - Dynamic Punch
+	LVL 48 - Double-Edge
+	LVL 50 - Cross Chop
+	
+	
+TM and HM:
+
+
+/- Machoke -/
+
+Movepool:
+
+	LVL 1 - Leer
+	LVL 1 - Low Kick
+	LVL 1 - Focus Energy
+	LVL 1 - Seismic Toss
+	LVL 4 - Focus Energy
+	LVL 8 - Seismic Toss
+	LVL 12 - Foresight
+	LVL 15 - Karate Chop
+	LVL 18 - Scary Face
+	LVL 21 - Revenge
+	LVL 25 - Fire Punch
+	LVL 25 - Ice Punch
+	LVL 25 - Thunder Punch
+	LVL 28 - Dual Chop (gen 5)
+	LVL 31 - Swagger
+	LVL 33 - Bulk Up
+	LVL 36 - Knock Off
+	LVL 40 - Dynamic Punch
+	LVL 48 - Double-Edge
+	LVL 50 - Cross Chop
+	
+	
+TM and HM:
+
+
 /- Machamp -/
 
 lvl 38
 Stats: 90 HP | 135 Atk | 80 DEF | 65 Sp. Atk | 85 Sp. Def | 60 Spe TOTAL: 515
 Movepool:
-
+	
+	LVL 1 - Leer
+	LVL 1 - Low Kick
+	LVL 1 - Focus Energy
+	LVL 1 - Seismic Toss
+	LVL 4 - Focus Energy
+	LVL 8 - Seismic Toss
+	LVL 12 - Foresight
+	LVL 15 - Karate Chop
+	LVL 18 - Scary Face
+	LVL 21 - Revenge
+	LVL 25 - Fire Punch
+	LVL 25 - Ice Punch
+	LVL 25 - Thunder Punch
+	LVL 28 - Dual Chop (gen 5)
+	LVL 31 - Swagger
+	LVL 33 - Bulk Up
+	LVL 36 - Knock Off
+	LVL 40 - Dynamic Punch
+	LVL 48 - Double-Edge
+	LVL 50 - Cross Chop
+	
 TM and HM:
 
 
