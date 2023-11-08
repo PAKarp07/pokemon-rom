@@ -1991,6 +1991,7 @@ Movepool:
 	LVL 33 - Bulk Up
 	LVL 36 - Knock Off
 	LVL 40 - Dynamic Punch
+	LVL 44 - Counter
 	LVL 48 - Double-Edge
 	LVL 50 - Cross Chop
 	
@@ -2020,6 +2021,7 @@ Movepool:
 	LVL 33 - Bulk Up
 	LVL 36 - Knock Off
 	LVL 40 - Dynamic Punch
+	LVL 44 - Counter
 	LVL 48 - Double-Edge
 	LVL 50 - Cross Chop
 	
@@ -2051,6 +2053,7 @@ Movepool:
 	LVL 33 - Bulk Up
 	LVL 36 - Knock Off
 	LVL 40 - Dynamic Punch
+	LVL 44 - Counter
 	LVL 48 - Double-Edge
 	LVL 50 - Cross Chop
 	
@@ -2060,9 +2063,33 @@ TM and HM:
 /- Meditite -/
 
 Stats: 30 HP | 50 Atk | 55 DEF | 40 Sp. Atk | 55 Sp. Def | 60 Spe TOTAL: 290
+
 Movepool:	
-
-
+		
+	LVL 1 - Bide
+	LVL 1 - Confusion
+	LVL 1 - Meditate
+	LVL 4 - Feint
+	LVL 9 - Detect
+	LVL 12 - Endure
+	LVL 15 - Psybeam
+	LVL 17 - Force Palm (gen 4)
+	LVL 20 - Skill Swap
+	LVL 23 - Psycho Cut (gen 4)
+	LVL 27 - Rolling Kick
+	LVL 30 - Light Screen
+	LVL 30 - Reflect
+	LVL 32 - Imprison
+	LVL 34 - Focus Punch
+	LVL 36 - Trick
+	LVL 38 - Psych Up
+	LVL 41 - High Jump Kick
+	LVL 43 - Zen Headbutt (gen 4)
+	LVL 46 - Drain Punch (gen 4) 
+	LVL 49 - Poison Jab (gen 4)
+	LVL 52 - Mega Kick
+	LVL 55 - Recover
+	
 TM and HM:
 
 
@@ -2070,20 +2097,91 @@ TM and HM:
 
 /- Medicham -/
 
-lvl up: 40
-Stats: 70 HP | 70 Atk | 75 DEF | 45 Sp. Atk | 75 Sp. Def | 100 Spe TOTAL: 435
+Stats: 70 HP | 75 Atk | 75 DEF | 45 Sp. Atk | 75 Sp. Def | 100 Spe TOTAL: 440
+
 Movepool:
 
+	LVL 1 - Bide
+	LVL 1 - Confusion
+	LVL 1 - Meditate
+	LVL 1 - Detect
+	LVL 4 - Feint
+	LVL 9 - Detect
+	LVL 12 - Endure
+	LVL 15 - Psybeam
+	LVL 17 - Force Palm (gen 4)
+	LVL 20 - Skill Swap
+	LVL 23 - Psycho Cut (gen 4)
+	LVL 27 - Rolling Kick
+	LVL 30 - Light Screen
+	LVL 30 - Reflect
+	LVL 32 - Imprison
+	LVL 34 - Focus Punch
+	LVL 36 - Trick
+	LVL 38 - Psych Up
+	LVL 40 - High Jump Kick (evo move)
+	LVL 43 - Zen Headbutt (gen 4)
+	LVL 46 - Poison Jab (gen 4)
+	LVL 49 - Drain Punch (gen 4) 
+	LVL 52 - Mega Kick
+	LVL 55 - Recover
 
 TM and HM:
 
 
-/- Manectric -/
 
-lvl up: 40
-Stats: 70 HP | 70 Atk | 60 DEF | 100 Sp. Atk | 60 Sp. Def | 125 Spe TOTAL: 485
+
+/- Electrike -/
+
 Movepool:
 
+	LVL 1 - Tackle
+	LVL 1 - Thunder Wave
+	LVL 4 - Leer
+	LVL 8 - Howl
+	LVL 11 - Quick Attack
+	LVL 15 - Shock Wave
+	LVL 18 - Odor Sleuth
+	LVL 20 - Bite
+	LVL 24 - Thunder Fang (gen 4)
+	LVL 28 - Double Team
+	LVL 31 - Roar
+	LVL 34 - Extreme Speed
+	LVL 37 - Swift
+	LVL 42 - Crunch
+	LVL 45 - Charge
+	LVL 49 - Discharge (gen 4)
+	LVL 51 - Nasty Plot (gen 4)
+	LVL 54 - Thunder
+
+TM and HM:
+
+/- Manectric -/
+
+lvl up: 34
+Stats: 70 HP | 70 Atk | 60 DEF | 100 Sp. Atk | 60 Sp. Def | 125 Spe TOTAL: 485
+Movepool:
+	
+	LVL 1 - Tackle
+	LVL 1 - Thunder Wave
+	LVL 1 - Leer
+	LVL 1 - Quick Attack
+	LVL 4 - Leer
+	LVL 8 - Howl
+	LVL 11 - Quick Attack
+	LVL 15 - Shock Wave
+	LVL 18 - Odor Sleuth
+	LVL 20 - Bite
+	LVL 24 - Thunder Fang (gen 4)
+	LVL 28 - Double Team
+	LVL 31 - Roar
+	LVL 34 - Extreme Speed
+	LVL 37 - Swift
+	LVL 42 - Crunch
+	LVL 45 - Charge
+	LVL 49 - Discharge (gen 4)
+	LVL 51 - Nasty Plot (gen 4)
+	LVL 54 - Thunder
 
 TM and HM:
 

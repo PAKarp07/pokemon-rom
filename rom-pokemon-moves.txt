@@ -57,6 +57,11 @@ Cross Posion (gen 4)
 Dark Pulse (gen 4)
 Spectral Bite (NEW -> type: ghost, pwr=90, acc=95%, pp=10, 20% def down, physical)
 Steel Crush (NEW -> type: steel, pwr=150, acc=90%, pp=5, recharge, physical)
+Force Palm (gen 4)
+Psycho Cut (gen 4)
+Drain Punch (gen 4)
+Discharge (gen 4)
+Nasty Plot (gen 4)
 
 
 /-- Moves to update --/
