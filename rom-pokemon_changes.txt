@@ -2365,17 +2365,62 @@ TM and HM:
 Stats: 85 HP | 75 Atk | 75 DEF | 47 Sp. Atk | 85 Sp. Def | 85 Spe TOTAL: 452
 Movepool:
 
-
+	LVL 1 - Tackle
+	LVL 5 - Double Team
+	LVL 7 - Confuse Ray
+	LVL 10 - Quick Attack
+	LVL 12 - Charm
+	LVL 15 - Bug Bite (gen 4)
+	LVL 19 - Sweet Scent
+	LVL 23 - Moonlight
+	LVL 27 - Protect
+	LVL 30 - Encore
+	LVL 33 - Take Down
+	LVL 36 - Tail Glow
+	LVL 39 - Helping Hand
+	LVL 42 - Trick
+	LVL 45 - Zen Headbutt
+	LVL 48 - Leech Life (updated)
+	LVL 50 - Double-Edge
+	LVL 53 - Baton Pass
+	
 TM and HM:
+
+
 
 /- Illumise -/
 
 Stats: 85 HP | 47 Atk | 85 DEF | 75 Sp. Atk | 75 Sp. Def | 85 Spe TOTAL: 452
 Movepool:
 
-
+	LVL 1 - Tackle
+	LVL 5 - Double Team
+	LVL 7 - Confuse Ray
+	LVL 10 - Quick Attack
+	LVL 12 - Charm
+	LVL 15 - Struggle Bug (gen 4)
+	LVL 19 - Sweet Scent
+	LVL 23 - Moonlight
+	LVL 27 - Protect
+	LVL 30 - Encore
+	LVL 33 - Charge Beam (gen 4)
+	LVL 36 - Tail Glow
+	LVL 39 - Helping Hand
+	LVL 42 - Trick
+	LVL 45 - Air Cutter
+	LVL 48 - Bug Buzz (gen 4)
+	LVL 50 - Hyper Beam
+	LVL 53 - Baton Pass
+	
 TM and HM:
 
+
+/- Oddish -/
+
+Movepool:
+
+
+TM and HM:
 
 
 /- Gloom -/

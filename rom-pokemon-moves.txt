@@ -91,3 +91,5 @@ Covet (pwr = 60, pp=25)
 Fury Cutter - update last gen
 
 Uproar - update last gen
+
+Leech Life (updated)
