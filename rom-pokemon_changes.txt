@@ -2418,7 +2418,12 @@ TM and HM:
 /- Oddish -/
 
 Movepool:
-
+	
+	LVL 1 - Absorb
+	LVL 1 - Growth
+	LVL 4 - Acid
+	LVL 8 - Sweet Scent
+	LVL 12 - Mega Drain
 
 TM and HM:
 
