@@ -108,7 +108,7 @@ Movepool:
 	LVL 35 - Flamethrower
 	LVL 38 - Feather Dance
 	LVL 42 - Reversal
-	LVL 46 - Fire Blitz (gen 4)
+	LVL 46 - Flare Blitz (gen 4)
 	
 TM and HM:
 
@@ -136,7 +136,7 @@ Movepool:
 	LVL 42 - Feather Dance
 	LVL 44 - Reversal
 	LVL 46 - Sky Uppercut
-	LVL 50 - Fire Blitz (gen 4)
+	LVL 50 - Flare Blitz (gen 4)
 	LVL 54 - Close Combat (gen 4)
 	
 TM and HM:
@@ -167,7 +167,7 @@ Movepool:
 	LVL 40 - Reversal
 	LVL 42 - Sky Uppercut
 	LVL 45 - Mirror Move
-	LVL 50 - Fire Blitz (gen 4)
+	LVL 50 - Flare Blitz (gen 4)
 	LVL 54 - Close Combat (gen 4)
 	
 TM and HM:
@@ -453,7 +453,7 @@ Movepool:
 	LVL 20 - Protect
 	LVL 22 - Struggle Bug (gen 4)
 	LVL 24 - Psybeam
-	LVL 27 - Venoshock (gen 5, sem o efeito)
+	LVL 27 - Venoshock (gen 5, without double damage, 10% poison)
 	LVL 28 - Protect
 	LVL 30 - Whirlwind
 	LVL 32 - Toxic
@@ -559,7 +559,7 @@ Movepool:
 	LVL 7 - Growth
 	LVL 12 - Rollout
 	LVL 14 - Mega Drain
-	LVL 16 - Pursuit (updated)
+	LVL 16 - Fake Out
 	LVL 19 - Snarl (gen 5)
 	LVL 21 - Pursuit (updated)
 	LVL 25 - Leaf Tornado (gen 5)
@@ -1281,7 +1281,7 @@ Movepool:
 	LVL 30 - Smelling Salt
 	LVL 34 - Endure
 	LVL 37 - Mega Punch
-	LVL 40 - Knock Off
+	LVL 40 - Knock Off (updated)
 	LVL 42 - Counter
 	LVL 45 - Belly Drum
 	LVL 50 - Drain Punch (gen 4) 
@@ -1312,7 +1312,7 @@ Movepool:
 	LVL 32 - Mega Punch  (evo move)
 	LVL 34 - Endure
 	LVL 38 - Reversal
-	LVL 40 - Knock Off
+	LVL 40 - Knock Off (updated)
 	LVL 42 - Counter
 	LVL 45 - Focus Punch
 	LVL 50 - Drain Punch (gen 4) 
@@ -1634,7 +1634,7 @@ Movepool:
 	LVL 30 - Heal Bell
 	LVL 32 - Protect
 	LVL 34 - Wish
-	LVL 37 - Knock Off
+	LVL 37 - Knock Off (updated)
 	LVL 39 - Toxic
 	LVL 42 - Baton Pass
 	LVL 44 - Body Slam
@@ -1667,7 +1667,7 @@ Movepool:
 	LVL 30 - Heal Bell
 	LVL 32 - Protect
 	LVL 34 - Wish
-	LVL 37 - Knock Off
+	LVL 37 - Knock Off (updated)
 	LVL 39 - Toxic
 	LVL 44 - Body Slam
 	LVL 47 - Safeguard
@@ -1827,7 +1827,7 @@ TM and HM:
 
 /- Sableye -/
 
-Stats: 50 HP | 85 Atk | 125 DEF | 85 Sp. Atk | 115 Sp. Def | 20 Spe TOTAL: 480
+Stats: 50 HP | 75 Atk | 135 DEF | 75 Sp. Atk | 125 Sp. Def | 20 Spe TOTAL: 480
 Movepool:
 	
 	LVL 1 - Leer
@@ -1844,7 +1844,8 @@ Movepool:
 	LVL 37 - Snatch
 	LVL 40 - Knock Off (updated)
 	LVL 42 - Mean Look
-	LVL 45 - Shadow Ball
+	LVL 44 - Power Gem (gen 4)
+	LVL 46 - Shadow Ball
 	LVL 48 - Dark Pulse (gen 4)
 	LVL 50 - Taunt
 	LVL 54 - Recover
@@ -1990,7 +1991,7 @@ Movepool:
 	LVL 28 - Dual Chop (gen 5)
 	LVL 31 - Swagger
 	LVL 33 - Bulk Up
-	LVL 36 - Knock Off
+	LVL 36 - Knock Off (updated)
 	LVL 40 - Dynamic Punch
 	LVL 44 - Counter
 	LVL 48 - Double-Edge
@@ -2020,7 +2021,7 @@ Movepool:
 	LVL 28 - Dual Chop (gen 5)
 	LVL 31 - Swagger
 	LVL 33 - Bulk Up
-	LVL 36 - Knock Off
+	LVL 36 - Knock Off (updated)
 	LVL 40 - Dynamic Punch
 	LVL 44 - Counter
 	LVL 48 - Double-Edge
@@ -2052,7 +2053,7 @@ Movepool:
 	LVL 28 - Dual Chop (gen 5)
 	LVL 31 - Swagger
 	LVL 33 - Bulk Up
-	LVL 36 - Knock Off
+	LVL 36 - Knock Off (updated)
 	LVL 40 - Dynamic Punch
 	LVL 44 - Counter
 	LVL 48 - Double-Edge
@@ -2424,6 +2425,20 @@ Movepool:
 	LVL 4 - Acid
 	LVL 8 - Sweet Scent
 	LVL 12 - Mega Drain
+	LVL 15 - Flail
+	LVL 20 - Poison Powder
+	LVL 20 - Stun Spore
+	LLV 20 - Sleep Powder
+	LVL 24 - Magical Leaf
+	LVL 26 - Venoshock (gen 5, without double damage, 10% poison)
+	LVL 28 - Ingrain
+	LVL 32 - Giga Drain
+	LVL 35 - Toxic
+	LVL 39 - Moonlight
+	LVL 43 - Sludge Bomb
+	LVL 47 - Sunny Day
+	LVL 51 - Petal Dance (updated)
+	
 
 TM and HM:
 
@@ -2431,7 +2446,28 @@ TM and HM:
 /- Gloom -/
 
 Movepool:
-
+	
+	LVL 1 - Absorb
+	LVL 1 - Growth
+	LVL 1 - Acid
+	LVL 1 - Sweet Scent
+	LVL 4 - Acid
+	LVL 8 - Sweet Scent
+	LVL 12 - Mega Drain
+	LVL 15 - Flail
+	LVL 20 - Poison Powder
+	LVL 20 - Stun Spore
+	LLV 20 - Sleep Powder
+	LVL 24 - Magical Leaf
+	LVL 26 - Venoshock (gen 5, without double damage, 10% poison)
+	LVL 28 - Ingrain
+	LVL 32 - Giga Drain
+	LVL 35 - Toxic
+	LVL 39 - Moonlight
+	LVL 43 - Sludge Bomb
+	LVL 47 - Sunny Day
+	LVL 51 - Petal Dance (updated)
+	
 
 TM and HM:
 
@@ -2440,7 +2476,27 @@ TM and HM:
 
 Movepool:
 
-
+	LVL 1 - Absorb
+	LVL 1 - Growth
+	LVL 1 - Acid
+	LVL 1 - Sweet Scent
+	LVL 4 - Acid
+	LVL 8 - Sweet Scent
+	LVL 12 - Mega Drain
+	LVL 15 - Flail
+	LVL 20 - Poison Powder
+	LVL 20 - Stun Spore
+	LLV 20 - Sleep Powder
+	LVL 24 - Magical Leaf
+	LVL 26 - Venoshock (gen 5, without double damage, 10% poison)
+	LVL 28 - Ingrain
+	LVL 32 - Giga Drain
+	LVL 35 - Toxic
+	LVL 39 - Moonlight
+	LVL 43 - Sludge Bomb
+	LVL 47 - Sunny Day
+	LVL 51 - Petal Dance (updated)
+	
 TM and HM:
 
 
@@ -2449,14 +2505,86 @@ TM and HM:
 
 Movepool:
 
-
+	LVL 1 - Absorb
+	LVL 1 - Growth
+	LVL 1 - Acid
+	LVL 1 - Sweet Scent
+	LVL 4 - Acid
+	LVL 8 - Sweet Scent
+	LVL 12 - Mega Drain
+	LVL 15 - Flail
+	LVL 20 - Poison Powder
+	LVL 20 - Stun Spore
+	LLV 20 - Sleep Powder
+	LVL 24 - Magical Leaf
+	LVL 26 - Venoshock (gen 5, without double damage, 10% poison)
+	LVL 28 - Ingrain
+	LVL 32 - Giga Drain
+	LVL 35 - Toxic
+	LVL 39 - Moonlight
+	LVL 43 - Sludge Bomb
+	LVL 47 - Sunny Day
+	LVL 51 - Petal Dance (updated)
+	
+	LVL ?? - Teeter Dance (evo move)
+	
 TM and HM:
 
 
-/- Dodrio -/
+/- Doduo -/
 
 Movepool:
 
+	LVL 1 - Growl
+	LVL 1 - Peck
+	LVL 5 - Quick Attack
+	LVL 8 - Leer
+	LVL 12 - Fury Attack
+	LVL 14 - Thief
+	LVL 16 - Wing Attack
+	LVL 20 - Double Team
+	LVL 24 - Uproar
+	LVL 27 - Aerial Ace
+	LVL 32 - Slash
+	LVL 35 - Agility
+	LVL 39 - Drill Peck
+	LVL 42 - Knock Off (updated)
+	LVL 45 - Endeavor
+	LVL 47 - Thrash
+	LVL 50 - Swords Dance
+	LVL 53 - Brave Bird
+	
+TM and HM:
+	
+	Remove Fly
+	
+	
+/- Dodrio -/
+
+Stats: 70 HP | 110 Atk | 70 DEF | 60 Sp. Atk | 70 Sp. Def | 110 Spe TOTAL: 490
+
+Movepool:
+	
+	LVL 1 - Growl
+	LVL 1 - Peck
+	LVL 1 - Quick Attack
+	LVL 1 - Leer
+	LVL 5 - Quick Attack
+	LVL 8 - Leer
+	LVL 12 - Fury Attack
+	LVL 14 - Thief
+	LVL 16 - Wing Attack
+	LVL 20 - Double Team
+	LVL 24 - Uproar
+	LVL 27 - Aerial Ace
+	LVL 32 - Slash
+	LVL 35 - Agility
+	LVL 39 - Drill Peck
+	LVL 42 - Knock Off (updated)
+	LVL 45 - Endeavor
+	LVL 47 - Thrash
+	LVL 50 - Swords Dance
+	LVL 53 - Brave Bird
 
 TM and HM:
 
@@ -2464,36 +2592,121 @@ TM and HM:
 	
 	
 	
-	
 /- Roselia -/
 
-Stats: 60 HP | 60 Atk | 60 DEF | 110 Sp. Atk | 90 Sp. Def | 75 Spe TOTAL: 455
+Stats: 60 HP | 60 Atk | 60 DEF | 110 Sp. Atk | 90 Sp. Def | 85 Spe TOTAL: 465
 Movepool:
 
-
+	LVL 1 - Absorb
+	LVL 1 - Growth
+	LVL 1 - Poison Sting
+	LVL 4 - Poison Sting
+	LVL 8 - Stun Spore
+	LVL 8 - Poison Powder
+	LVL 12 - Sweet Scent
+	LVL 17 - Mega Drain
+	LVL 21 - Leech Seed
+	LVL 24 - Magical Leaf
+	LVL 27 - Grass Whistle (updated)
+	LVL 30 - Giga Drain
+	LVL 33 - Ingrain
+	LVL 36 - Cotton Spore
+	LVL 40 - Toxic
+	LVL 42 - Extrasensory (gen 4)
+	LVL 45 - Sludge Wave (gen 4)
+	LVL 48 - Aromatherapy
+	LVL 50 - Petal Dance (updated)
+	LVL 53 - Synthesis
+	
 TM and HM:
 
 
 
+/- Gulpin -/
 
+Movepool:
+
+	LVL 1 - Pound
+	LVL 1 - Yawn
+	LVL 6 - Poison Gas
+	LVL 12 - Sludge
+	LVL 15 - Amnesia
+	LVL 18 - Encore
+	LVL 22 - Hidden Power
+	LVL 26 - Body Slam
+	LVL 29 - Acid Armor
+	LVL 32 - Toxic
+	LVL 35 - Stockpile
+	LVL 35 - Swallow
+	LVL 35 - Spit Up
+	LVL 38 - Poison Jab (gen 4)
+	LVL 40 - Pain Split
+	LVL 42 - Slugde Wave (gen 4)
+	LVL 46 - Rest
+	LVL 50 - Gunk Shot (gen 4)
+	LVL 53 - Belch (gen 6, without effect)
 	
+TM and HM:
+
+
 /- Swalot -/
 
 Stats: 120 HP | 77 Atk | 83 DEF | 77 Sp. Atk | 83 Sp. Def | 40 Spe TOTAL: 480
 Movepool:
-
+	
+	LVL 1 - Pound
+	LVL 1 - Yawn
+	LVL 1 - Poison Gas
+	LVL 1 - Sludge
+	LVL 6 - Poison Gas
+	LVL 12 - Sludge
+	LVL 15 - Amnesia
+	LVL 18 - Encore
+	LVL 22 - Hidden Power
+	LVL 26 - Body Slam
+	LVL 29 - Acid Armor
+	LVL 32 - Toxic
+	LVL 35 - Stockpile
+	LVL 35 - Swallow
+	LVL 35 - Spit Up
+	LVL 38 - Poison Jab (gen 4)
+	LVL 40 - Pain Split
+	LVL 42 - Slugde Wave (gen 4)
+	LVL 46 - Rest
+	LVL 50 - Gunk Shot (gen 4)
+	LVL 53 - Belch (gen 6, without effect)
 
 TM and HM:
 
 
-
 /- Carvanha -/
 
-
+Abilities: Rough Skin, Strong Jaw
 Stats: 45 HP | 95 Atk | 50 DEF | 65 Sp. Atk | 50 Sp. Def | 75 Spe TOTAL: 380
 Movepool:
 
-
+	LVL 1 - Leer
+	LVL 1 - Tackle
+	LVL 5 - Rage
+	LVL 8 - Focus Energy
+	LVL 12 - Aqua Jet (gen 4)
+	LVL 14 - Pursuit (updated)
+	LVL 18 - Bite
+	LVL 22 - Scary Face
+	LVL 25 - Poison Fang (gen 4)
+	LVL 28 - Ice Fang (gen 4)
+	LVL 28 - Fire Fang (gen 4)
+	LVL 28 - Thunder Fang (gen 4)
+	LVL 31 - Screech
+	LVL 35 - Take Down
+	LVL 38 - Swagger
+	LVL 41 - Crunch
+	LVL 44 - Agility
+	LVL 47 - Taunt
+	LVL 50 - Curse
+	LVL 52 - Liquidation (gen 7)
+	LVL 55 - Skull Bash 
+	
 TM and HM:
 
 
@@ -2501,13 +2714,63 @@ TM and HM:
 
 /- Sharpedo -/
 
-
+Abilities: Rough Skin, Strong Jaw
 lvl 40
-Stats: 70 HP | 120 Atk | 55 DEF | 90 Sp. Atk | 55 Sp. Def | 110 Spe TOTAL: 500
+Stats: 70 HP | 130 Atk | 55 DEF | 80 Sp. Atk | 55 Sp. Def | 110 Spe TOTAL: 500
 Movepool:
+	
+	LVL 1 - Leer
+	LVL 1 - Tackle
+	LVL 5 - Rage
+	LVL 8 - Focus Energy
+	LVL 12 - Aqua Jet (gen 4)
+	LVL 14 - Pursuit (updated)
+	LVL 18 - Bite
+	LVL 22 - Scary Face
+	LVL 25 - Poison Fang (gen 4)
+	LVL 28 - Ice Fang (gen 4)
+	LVL 28 - Fire Fang (gen 4)
+	LVL 28 - Thunder Fang (gen 4)
+	LVL 31 - Screech
+	LVL 35 - Take Down
+	LVL 38 - Swagger
+	LVL 40 - Slash (evo move)
+	LVL 41 - Crunch
+	LVL 44 - Agility
+	LVL 47 - Taunt
+	LVL 50 - Curse
+	LVL 52 - Liquidation (gen 7)
+	LVL 55 - Skull Bash 
+	
+TM and HM:
 
+
+/- Wailmer -/
+
+Movepool:
+	
+	LVL 1 - Splash
+	LVL 1 - Astonish
+	LVL 3 - Growl
+	LVL 6 - Water Gun
+	LVL 12 - Rollout
+	LVL 15 - Mist
+	LVL 18 - Whirlpool
+	LVL 21 - Water Pulse
+	LVL 24 - Endure
+	LVL 27 - Flail
+	LVL 30 - Body Slam
+	LVL 33 - Bounce
+	LVL 36 - Dive
+	LVL 39 - Rest
+	LVL 42 - Amnesia
+	LVL 44 - Ice Beam
+	LVL 48 - Hydro Pump
+	LVL 53 - Curse
+	LVL 56 - Water Spout
 
 TM and HM:
+
 
 
 /- Wailord -/
@@ -2515,10 +2778,61 @@ TM and HM:
 
 Movepool:
 
+	LVL 1 - Splash
+	LVL 1 - Astonish
+	LVL 1 - Growl
+	LVL 1 - Water Gun
+	LVL 3 - Growl
+	LVL 6 - Water Gun
+	LVL 12 - Rollout
+	LVL 15 - Mist
+	LVL 18 - Whirlpool
+	LVL 21 - Water Pulse
+	LVL 24 - Endure
+	LVL 27 - Flail
+	LVL 30 - Body Slam
+	LVL 33 - Bounce
+	LVL 36 - Dive
+	LVL 39 - Rest
+	LVL 42 - Amnesia
+	LVL 44 - Ice Beam
+	LVL 48 - Hydro Pump
+	LVL 53 - Curse
+	LVL 56 - Water Spout
 
 TM and HM:
 
 
+
+/- Numel -/
+
+Stats: 60 HP | 75 Atk | 50 DEF | 75 Sp. Atk | 50 Sp. Def | 40 Spe TOTAL: 340
+Movepool:
+
+	LVL 1 - Growl
+	LVL 1 - Tackle
+	LVL 5 - Ember
+	LVL 8 - Focus Energy
+	LVL 12 - Magnitude
+	LVL 15 - Mud Shot
+	LVL 19 - Amnesia
+	LVL 22 - Bulldoze (gen 4)
+	LVL 24 - Flame Charge (gen 5)
+	LVL 27 - Stomp
+	LVL 31 - Sandstorm
+	LVL 35 - Take Down
+	LVL 38 - Ancient Power
+	LVL 40 - Protect
+	LVL 42 - Rock Slide
+	LVL 45 - Heat Wave (updated)
+	LVL 47 - Will-O-Wisp
+	LVL 49 - Curse
+	LVL 50 - Double-Edge
+	LVL 52 - Earth Power (gen 4)
+	LVL 54 - Earthquake
+	LVL 57 - Eruption	
+	
+TM and HM:
 
 
 /- Camerupt -/
@@ -2526,52 +2840,221 @@ TM and HM:
 lvl: 42
 Stats: 100 HP | 110 Atk | 80 DEF | 110 Sp. Atk | 80 Sp. Def | 45 Spe TOTAL: 525
 Movepool:
-
+	
+	LVL 1 - Growl
+	LVL 1 - Tackle
+	LVL 1 - Ember
+	LVL 1 - Focus Energy
+	LVL 5 - Ember
+	LVL 8 - Focus Energy
+	LVL 12 - Magnitude
+	LVL 15 - Mud Shot
+	LVL 19 - Amnesia
+	LVL 22 - Bulldoze (gen 4)
+	LVL 24 - Flame Charge (gen 5)
+	LVL 27 - Stomp
+	LVL 31 - Sandstorm
+	LVL 35 - Take Down
+	LVL 38 - Ancient Power
+	LVL 40 - Protect
+	LVL 42 - Rock Slide
+	LVL 45 - Heat Wave (updated)
+	LVL 47 - Will-O-Wisp
+	LVL 49 - Curse
+	LVL 50 - Double-Edge
+	LVL 52 - Earth Power (gen 4)
+	LVL 54 - Earthquake
+	LVL 57 - Eruption
 
 TM and HM:
 
 
 /- Slugma -/
 
-Stats: 40 HP | 40 Atk | 50 DEF | 80 Sp. Atk | 50 Sp. Def | 20 Spe TOTAL: 280
+Stats: 40 HP | 40 Atk | 50 DEF | 80 Sp. Atk | 50 Sp. Def | 50 Spe TOTAL: 310
 Movepool:
 
-
+	LVL 1 - Smog
+	LVL 1 - Yawn
+	LVL 6 - Ember
+	LVL 8 - Rock Throw
+	LVL 13 - Harden
+	LVL 16 - Haze 
+	lvl 18 - Rock Polish
+	LVL 20 - Ancient Power
+	LVL 23 - Amnesia
+	LVL 25 - Reflect
+	LVL 25 - Light Screen
+	LVL 27 - Rock Slide
+	LVL 29 - Acid Armor
+	LVL 32 - Sunny Day
+	LVL 34 - Body Slam
+	LVL 38 - Power Gem (gen 4)
+	LVL 43 - Flamethrower
+	LVL 46 - Earth Power
+	LVL 50 - Recover
+	LVL 52 - Overheat
+	
 TM and HM:
 
 
 /- Magcargo -/
 
-Stats: 90 HP | 50 Atk | 120 DEF | 102 Sp. Atk | 102 Sp. Def | 30 Spe TOTAL: 494
+LVL 36
+Stats: 90 HP | 50 Atk | 120 DEF | 112 Sp. Atk | 102 Sp. Def | 30 Spe TOTAL: 504
 Movepool:
-
+	
+	LVL 1 - Smog
+	LVL 1 - Yawn
+	LVL 1 - Ember
+	LVL 1 - Rock Throw
+	LVL 6 - Ember
+	LVL 8 - Rock Throw
+	LVL 13 - Harden
+	LVL 16 - Haze
+	lvl 18 - Rock Polish
+	LVL 20 - Ancient Power
+	LVL 23 - Amnesia
+	LVL 25 - Reflect
+	LVL 25 - Light Screen
+	LVL 27 - Rock Slide
+	LVL 29 - Acid Armor
+	LVL 32 - Sunny Day
+	LVL 34 - Body Slam
+	LVL 36 - Lava Plume (gen 4, evo move)
+	LVL 38 - Power Gem (gen 4)
+	LVL 43 - Flamethrower
+	LVL 46 - Earth Power
+	LVL 50 - Recover
+	LVL 52 - Overheat
 
 TM and HM:
 
 
 /- Torkoal -/
 
-ability: drought
+Ability: drought
 Movepool:
-
+	
+	LVL 1 - Smog
+	LVL 1 - Ember
+	LVL 4 - Withdraw
+	LVL 8 - Rapid Spin
+	LVL 12 - Smokescreen
+	LVL 16 - Haze
+	LVL 20 - Flame Charge (gen 5)
+	LVL 24 - Protect
+	LVL 28 - Body Slam
+	LVL 32 - Iron Defense
+	LVL 36 - Curse
+	LVL 40 - Rock Slide
+	LVL 44 - Amnesia
+	LVL 46 - Heat Wave (updated)
+	LVL 48 - Lava Plumme (gen 4)
+	LVL 51 - Earthquake
+	LVL 56 - Eruption
 
 TM and HM:
 
+
+
+/- Grimer -/
+
+Movepool:
+
+	LVL 1 - Poison Gas
+	LVL 1 - Pound
+	LVL 4 - Harden
+	LVL 7 - Mud-Slap
+	LVL 12 - Disable
+	LVL 15 - Sludge
+	LVL 18 - Mud Shot
+	LVL 21 - Minimize
+	LVL 26 - Toxic
+	LVL 29 - Amnesia
+	LVL 33 - Sludge Wave
+	LVL 37 - Screech
+	LVL 40 - Imprison
+	LVL 43 - Poison Jab (gen 4)
+	LVL 46 - Acid Armor
+	LVL 50 - Memento
+	LVL 53 - Gunk Shot (gen 4)
+	
+TM and HM:
 
 /- Muk -/
 
 Movepool:
-
+	
+	LVL 1 - Poison Gas
+	LVL 1 - Pound
+	LVL 1 - Harden
+	LVL 1 - Mud-Slap
+	LVL 4 - Harden
+	LVL 7 - Mud-Slap
+	LVL 12 - Disable
+	LVL 15 - Sludge
+	LVL 18 - Mud Shot
+	LVL 21 - Minimize
+	LVL 26 - Toxic
+	LVL 29 - Amnesia
+	LVL 33 - Sludge Wave
+	LVL 37 - Screech
+	LVL 40 - Poison Jab (gen 4)
+	LVL 43 - Knock Off (updated)
+	LVL 46 - Acid Armor
+	LVL 50 - Memento
+	LVL 53 - Gunk Shot (gen 4)
 
 TM and HM:
 
+
+/- Koffing -/
+
+Stats: 40 HP | 60 Atk | 95 DEF | 70 Sp. Atk | 50 Sp. Def | 35 Spe TOTAL: 350
+Movepool:
+
+	LVL 1 - Tackle
+	LVL 1 - Poison Gas
+	LVL 4 - Smog
+	LVL 8 - Smokescreen
+	LVL 12 - Haze
+	LVL 16 - Pursuit (updated)
+	LVL 20 - Sludge
+	LVL 24 - Self-Destruct
+	LVL 28 - Psybeam
+	LVL 32 - Toxic
+	LVL 36 - Memento
+	LVL 40 - Sludge Bomb
+	LVL 43 - Explosion
+	LVL 46 - Dark Pulse (gen 4)
+	LVL 50 - Destiny Bond
+	LVL 53 - Belch (gen 6, without effect)
+
+TM and HM:
 
 
 /- Weezing -/
 
 Stats: 75 HP | 75 Atk | 120 DEF | 90 Sp. Atk | 80 Sp. Def | 60 Spe TOTAL: 500
 Movepool:
-
+	
+	LVL 1 - Tackle
+	LVL 1 - Poison Gas
+	LVL 4 - Smog
+	LVL 8 - Smokescreen
+	LVL 12 - Haze
+	LVL 16 - Pursuit (updated)
+	LVL 20 - Sludge
+	LVL 24 - Self-Destruct
+	LVL 28 - Psybeam
+	LVL 32 - Toxic
+	LVL 36 - Memento
+	LVL 40 - Sludge Bomb
+	LVL 43 - Explosion
+	LVL 46 - Dark Pulse (gen 4)
+	LVL 50 - Destiny Bond
+	LVL 53 - Belch (gen 6, without effect)
 
 TM and HM:
 

@@ -68,6 +68,12 @@ Flash Cannon (gen 4)
 Snarl (gen 5)
 Electro Ball (gen 5)
 Eerie Impulse (gen 6)
+Belch (gen 6, without effect)
+Sludge Wave (gen 4)
+Gunk Shot (gen 4)
+Earth Power (gen 4)
+Power Gem (gen 4)
+Lava Plume (gen 4, pwr=85, burn chance = 40%)
 
 /-- Moves to update --/
 
@@ -93,3 +99,9 @@ Fury Cutter - update last gen
 Uproar - update last gen
 
 Leech Life (updated)
+
+Petal Dance (updated)
+
+Grass Whistle - updated -> acc=100%
+
+Heat Wave (updated)
