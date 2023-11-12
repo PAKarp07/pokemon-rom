@@ -115,31 +115,31 @@
 - Norman (DB)
 
 1. Zangoose (Lead) LVL 30 ivs 25 all
-        	Item: N/A
+        Item: N/A
 		Ability: Immunity
 		Nature: Lonely (+Atk; -Def)
 		Moveset: Facade; Rock Slide; Slash; Swords Dance
 
 2. Linoone (Lead) LVL 30 ivs 25 all
-        	Item: N/A
+        Item: N/A
 		Ability: Pickup
 		Nature: Hasty (+Spe; -Def)
 		Moveset: Belly Drum; Substitute; Facade; Slash
 
 3. Spinda LVL 31 ivs 25 all
-        	Item: N/A
+        Item: N/A
 		Ability: Own Tempo
 		Nature: Quirky (+Sp. Atk; -Sp. Atk)
 		Moveset: Skill Swap; Dizzy Punch; Facade; Hypnosis
 
 4. Swellow (2º Ace) LVL 34 ivs 31 all
-        	Item: Silk Scarf
+        Item: Silk Scarf
 		Ability: Guts
 		Nature: Adamant (+Atk; -Sp. Atk)
 		Moveset: Facade; Sky Attack; Aerial Ace; Double-Edge
 
 5. Slaking (Ace) LVL 36 ivs 31 all
-        	Item: Leftovers
+        Item: Leftovers
 		Ability: Truant
 		Nature: Adamant (+Atk; -Sp. Atk)
 		Moveset: Facade; Ice Punch; Rock Slide; Double-Edge

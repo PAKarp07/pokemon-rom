@@ -1576,7 +1576,7 @@ Movepool:
 	LVL 40 - Rock Slide
 	LVL 42 - Explosion
 	LVL 45 - Double-Edge
-	LVL 47 - Iron Head
+	LVL 47 - Iron Head (gen 4)
 	LVL 49 - Counter	
 	LVL 52 - Earthquake
 	LVL 55 - Stone Edge (gen 4)
@@ -1879,7 +1879,7 @@ Movepool:
 	LVL 33 - Torment
 	LVL 37 - Shadow Claw (gen 4)
 	LVL 40 - Crunch
-	LVL 42 - Iron Head
+	LVL 42 - Iron Head (gen 4)
 	LVL 45 - Taunt
 	LVL 49 - Spectral Bite (NEW)
 	LVL 53 - Steel Crush (NEW)
@@ -1904,7 +1904,7 @@ Movepool:
 	LVL 30 - Rock Slide
 	LVL 32 - Metal Sound
 	LVL 37 - Take Down
-	LVL 40 - Iron Head
+	LVL 40 - Iron Head (gen 4)
 	LVL 44 - Iron Defense
 	LVL 47 - Double-Edge
 	LVL 50 - Iron Tail
@@ -1935,7 +1935,7 @@ Movepool:
 	LVL 30 - Rock Slide
 	LVL 32 - Metal Sound
 	LVL 37 - Take Down
-	LVL 40 - Iron Head
+	LVL 40 - Iron Head (gen 4)
 	LVL 44 - Iron Defense
 	LVL 47 - Double-Edge
 	LVL 50 - Iron Tail
@@ -1963,7 +1963,7 @@ Movepool:
 	LVL 30 - Rock Slide
 	LVL 32 - Metal Sound
 	LVL 37 - Take Down
-	LVL 40 - Iron Head
+	LVL 40 - Iron Head (gen 4)
 	LVL 42 - Reversal 
 	LVL 44 - Iron Defense
 	LVL 47 - Double-Edge
@@ -3059,12 +3059,84 @@ Movepool:
 TM and HM:
 
 
+/- Spoink -/
+Movepool:
+
+	LVL 1 - Splash
+	LVL 1 - Confusion
+	LVL 3 - Growl
+	LVL 8 - Confuse Ray
+	LVL 14 - Night Shade
+	LVL 18 - Psych Up
+	LVL 20 - Charge Beam (gen 4)
+	LVL 25 - Power Gem (gen 4)
+	LVL 28 - Psybeam
+	LVL 32 - Trick
+	LVL 36 - Bounce
+	LVL 39 - Encore
+	LVL 42 - Future Sight
+	LVL 44 - Mirror Coat
+	LVL 46 - Psychic
+	LVL 48 - Shadow Ball
+	LVL 50 - Focus Blast (gen 4)
+	LVL 52 - Calm Mind
+	
+TM and HM:
+	
 
 /- Grumpig -/
 
 Stats: 85 HP | 45 Atk | 65 DEF | 95 Sp. Atk | 115 Sp. Def | 80 Spe TOTAL: 485
 Movepool:
+	
+	LVL 1 - Splash
+	LVL 1 - Confusion
+	LVL 3 - Growl
+	LVL 8 - Confuse Ray
+	LVL 14 - Night Shade
+	LVL 18 - Psych Up
+	LVL 20 - Charge Beam (gen 4)
+	LVL 25 - Power Gem (gen 4)
+	LVL 28 - Psybeam
+	LVL 32 - Teeter Dance (evo move)
+	LVL 32 - Trick
+	LVL 36 - Bounce
+	LVL 39 - Encore
+	LVL 42 - Future Sight
+	LVL 44 - Mirror Coat
+	LVL 46 - Psychic
+	LVL 48 - Shadow Ball
+	LVL 50 - Focus Blast (gen 4)
+	LVL 52 - Calm Mind
+	
+TM and HM:
 
+
+
+/- Sandshrew -/
+ability -> create an where slash type moves are 50% more effective "Sharp Claws"
+
+Movepool:
+
+	LVL 1 - Defense Curl
+	LVL 1 - Scratch
+	LVL 3 - Poison Sting
+	LVL 6 - Sand-Attack
+	LVL 9 - Fury Cutter
+	LVL 12 - Metal Claw
+	LVL 15 - Rapid Spin
+	LVL 18 - Bulldoze
+	LVL 21 - Fury Swipes
+	LVL 24 - Agility
+	LVL 27 - Dig
+	LVL 33 - Sandstorm
+	LVL 37 - Protect
+	LVL 40 - Knock Off
+	LVL 44 - Slash
+	LVL 47 - Night Slash (gen 4)
+	LVL 50 - Earthquake
+	LVL 56 - Swords Dance
+	
 
 TM and HM:
 
@@ -3072,10 +3144,29 @@ TM and HM:
 
 /- Sandslash -/
 
+LVL 25
 ability -> create an where slash type moves are 50% more effective "Sharp Claws"
-Stats: 75 HP | 100 Atk | 110 DEF | 45 Sp. Atk | 55 Sp. Def | 80 Spe TOTAL: 465
+Stats: 75 HP | 100 Atk | 110 DEF | 55 Sp. Atk | 55 Sp. Def | 80 Spe TOTAL: 475
 Movepool:
 
+	LVL 1 - Defense Curl
+	LVL 1 - Scratch
+	LVL 3 - Poison Sting
+	LVL 6 - Sand-Attack
+	LVL 9 - Fury Cutter
+	LVL 12 - Metal Claw
+	LVL 15 - Rapid Spin
+	LVL 18 - Bulldoze
+	LVL 21 - Fury Swipes
+	LVL 24 - Agility
+	LVL 27 - Dig
+	LVL 33 - Sandstorm
+	LVL 37 - Protect
+	LVL 40 - Knock Off
+	LVL 44 - Slash
+	LVL 47 - Night Slash (gen 4)
+	LVL 50 - Earthquake
+	LVL 56 - Swords Dance
 
 TM and HM:
 
@@ -3086,8 +3177,29 @@ TM and HM:
 
 Stats: 75 HP | 75 Atk | 75 DEF | 75 Sp. Atk | 75 Sp. Def | 75 Spe TOTAL: 450
 Movepool:
-
-
+	
+	LVL 1 - Tackle
+	LVL 1 - Growl
+	LVL 3 - Echoed Voice
+	LVL 7 - Fake Tears
+	LVL 12 - Hypnosis
+	LVL 15 - Disarming Voice
+	LVL 17 - Safeguard
+	LVL 20 - Encore
+	LVL 23 - Psybeam
+	LVL 25 - Disable
+	LVL 29 - Psych Up
+	LVL 31 - Uproar
+	LVL 33 - Dizzy Punch
+	LVL 36 - Skill Swap
+	LVL 38 - Fake Out
+	lvl 41 - Flail
+	LVL 43 - Wish
+	LVL 46 - Double-Edge
+	LVL 49 - Substitute
+	LVL 51 - Thrash
+	LVL 54 - Hyper Voice
+	
 TM and HM:
 
 
@@ -3097,9 +3209,26 @@ TM and HM:
 Stats: 75 HP | 80 Atk | 140 DEF | 40 Sp. Atk | 90 Sp. Def | 70 Spe TOTAL: 495
 Movepool:
 
-
+	LVL 1 - Leer
+	LVL 1 - Peck
+	LVL 4 - Sand-Attack
+	LVL 8 - Fury Attack
+	LVL 12 - Metal Claw
+	LVL 16 - Agility
+	LVL 20 - Wing Attack
+	LVL 24 - Pursuit (updated)
+	LVL 28 - Steel Wing
+	LVL 30 - Iron Defense
+	LVL 33 - Slash
+	LVL 37 - Spikes
+	LVL 39 - Endure
+	LVL 41 - Drill Peck
+	LVL 45 - Iron Head (gen 4)
+	LVL 48 - Roost
+	LVL 51 - Brave Bird
+	
 TM and HM:
-
+	
 
 /- Flygon -/
 
