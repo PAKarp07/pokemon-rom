@@ -74,6 +74,12 @@ Gunk Shot (gen 4)
 Earth Power (gen 4)
 Power Gem (gen 4)
 Lava Plume (gen 4, pwr=85, burn chance = 40%)
+Dragon Rush (gen 4)
+Dragon Pulse (gen 4)
+Draco Meteor (gen 4)
+Foul Play (gen 5, normal calcs)
+Air Slash (gen 4)
+Hurricane (gen 5)
 
 /-- Moves to update --/
 

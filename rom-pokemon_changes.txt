@@ -269,15 +269,16 @@ Movepool:
 	LVL 24 - Fire Fang (gen 4)
 	LVL 24 - Thunder Fang (gen 4)
 	LVL 24 - Ice Fang (gen 4)
-	LVL 25 - Scary Face
-	LVL 28 - Poison Fang
-	LVL 30 - Taunt
-	LVL 34 - Dig
-	LVL 36 - Take Down
-	LVL 40 - Crunch
-	LVL 44 - Psychic Fangs (gen 7)
-	LVL 48 - Shadow Claw (gen 4)
-	LVL 50 - Hone Claws (gen 5)
+	LVL 26 - Scary Face
+	LVL 30 - Hone Claws (gen 5)
+	LVL 33 - Poison Fang
+	LVL 35 - Taunt
+	LVL 38 - Dig
+	LVL 41 - Take Down
+	LVL 45 - Crunch
+	LVL 47 - Psychic Fangs (gen 7)
+	LVL 49 - Shadow Claw (gen 4)
+	LVL 54 - Lash Out (gen 9, but new changes)
 	
 TM and HM:
 
@@ -302,15 +303,15 @@ Movepool:
 	LVL 23 - Thunder Fang (gen 4)
 	LVL 23 - Ice Fang (gen 4)
 	LVL 27 - Scary Face
-	LVL 30 - Poison Fang
-	LVL 33 - Taunt
-	LVL 36 - Dig
-	LVL 38 - Take Down
-	LVL 42 - Crunch
-	LVL 45 - Psychic Fangs (gen 7)
-	LVL 48 - Shadow Claw (gen 4)
-	LVL 50 - Hone Claws (gen 5)
-	LVL 58 - Lash Out (gen 9, but new changes)
+	LVL 30 - Hone Claws (gen 5)
+	LVL 33 - Poison Fang
+	LVL 35 - Taunt
+	LVL 38 - Dig
+	LVL 41 - Take Down
+	LVL 45 - Crunch
+	LVL 47 - Psychic Fangs (gen 7)
+	LVL 49 - Shadow Claw (gen 4)
+	LVL 54 - Lash Out (gen 9, but new changes)
 	
 TM and HM:
 
@@ -361,11 +362,11 @@ Movepool:
 	LVL 24 - Rest
 	LVL 26 - Swift
 	LVL 29 - Double Team
-	LVL 32 - Substitute
-	LVL 35 - Slash
-	LVL 40 - Facade
-	LVL 43 - Night Slash (gen 4)
-	LVL 46 - Hone Claws (gen 5)
+	LVL 32 - Hone Claws (gen 5)
+	LVL 35 - Substitute
+	LVL 40 - Slash
+	LVL 43 - Facade
+	LVL 46 - Night Slash (gen 4)
 	LVL 39 - Knock Off (updated)
 	LVL 51 - Double-Edge
 	LVL 56 - Belly Drum
@@ -703,11 +704,11 @@ Movepool:
 	LVL 26 - Mist
 	LVL 30 - Amnesia
 	LVL 32 - Rain Rance
-	LVL 36 - Air Slash
+	LVL 36 - Air Slash (gen 4)
 	LVL 42 - Roost
 	LVL 45 - Scald (gen 5)
 	LVL 49 - Ice Beam
-	LVL 52 - Hurricane
+	LVL 52 - Hurricane (gen 5)
 	LVL 55 - Hydro Pump
 	
 	
@@ -735,11 +736,11 @@ Movepool:
 	LVL 37 - Swallow
 	LVL 37 - Spit Up
 	LVL 38 - Protect
-	LVL 40 - Air Slash
+	LVL 40 - Air Slash (gen 4)
 	LVL 42 - Roost
 	LVL 45 - Scald (gen 5)
 	LVL 49 - Ice Beam
-	LVL 52 - Hurricane
+	LVL 52 - Hurricane (gen 5)
 	LVL 55 - Hydro Pump
 	
 TM and HM:
@@ -864,7 +865,7 @@ Movepool:
 	LVL 26 - Mist
 	LVL 28 - Stun Spore
 	LVL 30 - Baton Pass
-	LVL 34 - Air Slash
+	LVL 34 - Air Slash (gen 4)
 	LVL 38 - Scald (gen 5, without thaw it while frozen)
 	LVL 42 - Bug Buzz (gen 4)
 	LVL 46 - Giga Drain
@@ -3122,7 +3123,7 @@ Movepool:
 	LVL 1 - Scratch
 	LVL 3 - Poison Sting
 	LVL 6 - Sand-Attack
-	LVL 9 - Fury Cutter
+	LVL 9 - Fury Cutter (updated)
 	LVL 12 - Metal Claw
 	LVL 15 - Rapid Spin
 	LVL 18 - Bulldoze
@@ -3153,7 +3154,7 @@ Movepool:
 	LVL 1 - Scratch
 	LVL 3 - Poison Sting
 	LVL 6 - Sand-Attack
-	LVL 9 - Fury Cutter
+	LVL 9 - Fury Cutter (updated)
 	LVL 12 - Metal Claw
 	LVL 15 - Rapid Spin
 	LVL 18 - Bulldoze
@@ -3180,10 +3181,10 @@ Movepool:
 	
 	LVL 1 - Tackle
 	LVL 1 - Growl
-	LVL 3 - Echoed Voice
+	LVL 3 - Echoed Voice (gen 5)
 	LVL 7 - Fake Tears
 	LVL 12 - Hypnosis
-	LVL 15 - Disarming Voice
+	LVL 15 - Disarming Voice (gen 6, normal type)
 	LVL 17 - Safeguard
 	LVL 20 - Encore
 	LVL 23 - Psybeam
@@ -3198,7 +3199,7 @@ Movepool:
 	LVL 46 - Double-Edge
 	LVL 49 - Substitute
 	LVL 51 - Thrash
-	LVL 54 - Hyper Voice
+	LVL 54 - Hyper Voice (updated)
 	
 TM and HM:
 
@@ -3223,21 +3224,160 @@ Movepool:
 	LVL 37 - Spikes
 	LVL 39 - Endure
 	LVL 41 - Drill Peck
+	LVL 43 - Taunt
 	LVL 45 - Iron Head (gen 4)
 	LVL 48 - Roost
-	LVL 51 - Brave Bird
+	LVL 50 - Brave Bird
 	
 TM and HM:
 	
 
-/- Flygon -/
+/- Trapinch -/
+	
+Movepool:
+
+	LVL 1 - Astonish
+	LVL 1 - Sand-Attack
+	LVL 4 - Mud-Slap
+	LVL 8 - Sand Tomb
+	LVL 12 - Bite
+	LVL 16 - Sandstorm
+	LVL 20 - Bulldoze (gen 4)
+	LVL 24 - Bug Bite (gen 4, without eating berry effect)
+	LVL 28 - Dig
+	LVL 32 - Amnesia
+	LVL 36 - Crunch
+	LVL 40 - Rock Slide
+	LVL 44 - Earth Power (gen 4)
+	LVL 47 - Earthquake
+	LVL 50 - Superpower
+	LVL 53 - Fissure
+	
+TM and HM:
+
+
+
+/- Vibrava -/
 
 Movepool:
 
+	LVL 1 - Astonish
+	LVL 1 - Sand-Attack
+	LVL 1 - Mud-Slap
+	LVL 1 - Sand Tomb
+	LVL 4 - Mud-Slap
+	LVL 6 - Sand Tomb
+	LVL 10 - Bite
+	LVL 12 - Sandstorm
+	LVL 15 - Bulldoze (gen 4)
+	LVL 18 - Bug Bite (gen 4, without eating berry effect)
+	LVL 22 - Dig
+	LVL 25 - Amnesia
+	LVL 28 - Supersonic
+	LVL 32 - Screech
+	LVL 35 - Dragon Breath (evo move)
+	LVL 37 - Crunch
+	LVL 39 - Rock Slide
+	LVL 41 - Bug Buzz (gen 4)
+	LVL 44 - Earth Power (gen 4)
+	LVL 47 - Earthquake
+	LVL 49 - Dragon Pulse (gen 4)
+	LVL 52 - Superpower
+	LVL 54 - Dragon Rush (gen 4)
+	LVL 57 - Fissure
+	
+TM and HM:
+
+
+/- Flygon -/
+
+Stats: 80 HP | 110 Atk | 80 DEF | 110 Sp. Atk | 80 Sp. Def | 80 Spe TOTAL: 540
+Movepool:
+	
+	LVL 1 - Astonish
+	LVL 1 - Sand-Attack
+	LVL 1 - Mud-Slap
+	LVL 1 - Sand Tomb
+	LVL 4 - Mud-Slap
+	LVL 6 - Sand Tomb
+	LVL 10 - Bite
+	LVL 12 - Sandstorm
+	LVL 15 - Bulldoze (gen 4)
+	LVL 18 - Bug Bite (gen 4, without eating berry effect)
+	LVL 22 - Dig
+	LVL 25 - Amnesia
+	LVL 28 - Supersonic
+	LVL 32 - Screech
+	LVL 35 - Dragon Breath (evo move)
+	LVL 37 - Crunch
+	LVL 39 - Rock Slide
+	LVL 41 - Bug Buzz (gen 4)
+	LVL 44 - Earth Power (gen 4)
+	LVL 45 - Dragon Claw (evo move)
+	LVL 47 - Earthquake
+	LVL 49 - Dragon Pulse (gen 4)
+	LVL 52 - Superpower
+	LVL 54 - Dragon Rush (gen 4)
+	LVL 57 - Fissure
 
 TM and HM:
 
 
+/- Cacnea -/
+
+Movepool:
+
+	LVL 1 - Leer
+	LVL 1 - Poison Sting
+	LVL 4 - Absorb
+	LVL 7 - Growth
+	LVL 10 - Leech Seed
+	LVL 12 - Sand-Attack
+	LVL 14 - Mega Drain
+	LVL 16 - Bullet Seed
+	LVL 19 - Feint Attack
+	LVL 22 - Ingrain
+	LVL 26 - Spikes
+	LVL 29 - Pin Missile
+	LVL 32 - Sandstorm
+	LVL 34 - Giga Drain
+	LVL 36 - Needle Arm
+	LVL 40 - Cotton Spore
+	LVL 43 - Energy Ball (gen 4)
+	LVL 45 - Brick Break
+	LVL 48 - Destiny Bond
+	LVL 51 - Foul Play (gen 5, normal calcs)
+	
+TM and HM:
+
+
+/- Cacturne -/
+
+Stats: 70 HP | 115 Atk | 70 DEF | 115 Sp. Atk | 70 Sp. Def | 55 Spe TOTAL: 495
+Movepool:
+
+	LVL 1 - Leer
+	LVL 1 - Poison Sting
+	LVL 4 - Absorb
+	LVL 7 - Growth
+	LVL 10 - Leech Seed
+	LVL 12 - Sand-Attack
+	LVL 14 - Mega Drain
+	LVL 16 - Bullet Seed
+	LVL 19 - Feint Attack
+	LVL 22 - Ingrain
+	LVL 26 - Spikes
+	LVL 29 - Pin Missile
+	LVL 32 - Sandstorm
+	LVL 34 - Giga Drain
+	LVL 36 - Needle Arm
+	LVL 40 - Cotton Spore
+	LVL 43 - Energy Ball (gen 4)
+	LVL 45 - Brick Break
+	LVL 48 - Destiny Bond
+	LVL 51 - Foul Play (gen 5, normal calcs)
+	
+TM and HM:
 
 
 /- Swablu -/
@@ -3246,6 +3386,26 @@ Type: Flying
 Stats: 65 HP | 50 Atk | 60 DEF | 50 Sp. Atk | 60 Sp. Def | 50 Spe TOTAL: 335
 Movepool:
 
+	LVL 1 - Growl
+	LVL 1 - Peck
+	LVL 4 - Disarming Voice (gen 6, normal type)
+	LVL 8 - Mist
+	LVL 12 - Fury Attack
+	LVL 15 - Round
+	LVL 18 - Safeguard
+	LVL 20 - Sing
+	LVL 23 - Dragon Breath
+	LVL 26 - Aerial Ace
+	LVL 29 - Cotton Guard
+	LVL 32 - Take Down
+	LVL 35 - Mirror Move
+	LVL 38 - Feather Dance
+	LVL 41 - Refresh
+	LVL 43 - Air Slash (gen 4)
+	LVL 47 - Roost
+	LVL 49 - Draco Meteor (gen 4)
+	LVL 51 - Hurricane (gen 5)
+	LVL 53 - Dragon Drance
 
 TM and HM:
 
@@ -3257,19 +3417,60 @@ lvl: 45
 Stats: 100 HP | 75 Atk | 95 DEF | 75 Sp. Atk | 115 Sp. Def | 80 Spe TOTAL: 540
 Movepool:
 
-
+	LVL 1 - Growl
+	LVL 1 - Peck
+	LVL 1 - Disarming Voice (gen 6, normal type)
+	LVL 1 - Mist
+	LVL 4 - Disarming Voice (gen 6, normal type)
+	LVL 8 - Mist
+	LVL 12 - Fury Attack
+	LVL 15 - Round
+	LVL 18 - Safeguard
+	LVL 20 - Sing
+	LVL 23 - Dragon Breath
+	LVL 26 - Aerial Ace
+	LVL 29 - Cotton Guard
+	LVL 32 - Take Down
+	LVL 35 - Mirror Move
+	LVL 38 - Feather Dance
+	LVL 41 - Refresh
+	LVL 43 - Air Slash (gen 4)
+	LVL 45 - Dragon Pulse (gen 4)
+	LVL 47 - Roost
+	LVL 49 - Draco Meteor (gen 4)
+	LVL 51 - Hurricane (gen 5)
+	LVL 53 - Dragon Drance
+	
 TM and HM:
 
 
 /- Zangooze -/
 
-
 ability -> create an where slash type moves are 50% more effective "Sharp Claws"
 Type: Normal Dark
 Stats: 75 HP | 120 Atk | 60 DEF | 60 Sp. Atk | 60 Sp. Def | 100 Spe TOTAL: 475
 Movepool:
-
-
+	
+	LVL 1 - Leer
+	LVL 1 - Scratch
+	LVL 5 - Quick Attack
+	LVL 8 - Fury Cutter (updated)
+	LVL 12 - Metal Claw
+	LVL 15 - Disable
+	LVL 18 - Fury Swipes
+	LVL 21 - False Swipe
+	LVL 25 - Pursuit (updated)
+	LVL 28 - Detect
+	LVL 31 - Brick Break
+	LVL 34 - Hone Claws (gen 5)
+	LVL 37 - Crush Claw
+	LVL 40 - X-Scissors
+	LVL 43 - Night Slash
+	LVL 46 - Slash
+	LVL 49 - Taunt
+	LVL 51 - Close Combat (gen 4)
+	LVL 55 - Belly Drum
+	
 TM and HM:
 
 
