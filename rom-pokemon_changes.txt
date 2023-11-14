@@ -1017,7 +1017,7 @@ TM and HM:
 
 Movepool:
 	LVL 1 - Teleport
-	LVL 1 - Astonish
+	LVL 1 - Psywave (updated)
 	
 	
 	
@@ -1410,9 +1410,9 @@ Movepool:
 	LVL 42 - Aqua Tail (gen 4)
 	LVL 47 - Rain Dance
 	LVL 50 - Hydro Pump
-	LVL 52 - Thrash
-	LVL 58 - Outrage
-	LVL 63 - Dragon Rage
+	LVL 52 - Thrash (updated)
+	LVL 54 - Outrage
+	LVL 58 - Dragon Dance
 	
 TM and HM:
 
@@ -2551,7 +2551,7 @@ Movepool:
 	LVL 39 - Drill Peck
 	LVL 42 - Knock Off (updated)
 	LVL 45 - Endeavor
-	LVL 47 - Thrash
+	LVL 47 - Thrash (updated)
 	LVL 50 - Swords Dance
 	LVL 53 - Brave Bird
 	
@@ -2583,7 +2583,7 @@ Movepool:
 	LVL 39 - Drill Peck
 	LVL 42 - Knock Off (updated)
 	LVL 45 - Endeavor
-	LVL 47 - Thrash
+	LVL 47 - Thrash (updated)
 	LVL 50 - Swords Dance
 	LVL 53 - Brave Bird
 
@@ -3198,7 +3198,7 @@ Movepool:
 	LVL 43 - Wish
 	LVL 46 - Double-Edge
 	LVL 49 - Substitute
-	LVL 51 - Thrash
+	LVL 51 - Thrash (updated)
 	LVL 54 - Hyper Voice (updated)
 	
 TM and HM:
@@ -3476,11 +3476,36 @@ TM and HM:
 
 /- Seviper -/
 
+ability -> add "Strong Jaw"
 Type: Poison Dark
 Stats: 95 HP | 120 Atk | 60 DEF | 60 Sp. Atk | 60 Sp. Def | 80 Spe TOTAL: 475
 Movepool:
 
-
+	LVL 1 - Leer
+	LVL 1 - Wrap
+	LVL 1 - Lick
+	LVL 4 - Lick
+	LVL 6 - Feint
+	LVL 9 - Haze
+	LVL 11 - Bite
+	LVL 14 - Screech
+	LVL 19 - Poison Tail
+	LVL 21 - Scary Face
+	LVL 24 - Glare
+	LVL 28 - Fire Fang (gen 4)
+	LVL 28 - Ice Fang (gen 4)
+	LVL 28 - Thunder Fang (gen 4)
+	LVL 30 - Poison Fang
+	LVL 33 - Swagger
+	LVL 35 - Spikes
+	LVL 37 - Psychic Fangs (gen 7)
+	LVL 40 - Crunch
+	LVL 43 - Poison Jab (gen 4)
+	LVL 46 - Coil (gen 5)
+	LVL 49 - Taunt
+	LVL 51 - Iron Tail
+	LVL 54 - Lash Out (gen 9, with changes)
+	
 TM and HM:
 
 
@@ -3490,7 +3515,26 @@ TM and HM:
 
 Stats: 95 HP | 60 Atk | 65 DEF | 95 Sp. Atk | 90 Sp. Def | 70 Spe TOTAL: 475
 Movepool:
-
+	
+	LVL 1 - Tackle
+	LVL 1 - Harden
+	LVL 4 - Rock Throw
+	LVL 9 - Endure
+	LVL 12 - Psywave (updated)
+	LVL 16 - Hypnosis
+	LVL 20 - Rock Polish
+	LVL 23 - Confusion
+	LVL 27 - Light Screen
+	LVL 31 - Rock Slide
+	LVL 33 - Future Sight
+	LVL 35 - Ancient Power
+	LVL 37 - Rest
+	LVL 40 - Cosmic Power
+	LVL 42 - Stone Edge (gen 4)
+	LVL 45 - Psychic
+	LVL 48 - Dream Eater
+	LVL 51 - Calm Mind
+	LVL 54 - Moonlight
 
 TM and HM:
 
@@ -3502,10 +3546,55 @@ TM and HM:
 
 Stats: 95 HP | 60 Atk | 90 DEF | 95 Sp. Atk | 65 Sp. Def | 70 Spe TOTAL: 475
 Movepool:
-
+	
+	LVL 1 - Tackle
+	LVL 1 - Harden
+	LVL 4 - Rock Throw
+	LVL 9 - Endure
+	LVL 12 - Psywave (updated)
+	LVL 16 - Hypnosis
+	LVL 20 - Rock Polish
+	LVL 23 - Confusion
+	LVL 27 - Reflect
+	LVL 31 - Rock Slide
+	LVL 33 - Future Sight
+	LVL 35 - Ancient Power
+	LVL 37 - Rest
+	LVL 40 - Cosmic Power
+	LVL 42 - Stone Edge (gen 4)
+	LVL 45 - Psychic
+	LVL 48 - Solar Beam
+	LVL 51 - Calm Mind
+	LVL 54 - Synthesis
 
 TM and HM:
 
+
+/- Barboach -/
+
+Stats: 70 HP | 48 Atk | 43 DEF | 46 Sp. Atk | 41 Sp. Def | 60 Spe TOTAL: 308
+Movepool:
+	
+	LVL 1 - Mud-Slap
+	LVL 1 - Water Gun
+	LVL 6 - Rest
+	LVL 6 - Snore
+	LVL 12 - Whirlpool
+	LVL 15 - Magnitude
+	LVL 18 - Mud Shot
+	LVL 21 - Water Pulse
+	LVL 25 - Amnesia
+	LVL 29 - Aqua Tail (gen 4)
+	LVL 33 - Flail
+	LVL 35 - Future Sight
+	LVL 37 - Waterfall
+	LVL 40 - Rain Dance
+	LVL 43 - Substitute
+	LVL 47 - Hydro Pump
+	LVL 50 - Earthquake
+	LVL 53 - Recover
+	
+TM and HM:
 
 
 

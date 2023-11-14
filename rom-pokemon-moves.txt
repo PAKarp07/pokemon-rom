@@ -80,6 +80,7 @@ Draco Meteor (gen 4)
 Foul Play (gen 5, normal calcs)
 Air Slash (gen 4)
 Hurricane (gen 5)
+Coil (gen 5)
 
 /-- Moves to update --/
 
@@ -111,3 +112,7 @@ Petal Dance (updated)
 Grass Whistle - updated -> acc=100%
 
 Heat Wave (updated)
+
+Psywave (updated)
+
+Thrash (updated)
