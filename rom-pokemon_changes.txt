@@ -3592,7 +3592,7 @@ Movepool:
 	LVL 43 - Substitute
 	LVL 47 - Hydro Pump
 	LVL 50 - Earthquake
-	LVL 53 - Recover
+	LVL 53 - Fissure
 	
 TM and HM:
 
@@ -3600,21 +3600,139 @@ TM and HM:
 
 /- Whiscash -/
 
-Stats: 110 HP | 80 Atk | 70 DEF | 80 Sp. Atk | 90 Sp. Def | 60 Spe TOTAL: 490
+Stats: 110 HP | 80 Atk | 80 DEF | 80 Sp. Atk | 100 Sp. Def | 60 Spe TOTAL: 510
 Movepool:
-
+	
+	LVL 1 - Mud-Slap
+	LVL 1 - Water Gun
+	LVL 1 - Rest
+	LVL 1 - Snore
+	LVL 6 - Rest
+	LVL 6 - Snore
+	LVL 12 - Whirlpool
+	LVL 15 - Magnitude
+	LVL 18 - Mud Shot
+	LVL 21 - Water Pulse
+	LVL 25 - Amnesia
+	LVL 29 - Flail
+	LVL 33 - Future Sight
+	LVL 35 - Aqua Tail (gen 4)
+	LVL 37 - Waterfall
+	LVL 40 - Rain Dance
+	LVL 43 - Substitute
+	LVL 47 - Hydro Pump
+	LVL 50 - Earthquake
+	LVL 53 - Fissure
+	
 TM and HM:
 
 
+/- Corphish -/
+
+Movepool:
+
+	LVL 1 - Harden
+	LVL 1 - Water Gun
+	LVL 4 - Leer
+	LVL 8 - Vise Grip (updated)
+	LVL 13 - Yawn
+	LVL 17 - Bubble Beam
+	LVL 21 - Protect
+	LVL 25 - Swift
+	LVL 29 - Bite
+	LVL 33 - Night Slash
+	LVL 37 - Taunt
+	LVL 39 - Liquidation
+	LVL 42 - Crunch
+	LVL 45 - Endeavor
+	LVL 47 - Knock Off
+	LVL 50 - Crabhammer
+	LVL 52 - Guillotine
+	LVL 55 - Swords Dance
+	
+TM and HM:
 
 /- Crawdaunt -/
 
-Stats: 75 HP | 120 Atk | 85 DEF | 80 Sp. Atk | 55 Sp. Def | 65 Spe TOTAL: 480
+Stats: 75 HP | 120 Atk | 85 DEF | 80 Sp. Atk | 55 Sp. Def | 75 Spe TOTAL: 490
 Movepool:
-
-
+	
+	LVL 1 - Harden
+	LVL 1 - Water Gun
+	LVL 4 - Leer
+	LVL 8 - Vise Grip (updated)
+	LVL 13 - Yawn
+	LVL 17 - Bubble Beam
+	LVL 21 - Protect
+	LVL 25 - Swift
+	LVL 29 - Bite
+	LVL 30 - Body Slam (evo move)
+	LVL 33 - Night Slash
+	LVL 37 - Taunt
+	LVL 39 - Liquidation
+	LVL 42 - Crunch
+	LVL 45 - Endeavor
+	LVL 47 - Knock Off
+	LVL 50 - Crabhammer
+	LVL 52 - Guillotine
+	LVL 55 - Swords Dance
+	
 TM and HM:
 
+
+/- Baltoy -/
+
+Movepool:
+	
+	LVL 1 - Harden
+	LVL 1 - Mud-Slap
+	LVL 4 - Rapid Spin
+	LVL 9 - Rock Tomb
+	LVL 12 - Sandstorm
+	LVL 15 - Confusion
+	LVL 18 - Bulldoze
+	LVL 21 - Imprison
+	LVL 24 - Reflect
+	LVL 24 - Light Screen
+	LVL 26 - Psybeam
+	LVL 29 - Ancient Power
+	LVL 32 - Self-Destruct
+	LVL 35 - Cosmic Power
+	LVL 38 - Shadow Ball
+	LVL 43 - Extrasensory (gen 4)
+	LVL 45 - Earth Power (gen 4)
+	LVL 47 - Future Sight
+	LVL 51 - Explosion
+	
+TM and HM:
+
+/- Claydol -/
+
+Stats: 70 HP | 60 Atk | 105 DEF | 80 Sp. Atk | 120 Sp. Def | 80 Spe TOTAL: 515
+
+Movepool:
+	
+	LVL 1 - Harden
+	LVL 1 - Mud-Slap
+	LVL 4 - Rapid Spin
+	LVL 9 - Rock Tomb
+	LVL 12 - Sandstorm
+	LVL 15 - Confusion
+	LVL 18 - Bulldoze
+	LVL 21 - Imprison
+	LVL 24 - Reflect
+	LVL 24 - Light Screen
+	LVL 26 - Psybeam
+	LVL 29 - Ancient Power
+	LVL 32 - Self-Destruct
+	LVL 35 - Cosmic Power
+	LVL 38 - Shadow Ball
+	LVL 43 - Extrasensory (gen 4)
+	LVL 45 - Earth Power (gen 4)
+	LVL 47 - Future Sight
+	LVL 51 - Explosion
+	
+TM and HM:
 
 
 /- Cradily -/
