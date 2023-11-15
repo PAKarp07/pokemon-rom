@@ -1601,7 +1601,7 @@ Movepool:
 	LVL 22 - Bulldoze (gen 4)
 	LVL 24 - Spark
 	LVL 27 - Recover
-	LVL 29 - Rock Blast
+	LVL 29 - Rock Blast (updated)
 	LVL 32 - Iron Defense
 	LVL 35 - Thunder Punch
 	LVL 38 - Body Slam
@@ -3659,6 +3659,7 @@ Movepool:
 	
 	LVL 1 - Harden
 	LVL 1 - Water Gun
+	LVL 1 - Vise Grip (updated)
 	LVL 4 - Leer
 	LVL 8 - Vise Grip (updated)
 	LVL 13 - Yawn
@@ -3714,6 +3715,7 @@ Movepool:
 	
 	LVL 1 - Harden
 	LVL 1 - Mud-Slap
+	LVL 1 - Rapid Spin
 	LVL 4 - Rapid Spin
 	LVL 9 - Rock Tomb
 	LVL 12 - Sandstorm
@@ -3735,12 +3737,88 @@ Movepool:
 TM and HM:
 
 
+/- Lileep -/
+
+Movepool:
+
+	LVL 1 - Astonish
+	LVL 1 - Constrict
+	LVL 3 - Acid
+	LVL 7 - Absorb
+	LVL 10 - Confuse Ray
+	LVL 12 - Rock Blast (updated)
+	LVL 16 - Ingrain
+	LVL 20 - Mega Drain
+	LVL 23 - Amnesia
+	LVL 27 - Ancient Power
+	LVL 31 - Skipes
+	LVL 34 - Rock Slide
+	LVL 36 - Spit up
+	LVL 36 - Stockpile
+	LVL 36 - Swallow
+	LVL 40 - Energy Ball
+	LVL 43 - Acid Armor
+	LVL 46 - Mirror Coat
+	LVL 50 - Leaf Storm (gen 4)
+	LVL 52 - Recover
+
+TM and HM:
+
 /- Cradily -/
 
 Stats: 90 HP | 80 Atk | 110 DEF | 80 Sp. Atk | 110 Sp. Def | 50 Spe TOTAL: 520
 Movepool:
+	
+	LVL 1 - Astonish
+	LVL 1 - Constrict
+	LVL 1 - Acid
+	LVL 1 - Absorb
+	LVL 3 - Acid
+	LVL 7 - Absorb
+	LVL 10 - Confuse Ray
+	LVL 12 - Rock Blast (updated)
+	LVL 16 - Ingrain
+	LVL 20 - Mega Drain
+	LVL 23 - Amnesia
+	LVL 27 - Ancient Power
+	LVL 31 - Skipes
+	LVL 34 - Rock Slide
+	LVL 36 - Spit up
+	LVL 36 - Stockpile
+	LVL 36 - Swallow
+	LVL 40 - Energy Ball
+	LVL 43 - Acid Armor
+	LVL 46 - Mirror Coat
+	LVL 50 - Leaf Storm (gen 4)
+	LVL 52 - Recover
+
+TM and HM:
 
 
+
+/- Anorith -/
+
+Movepool:
+	
+	LVL 1 - Scratch
+	LVL 1 - Harden
+	LVL 4 - Rock Throw
+	LVL 7 - Fury Cutter (updated)
+	LVL 10 - Metal Claw
+	LVL 15 - Ancient Power
+	LVL 17 - Bug Bite (gen 4, without eating berry effect)
+	LVL 19 - Rock Polish (gen 4)
+	LVL 22 - False Swipe
+	LVL 24 - Aerial Ace
+	LVL 27 - Protect
+	LVL 31 - Dig
+	LVL 36 - Iron Defense
+	LVL 41 - Slash
+	LVL 45 - X-Scissors (gen 4)
+	LVL 48 - Iron Head (gen 4)
+	LVL 50 - Stone Edge (gen 4)
+	LVL 56 - Swords Dance
+	
 TM and HM:
 
 
@@ -3748,7 +3826,25 @@ TM and HM:
 
 Stats: 70 HP | 125 Atk | 100 DEF | 70 Sp. Atk | 90 Sp. Def | 65 Spe TOTAL: 520
 Movepool:
-
+		
+	LVL 1 - Scratch
+	LVL 1 - Harden
+	LVL 4 - Rock Throw
+	LVL 7 - Fury Cutter (updated)
+	LVL 10 - Metal Claw
+	LVL 15 - Ancient Power
+	LVL 17 - Bug Bite (gen 4, without eating berry effect)
+	LVL 19 - Rock Polish (gen 4)
+	LVL 22 - False Swipe
+	LVL 24 - Aerial Ace
+	LVL 27 - Protect
+	LVL 31 - Dig
+	LVL 36 - Iron Defense
+	LVL 41 - Slash
+	LVL 45 - X-Scissors (gen 4)
+	LVL 48 - Iron Head (gen 4)
+	LVL 50 - Stone Edge (gen 4)
+	LVL 56 - Swords Dance
 
 TM and HM:
 

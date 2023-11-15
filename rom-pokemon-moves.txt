@@ -81,6 +81,7 @@ Foul Play (gen 5, normal calcs)
 Air Slash (gen 4)
 Hurricane (gen 5)
 Coil (gen 5)
+Iron Head (gen 4)
 
 /-- Moves to update --/
 
@@ -118,3 +119,5 @@ Psywave (updated)
 Thrash (updated)
 
 Vise Grip (updated)
+
+Rock Blast (updated)
