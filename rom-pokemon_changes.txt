@@ -3850,6 +3850,24 @@ TM and HM:
 
 
 
+/- Igglybuff -/
+
+Movepool:
+
+	LVL 1 - Pound
+	LVL 1 - Sing
+	LVL 4 - Defense Curl
+	LVL 9 - Charm
+	LVL 10 - Disarming Voice (gen 6, normal type)
+	LVL 15 - Sweet Kiss
+	LVL 18 - Disable
+	LVL 
+
+TM and HM:
+
+
+
+
 /- Wigglytuff -/
 
 Stats: 140 HP | 70 Atk | 80 DEF | 90 Sp. Atk | 60 Sp. Def | 45 Spe TOTAL: 485
