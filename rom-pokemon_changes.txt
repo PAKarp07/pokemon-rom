@@ -3852,6 +3852,7 @@ TM and HM:
 
 /- Igglybuff -/
 
+Abilities: Cute Charm/Serene Grace
 Movepool:
 
 	LVL 1 - Pound
@@ -3861,18 +3862,76 @@ Movepool:
 	LVL 10 - Disarming Voice (gen 6, normal type)
 	LVL 15 - Sweet Kiss
 	LVL 18 - Disable
-	LVL 
+	LVL 22 - Attract
+	LVL 25 - Helping Hand
+	LVL 30 - Body Slam
+	LVL 32 - Swift
+	LVL 35 - Uproar
+	LVL 39 - Zen Headbutt (gen 4)
+	LVL 42 - Baton Pass
+	LVL 45 - Wish
+	LVL 48 - Parish Song
+	LVL 52 - Hyper Voice
 
 TM and HM:
 
 
+/- Jigglypuff -/
+
+Abilities: Cute Charm/Serene Grace
+Stats: 115 HP | 55 Atk | 55 DEF | 65 Sp. Atk | 45 Sp. Def | 40 Spe TOTAL: 375
+Movepool:
+
+	LVL 1 - Pound
+	LVL 1 - Sing
+	LVL 1 - Charm
+	LVL 4 - Defense Curl
+	LVL 9 - Charm
+	LVL 10 - Disarming Voice (gen 6, normal type)
+	LVL 15 - Sweet Kiss
+	LVL 19 - Body Slam
+	LVL 22 - Disable
+	LVL 24 - Attract
+	LVL 28 - Helping Hand
+	LVL 32 - Swift
+	LVL 35 - Uproar
+	LVL 39 - Zen Headbutt (gen 4)
+	LVL 42 - Baton Pass
+	LVL 45 - Wish
+	LVL 48 - Parish Song
+	LVL 52 - Hyper Beam
+	
+	LVL ?? - Metronome (evo move)
+	
+TM and HM:
 
 
 /- Wigglytuff -/
 
+Abilities: Cute Charm/Serene Grace
 Stats: 140 HP | 70 Atk | 80 DEF | 90 Sp. Atk | 60 Sp. Def | 45 Spe TOTAL: 485
 Movepool:
-
+	
+	LVL 1 - Pound
+	LVL 1 - Sing
+	LVL 1 - Charm
+	LVL 4 - Defense Curl
+	LVL 9 - Charm
+	LVL 10 - Disarming Voice (gen 6, normal type)
+	LVL 15 - Sweet Kiss
+	LVL 18 - Disable
+	LVL 22 - Attract
+	LVL 25 - Helping Hand
+	LVL 30 - Body Slam
+	LVL 32 - Swift
+	LVL 35 - Uproar
+	LVL 39 - Zen Headbutt (gen 4)
+	LVL 42 - Baton Pass
+	LVL 45 - Wish
+	LVL 48 - Parish Song
+	LVL 52 - Hyper Beam
+	
+	LVL ?? - Hyper Voice (evo move)
 
 TM and HM:
 
