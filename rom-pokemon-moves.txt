@@ -121,3 +121,5 @@ Thrash (updated)
 Vise Grip (updated)
 
 Rock Blast (updated)
+
+Weather Ball (pwr = 65)

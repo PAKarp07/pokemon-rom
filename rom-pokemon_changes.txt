@@ -285,7 +285,7 @@ TM and HM:
 /- Mightyena -/
 
 Lvl up: 24
-Stats: 75 HP | 100 Atk | 70 DEF | 50 Sp. Atk | 70 Sp. Def | 95 Spe TOTAL: 460
+Stats: 75 HP | 105 Atk | 70 DEF | 50 Sp. Atk | 70 Sp. Def | 95 Spe TOTAL: 465
 Movepool:
 
 	LVL 1 - Tackle
@@ -3513,7 +3513,7 @@ TM and HM:
 /- Lunatone -/
 
 
-Stats: 95 HP | 60 Atk | 65 DEF | 95 Sp. Atk | 90 Sp. Def | 70 Spe TOTAL: 475
+Stats: 105 HP | 60 Atk | 65 DEF | 95 Sp. Atk | 90 Sp. Def | 70 Spe TOTAL: 485
 Movepool:
 	
 	LVL 1 - Tackle
@@ -3544,7 +3544,7 @@ TM and HM:
 /- Solrock -/
 
 
-Stats: 95 HP | 60 Atk | 90 DEF | 95 Sp. Atk | 65 Sp. Def | 70 Spe TOTAL: 475
+Stats: 105 HP | 60 Atk | 90 DEF | 95 Sp. Atk | 65 Sp. Def | 70 Spe TOTAL: 485
 Movepool:
 	
 	LVL 1 - Tackle
@@ -3654,7 +3654,7 @@ TM and HM:
 
 /- Crawdaunt -/
 
-Stats: 75 HP | 120 Atk | 85 DEF | 80 Sp. Atk | 55 Sp. Def | 75 Spe TOTAL: 490
+Stats: 80 HP | 120 Atk | 85 DEF | 80 Sp. Atk | 55 Sp. Def | 75 Spe TOTAL: 495
 Movepool:
 	
 	LVL 1 - Harden
@@ -3941,13 +3941,52 @@ TM and HM:
 Stats: 40 HP | 20 Atk | 30 DEF | 50 Sp. Atk | 55 Sp. Def | 80 Spe TOTAL: 275
 Movepool:
 
-
-
+	LVL 1 - Splash
+	LVL 1 - Tackle
+	LVL 4 - Water Gun
+	LVL 7 - Mist
+	LVL 10 - Haze
+	LVL 15 - Flail
+	LVL 22 - Twister
+	LVL 26 - Rest
+	LVL 32 - Chilling Water (gen 9)
+	LVL 37 - Dragon Breath
+	LVL 40 - Mirror Coat
+	LVL 45 - Water Pulse
+	LVL 47 - Rain Dance
+	LVL 49 - Coil
+	LVL 51 - Hydro Pump
+	LVL 54 - Recover
+	
 /- Milotic -/
 
 Lvl up 45
+Stats: 95 HP | 70 Atk | 80 DEF | 110 Sp. Atk | 125 Sp. Def | 80 Spe TOTAL: 560
 Movepool:
-
+	
+	LVL 1 - Splash
+	LVL 1 - Tackle
+	LVL 1 - Wrap
+	LVL 4 - Water Gun
+	LVL 7 - Mist
+	LVL 10 - Haze
+	LVL 12 - Attract
+	LVL 15 - Flail
+	LVL 22 - Twister
+	LVL 26 - Rest
+	LVL 32 - Chilling Water (gen 9)
+	LVL 37 - Dragon Breath
+	LVL 40 - Mirror Coat
+	LVL 45 - Water Pulse
+	LVL 45 - Attract (evo move)
+	LVL 45 - Aqua Tail (gen 4, evo move)
+	LVL 45 - Iron Tail (evo move)
+	LVL 45 - Dragon Pulse (gen 4,evo move)
+	LVL 47 - Rain Dance
+	LVL 49 - Coil
+	LVL 51 - Iron Tail
+	LVL 51 - Hydro Pump
+	LVL 54 - Recover
 
 TM and HM:
 
@@ -3957,6 +3996,27 @@ TM and HM:
 
 Stats: 80 HP | 80 Atk | 80 DEF | 80 Sp. Atk | 80 Sp. Def | 80 Spe TOTAL: 480
 Movepool:
+	
+	LVL 1 - Tackle
+	LVL 4 - Disable
+	LVL 10 - Ember
+	LVL 10 - Powder Snow
+	LVL 10 - Water Gun
+	LVL 15 - Headbutt
+	LVL 20 - Hail
+	LVL 20 - Rain Dance
+	LVL 20 - Sunny Day
+	LVL 30 - Weather Ball (updated)
+	LVL 35 - Flamethrower
+	LVL 35 - Ice Beam
+	LVL 35 - Scald (gen 5)
+	LVL 45 - Nasty Plot (gen 4)
+	LVL 50 - Fire Blast
+	LVL 50 - Blizzard
+	LVL 50 - Hydro Pump
+	LVL 50 - Solar Beam
+	LVL 50 - Thunder
+	LVL 50 - Hurricane (gen 5)
 
 TM and HM:
 
