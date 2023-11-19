@@ -2822,7 +2822,7 @@ Movepool:
 	LVL 27 - Stomp
 	LVL 31 - Sandstorm
 	LVL 35 - Take Down
-	LVL 38 - Ancient Power
+	LVL 38 - Ancient Power (updated)
 	LVL 40 - Protect
 	LVL 42 - Rock Slide
 	LVL 45 - Heat Wave (updated)
@@ -2856,7 +2856,7 @@ Movepool:
 	LVL 27 - Stomp
 	LVL 31 - Sandstorm
 	LVL 35 - Take Down
-	LVL 38 - Ancient Power
+	LVL 38 - Ancient Power (updated)
 	LVL 40 - Protect
 	LVL 42 - Rock Slide
 	LVL 45 - Heat Wave (updated)
@@ -2882,7 +2882,7 @@ Movepool:
 	LVL 13 - Harden
 	LVL 16 - Haze 
 	lvl 18 - Rock Polish
-	LVL 20 - Ancient Power
+	LVL 20 - Ancient Power (updated)
 	LVL 23 - Amnesia
 	LVL 25 - Reflect
 	LVL 25 - Light Screen
@@ -2914,7 +2914,7 @@ Movepool:
 	LVL 13 - Harden
 	LVL 16 - Haze
 	lvl 18 - Rock Polish
-	LVL 20 - Ancient Power
+	LVL 20 - Ancient Power (updated)
 	LVL 23 - Amnesia
 	LVL 25 - Reflect
 	LVL 25 - Light Screen
@@ -3527,7 +3527,7 @@ Movepool:
 	LVL 27 - Light Screen
 	LVL 31 - Rock Slide
 	LVL 33 - Future Sight
-	LVL 35 - Ancient Power
+	LVL 35 - Ancient Power (updated)
 	LVL 37 - Rest
 	LVL 40 - Cosmic Power
 	LVL 42 - Stone Edge (gen 4)
@@ -3558,7 +3558,7 @@ Movepool:
 	LVL 27 - Reflect
 	LVL 31 - Rock Slide
 	LVL 33 - Future Sight
-	LVL 35 - Ancient Power
+	LVL 35 - Ancient Power (updated)
 	LVL 37 - Rest
 	LVL 40 - Cosmic Power
 	LVL 42 - Stone Edge (gen 4)
@@ -3696,7 +3696,7 @@ Movepool:
 	LVL 24 - Reflect
 	LVL 24 - Light Screen
 	LVL 26 - Psybeam
-	LVL 29 - Ancient Power
+	LVL 29 - Ancient Power (updated)
 	LVL 32 - Self-Destruct
 	LVL 35 - Cosmic Power
 	LVL 38 - Shadow Ball
@@ -3725,7 +3725,7 @@ Movepool:
 	LVL 24 - Reflect
 	LVL 24 - Light Screen
 	LVL 26 - Psybeam
-	LVL 29 - Ancient Power
+	LVL 29 - Ancient Power (updated)
 	LVL 32 - Self-Destruct
 	LVL 35 - Cosmic Power
 	LVL 38 - Shadow Ball
@@ -3750,7 +3750,7 @@ Movepool:
 	LVL 16 - Ingrain
 	LVL 20 - Mega Drain
 	LVL 23 - Amnesia
-	LVL 27 - Ancient Power
+	LVL 27 - Ancient Power (updated)
 	LVL 31 - Skipes
 	LVL 34 - Rock Slide
 	LVL 36 - Spit up
@@ -3780,7 +3780,7 @@ Movepool:
 	LVL 16 - Ingrain
 	LVL 20 - Mega Drain
 	LVL 23 - Amnesia
-	LVL 27 - Ancient Power
+	LVL 27 - Ancient Power (updated)
 	LVL 31 - Skipes
 	LVL 34 - Rock Slide
 	LVL 36 - Spit up
@@ -3805,7 +3805,7 @@ Movepool:
 	LVL 4 - Rock Throw
 	LVL 7 - Fury Cutter (updated)
 	LVL 10 - Metal Claw
-	LVL 15 - Ancient Power
+	LVL 15 - Ancient Power (updated)
 	LVL 17 - Bug Bite (gen 4, without eating berry effect)
 	LVL 19 - Rock Polish (gen 4)
 	LVL 22 - False Swipe
@@ -3832,7 +3832,7 @@ Movepool:
 	LVL 4 - Rock Throw
 	LVL 7 - Fury Cutter (updated)
 	LVL 10 - Metal Claw
-	LVL 15 - Ancient Power
+	LVL 15 - Ancient Power (updated)
 	LVL 17 - Bug Bite (gen 4, without eating berry effect)
 	LVL 19 - Rock Polish (gen 4)
 	LVL 22 - False Swipe
@@ -4021,14 +4021,88 @@ Movepool:
 TM and HM:
 
 
+/- Staryu -/
+
+Movepool:
+
+	LVL 1 - Harden
+	LVL 1 - Tackle
+	LVL 4 - Water Gun
+	LVL 8 - Rapid Spin
+	LVL 12 - Confuse Ray
+	LVL 16 - Minimize
+	LVL 20 - Swift
+	LVL 24 - Psybeam
+	LVL 26 - Water Pulse
+	LVL 28 - Light Screen
+	LVL 31 - Double Team
+	LVL 35 - Power Gem (gen 4)
+	LVL 39 - Ice Beam
+	LVL 41 - Scald (gen 5, without thaw it while frozen)
+	LVL 43 - Psychic
+	LVL 46 - Cosmic Power
+	LVL 49 - Hydro Pump
+	LVL 53 - Recover
+
+TM and HM:
+
+
+/- Starmie -/
+
+Movepool:
+
+	LVL 1 - Harden
+	LVL 1 - Tackle
+	LVL 1 - Water Gun
+	LVL 1 - Rapid Spin
+	LVL 4 - Water Gun
+	LVL 8 - Rapid Spin
+	LVL 12 - Confuse Ray
+	LVL 16 - Minimize
+	LVL 20 - Swift
+	LVL 24 - Psybeam
+	LVL 26 - Water Pulse
+	LVL 28 - Light Screen
+	LVL 31 - Double Team
+	LVL 35 - Power Gem (gen 4)
+	LVL 39 - Ice Beam
+	LVL 41 - Scald (gen 5, without thaw it while frozen)
+	LVL 43 - Psychic
+	LVL 46 - Cosmic Power
+	LVL 49 - Hydro Pump
+	LVL 53 - Recover
+
+TM and HM:
+
+
 /- Kecleon -/
 
 Stats: 80 HP | 95 Atk | 70 DEF | 60 Sp. Atk | 120 Sp. Def | 50 Spe TOTAL: 475
 Movepool:
-
+	
+	LVL 1 - Astonish
+	LVL 1 - Scratch
+	LVL 1 - Tail-Whip
+	LVL 1 - Bind
+	LVL 4 - Detect
+	LVL 8 - Fury Swipes 
+	LVL 12 - Disable
+	LVL 14 - Shadow Sneak (gen 4)
+	LVL 16 - Pysbeam
+	LVL 20 - Thief
+	LVL 23 - Trick
+	LVL 25 - Ancient Power (updated)
+	LVL 28 - Slash
+	LVL 30 - Hone Claws (gen 5)
+	LVL 32 - Screech
+	LVL 35 - Shadow Claw (gen 4)
+	LVL 38 - Knock Off (updated)
+	LVL 42 - Substitute
+	LVL 45 - Brick Brake
+	LVL 49 - Foul Play (gen 5, normal calcs)
+	LVL 52 - Giga Impact
 
 TM and HM:
-
 
 
 

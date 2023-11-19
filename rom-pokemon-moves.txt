@@ -123,3 +123,5 @@ Vise Grip (updated)
 Rock Blast (updated)
 
 Weather Ball (pwr = 65)
+
+Ancient Power (pp=10)
