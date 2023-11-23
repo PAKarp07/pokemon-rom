@@ -4104,6 +4104,32 @@ Movepool:
 
 TM and HM:
 
+/- Shuppet -/
+
+Movepool:
+
+	LVL 1 - Astonish
+	LVL 1 - Disable
+	LVL 4 - Leer
+	LVL 7 - Night Shade
+	LVL 10 - Spite
+	LVL 16 - Feint Attack
+	LVL 19 - Shadow Sneak (gen 4)
+	LVL 22 - Confuse Ray
+	LVL 25 - Thief
+	LVL 29 - Curse
+	LVL 33 - Dark Pulse (gen 4)
+	LVL 35 - Shadow Ball
+	LVL 38 - Grudge
+	LVL 41 - Trick
+	LVL 43 - Snatch
+	LVL 45 - Will-O-Wisp
+	LVL 47 - Taunt
+	LVL 49 - Foul Play (gen 5, normal calcs)
+	LVL 52 - Phantom Force (gen 6)
+	
+TM and HM:
+
 
 
 /- Banette -/
@@ -4111,10 +4137,55 @@ TM and HM:
 Stats: 65 HP | 125 Atk | 65 DEF | 80 Sp. Atk | 80 Sp. Def | 80 Spe TOTAL: 495
 Movepool:
 
+	LVL 1 - Astonish
+	LVL 1 - Disable
+	LVL 1 - Leer
+	LVL 4 - Leer
+	LVL 7 - Night Shade
+	LVL 10 - Spite
+	LVL 16 - Feint Attack
+	LVL 19 - Shadow Sneak (gen 4)
+	LVL 22 - Confuse Ray
+	LVL 25 - Thief
+	LVL 29 - Curse
+	LVL 33 - Dark Pulse (gen 4)
+	LVL 35 - Shadow Ball
+	LVL 37 - Knock Off (evo move)
+	LVL 38 - Grudge
+	LVL 41 - Trick
+	LVL 43 - Snatch
+	LVL 45 - Will-O-Wisp
+	LVL 47 - Taunt
+	LVL 49 - Foul Play (gen 5, normal calcs)
+	LVL 52 - Phantom Force (gen 6)
 
 TM and HM:
 
 
+/- Duskull -/
+
+Movepool:
+
+	LVL 1 - Astonish
+	LVL 1 - Disable
+	LVL 4 - Leer
+	LVL 7 - Night Shade
+	LVL 10 - Shadow Sneak (gen 4)
+	LVL 13 - Confuse Ray
+	LVL 16 - Pursuit (updated)
+	LVL 21 - Mean Look
+	LVL 25 - Haze
+	LVL 29 - Curse
+	LVL 33 - Dark Pulse (gen 4)
+	LVL 35 - Shadow Ball
+	LVL 38 - Will-O-Wisp
+	LVL 41 - Future Sight
+	LVL 44 - Torment
+	LVL 48 - Foul Play (gen 5, normal calcs)
+	LVL 51 - Phantom Force (gen 6)
+	LVL 53 - Pain Split
+	
+TM and HM:
 
 
 /- Duskclops -/
@@ -4122,18 +4193,37 @@ TM and HM:
 Stats: 70 HP | 85 Atk | 130 DEF | 60 Sp. Atk | 130 Sp. Def | 20 Spe TOTAL: 495
 Movepool:
 
+	LVL 1 - Astonish
+	LVL 1 - Disable
+	LVL 4 - Leer
+	LVL 7 - Night Shade
+	LVL 10 - Shadow Sneak (gen 4)
+	LVL 13 - Confuse Ray
+	LVL 16 - Pursuit (updated)
+	LVL 21 - Mean Look
+	LVL 25 - Haze
+	LVL 29 - Curse
+	LVL 33 - Dark Pulse (gen 4)
+	LVL 35 - Shadow Ball
+	LVL 37 - Shadow Punch (evo move)
+	LVL 38 - Will-O-Wisp
+	LVL 41 - Future Sight
+	LVL 44 - Torment
+	LVL 46 - Imprison
+	LVL 48 - Foul Play (gen 5, normal calcs)
+	LVL 51 - Phantom Force (gen 6)
+	LVL 53 - Pain Split
 
 TM and HM:
-
-
-
+	
 
 /- Tropius -/
 
-Stats: 105 HP | 58 Atk | 85 DEF | 92 Sp. Atk | 88 Sp. Def | 61 Spe TOTAL: 489
+Stats: 105 HP | 90 Atk | 85 DEF | 90 Sp. Atk | 88 Sp. Def | 51 Spe TOTAL: 509
 Movepool:
 
-
+	
+	
 TM and HM:
 
 
