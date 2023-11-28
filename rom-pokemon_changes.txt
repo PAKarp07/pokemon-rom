@@ -275,10 +275,10 @@ Movepool:
 	LVL 35 - Taunt
 	LVL 38 - Dig
 	LVL 41 - Take Down
+	LVL 43 - Shadow Claw (gen 4)
 	LVL 45 - Crunch
 	LVL 47 - Psychic Fangs (gen 7)
-	LVL 49 - Shadow Claw (gen 4)
-	LVL 54 - Lash Out (gen 9, but new changes)
+	LVL 51 - Lash Out (gen 9, but new changes)
 	
 TM and HM:
 
@@ -308,10 +308,10 @@ Movepool:
 	LVL 35 - Taunt
 	LVL 38 - Dig
 	LVL 41 - Take Down
+	LVL 43 - Shadow Claw (gen 4)
 	LVL 45 - Crunch
 	LVL 47 - Psychic Fangs (gen 7)
-	LVL 49 - Shadow Claw (gen 4)
-	LVL 54 - Lash Out (gen 9, but new changes)
+	LVL 51 - Lash Out (gen 9, but new changes)
 	
 TM and HM:
 
@@ -2544,7 +2544,7 @@ Movepool:
 	LVL 14 - Thief
 	LVL 16 - Wing Attack
 	LVL 20 - Double Team
-	LVL 24 - Uproar
+	LVL 24 - Uproar (updated)
 	LVL 27 - Aerial Ace
 	LVL 32 - Slash
 	LVL 35 - Agility
@@ -2576,7 +2576,7 @@ Movepool:
 	LVL 14 - Thief
 	LVL 16 - Wing Attack
 	LVL 20 - Double Team
-	LVL 24 - Uproar
+	LVL 24 - Uproar (updated)
 	LVL 27 - Aerial Ace
 	LVL 32 - Slash
 	LVL 35 - Agility
@@ -3190,7 +3190,7 @@ Movepool:
 	LVL 23 - Psybeam
 	LVL 25 - Disable
 	LVL 29 - Psych Up
-	LVL 31 - Uproar
+	LVL 31 - Uproar (updated)
 	LVL 33 - Dizzy Punch
 	LVL 36 - Skill Swap
 	LVL 38 - Fake Out
@@ -3866,7 +3866,7 @@ Movepool:
 	LVL 25 - Helping Hand
 	LVL 30 - Body Slam
 	LVL 32 - Swift
-	LVL 35 - Uproar
+	LVL 35 - Uproar (updated)
 	LVL 39 - Zen Headbutt (gen 4)
 	LVL 42 - Baton Pass
 	LVL 45 - Wish
@@ -3894,7 +3894,7 @@ Movepool:
 	LVL 24 - Attract
 	LVL 28 - Helping Hand
 	LVL 32 - Swift
-	LVL 35 - Uproar
+	LVL 35 - Uproar (updated)
 	LVL 39 - Zen Headbutt (gen 4)
 	LVL 42 - Baton Pass
 	LVL 45 - Wish
@@ -3924,7 +3924,7 @@ Movepool:
 	LVL 25 - Helping Hand
 	LVL 30 - Body Slam
 	LVL 32 - Swift
-	LVL 35 - Uproar
+	LVL 35 - Uproar (updated)
 	LVL 39 - Zen Headbutt (gen 4)
 	LVL 42 - Baton Pass
 	LVL 45 - Wish
@@ -4222,11 +4222,57 @@ TM and HM:
 Stats: 105 HP | 90 Atk | 85 DEF | 90 Sp. Atk | 88 Sp. Def | 51 Spe TOTAL: 509
 Movepool:
 
-	
+	LVL 1 - Gust
+	LVL 1 - Leer
+	LVL 5 - Sweet Scent
+	LVL 9 - Magical Leaf
+	LVL 12 - Growth
+	LVL 15 - Stomp
+	LVL 18 - Whirlwind
+	LVL 20 - Wing Attack
+	LVL 23 - Bullet Seed (updated)
+	LVL 25 - Headbutt
+	LVL 27 - Safeguard
+	LVL 30 - Dragon Breath
+	LVL 34 - Swagger
+	LVL 37 - Giga Drain
+	LVL 40 - Air Slash
+	LVL 43 - Seed Bomb (gen 4)
+	LVL 45 - Outrage
+	LVL 49 - Sunny Day
+	LVL 52 - Leaf Storm (gen 4)
+	LVL 55 - Synthesis
 	
 TM and HM:
 
 
+/- Chimecho -/
+
+Stats: 75 HP | 50 Atk | 80 DEF | 95 Sp. Atk | 90 Sp. Def | 90 Spe TOTAL: 480
+Movepool:
+
+	LVL 1 - Wrap
+	LVL 1 - Growl
+	LVL 1 - Astonish
+	LVL 6 - Psywave (updated)
+	LVL 10 - Helping Hands
+	LVL 12 - Yawn
+	LVL 15 - Hidden Power
+	LVL 17 - Encore
+	LVL 20 - Confusion
+	LVL 22 - Safeguard
+	LVL 25 - Swift
+	LVL 27 - Heal Bell
+	LVL 30 - Reflect
+	LVL 30 - Light Screen
+	LVL 34 - Skill Swap
+	LVL 38 - Uproar (updated)
+	LVL 41 - Extrasensory (gen 4)
+	LVL 45 - Taunt
+	LVL 48 - Calm Mind
+	LVL 51 - Hyper Voice (updated)
+	
+TM and HM:
 
 
 /- Absol -/
@@ -4234,8 +4280,26 @@ TM and HM:
 Stats: 75 HP | 130 Atk | 65 DEF | 75 Sp. Atk | 65 Sp. Def | 100 Spe TOTAL: 510
 Movepool:
 
-
-
+	LVL 1 - Scratch
+	LVL 1 - Leer
+	LVL 1 - Snarl (gen 5)
+	LVL 5 - Quick Attack
+	LVL 8 - Detect
+	LVL 13 - Focus Energy
+	LVL 16 - Pursuit (updated)
+	LVL 19 - Double Team
+	LVL 22 - Bite
+	LVL 25 - Hone Claws (gen 5)
+	LVL 28 - Shadow Claw (gen 4)
+	LVL 32 - Slash
+	LVL 35 - Night Slash (gen 4)
+	LVL 38 - Future Sight
+	LVL 41 - Crunch
+	LVL 44 - Perish Song
+	LVL 48 - Taunt
+	LVL 51 - Lash Out (gen 9, with changes)
+	LVL 55 - Swords Dance
+	
 TM and HM:
 
 
