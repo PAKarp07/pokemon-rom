@@ -79,7 +79,7 @@ Dragon Pulse (gen 4)
 Draco Meteor (gen 4)
 Foul Play (gen 5, normal calcs)
 Air Slash (gen 4)
-Hurricane (gen 5)
+Hurricane (gen 5; acc=85)
 Coil (gen 5)
 Iron Head (gen 4)
 
@@ -90,7 +90,7 @@ Leaf Blade - update last gen
 
 False Swipe - add as TM & sell on mart
 
-Razor Wind - flying type -> power 110
+Razor Wind - flying type -> power 110, acc = 85, pp=5
 
 Pursuit - Power = 55
 
@@ -125,3 +125,11 @@ Rock Blast (updated)
 Weather Ball (pwr = 65)
 
 Ancient Power (pp=10)
+
+Hydro Pump (acc=90)
+
+Blizzard (acc=90)
+
+Thunder (acc=90)
+
+Fire Blast (acc=90)

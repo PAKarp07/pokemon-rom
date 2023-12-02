@@ -326,19 +326,22 @@ Movepool:
 	LVL 8 - Sand-Attack
 	LVL 9 - Tail-Whip
 	LVL 11 - Fury Swipes
-	LVL 14 - Covet  (updated)
+	LVL 14 - Covet (updated)
 	LVL 16 - Headbutt
 	LVL 18 - Baby-Doll Eyes (gen 6)
 	LVL 20 - Pin Missile
 	LVL 22 - Thief
 	LVL 24 - Rest
 	LVL 26 - Take Down
-	LVL 30 - Substitute
-	LVL 33 - Extreme Speed
-	LVL 37 - Flail
-	LVL 42 - Facade
-	LVL 46 - Knock Off (updated)
-	LVL 49 - Double-Edge
+	LVL 28 - Double Team
+	LVL 30 - Extreme Speed
+	LVL 32 - Hone Claws (gen 5)
+	LVL 35 - Substitute
+	LVL 40 - Slash
+	LVL 43 - Facade
+	LVL 46 - Night Slash (gen 4)
+	LVL 39 - Knock Off (updated)
+	LVL 51 - Double-Edge
 	LVL 56 - Belly Drum
 
 
@@ -354,13 +357,13 @@ Movepool:
 	LVL 8 - Sand-Attack
 	LVL 9 - Tail-Whip
 	LVL 11 - Fury Swipes
-	LVL 13 - Covet  (updated)
+	LVL 14 - Covet (updated)
 	LVL 16 - Headbutt
 	LVL 18 - Baby-Doll Eyes (gen 6)
 	LVL 20 - Pin Missile
 	LVL 22 - Thief
 	LVL 24 - Rest
-	LVL 26 - Swift
+	LVL 26 - Take Down
 	LVL 29 - Double Team
 	LVL 32 - Hone Claws (gen 5)
 	LVL 35 - Substitute
@@ -391,7 +394,7 @@ Movepool:
 
 	LVL 1 - Tackle
 	LVL 1 - Harden
-	
+	LVL 10 - Bug Bite (gen 4, without eating berry effect)
 	
 /- Beautify -/
 
@@ -433,7 +436,7 @@ Movepool:
 
 	LVL 1 - Tackle
 	LVL 1 - Harden
-	
+	LVL 10 - Bug Bite (gen 4, without eating berry effect)
 	
 /- Dustox -/
 
@@ -4303,27 +4306,299 @@ Movepool:
 TM and HM:
 
 
+/- Vulpix -/
+
+Abilities: Flash Fire/ Drought
+Stats: 38 HP | 41 Atk | 40 DEF | 63 Sp. Atk | 65 Sp. Def | 65 Spe TOTAL: 312
+
+Movepool:
+
+	LVL 1 - Tackle
+	LVL 1 - Tail-Whip
+	LVL 6 - Ember
+	LVL 8 - Disable
+	LVL 11 - Quick Attack
+	LVL 14 - Spite
+	LVL 18 - Fire Spin
+	LVL 20 - Snarl (gen 5)
+	LVL 23 - Confuse Ray
+	LVL 26 - Roar
+	LVL 29 - Swift
+	LVL 31 - Safeguard
+	LVL 35 - Reflect
+	LVL 35 - Light Screen
+	LVL 38 - Extrasensory (gen 4)
+	LVL 41 - Psychic
+	LVL 43 - Flamethrower
+	LVL 47 - Will-O-Wisp
+	LVL 49 - Dark Pulse
+	LVL 51 - Fire Blast
+	LVL 55 - Calm Mind
+	
+TM and HM:
+
+
+
+/- Ninetales -/
+
+Type: Fire/Psychic
+Abilities: Flash Fire/ Drought
+Stats: 75 HP | 70 Atk | 75 DEF | 90 Sp. Atk | 100 Sp. Def | 100 Spe TOTAL: 510
+
+Movepool:
+
+	LVL 1 - Tackle
+	LVL 1 - Tail-Whip
+	LVL 1 - Ember
+	LVL 1 - Disable
+	LVL 6 - Ember
+	LVL 8 - Disable
+	LVL 11 - Quick Attack
+	LVL 14 - Spite
+	LVL 18 - Fire Spin
+	LVL 20 - Snarl (gen 5)
+	LVL 23 - Confuse Ray
+	LVL 26 - Roar
+	LVL 29 - Swift
+	LVL 31 - Safeguard
+	LVL 35 - Reflect
+	LVL 35 - Light Screen
+	LVL 38 - Extrasensory (gen 4)
+	LVL 41 - Psychic
+	LVL 43 - Flamethrower
+	LVL 47 - Will-O-Wisp
+	LVL 49 - Dark Pulse
+	LVL 51 - Fire Blast
+	LVL 55 - Calm Mind
+	
+	LVL ?? - Heat Wave (evo move)
+	
+TM and HM:
+
+
+
+/- Pichu -/
+Stats: 20 HP | 40 Atk | 15 DEF | 50 Sp. Atk | 35 Sp. Def | 60 Spe TOTAL: 220
+
+
+Movepool:
+	
+	LVL 1 - Tail-Whip
+	LVL 1 - Thunder Shock
+	LVL 1 - Charm
+	LVL 6 - Thunder Wave
+	LVL 9 - Quick Attack
+	LVL 12 - Double Team
+	LVL 17 - Attract
+	LVL 20 - Electro Ball (gen 5)
+	LVL 22 - Spark
+	LVL 24 - Charge
+	LVL 27 - Encore
+	LVL 29 - Fake Out
+	LVL 31 - Headbutt
+	LVL 33 - Agility
+	LVL 35 - Shock Wave
+	LVL 38 - Iron Tail
+	LVL 41 - Discharge
+	LVL 43 - Wild Charge (gen 5)
+	LVL 46 - Thunderbolt
+	LVL 49 - Nasty Plot
+	LVL 52 - Thunder
+	LVL 55 - Volt Tackle
+	
+TM and HM:
+
+
+/- Pikachu -/
+Stats: 35 HP | 65 Atk | 40 DEF | 65 Sp. Atk | 50 Sp. Def | 90 Spe TOTAL: 345
+
+Movepool:
+	
+	LVL 1 - Tail-Whip
+	LVL 1 - Thunder Shock
+	LVL 1 - Charm
+	LVL 1 - Quick Attack
+	LVL 6 - Thunder Wave
+	LVL 9 - Quick Attack
+	LVL 12 - Double Team
+	LVL 17 - Attract
+	LVL 20 - Electro Ball (gen 5)
+	LVL 22 - Spark
+	LVL 24 - Charge
+	LVL 27 - Encore
+	LVL 29 - Fake Out
+	LVL 31 - Headbutt
+	LVL 33 - Agility
+	LVL 35 - Shock Wave
+	LVL 38 - Iron Tail
+	LVL 41 - Discharge
+	LVL 43 - Wild Charge (gen 5)
+	LVL 45 - Volt Tackle
+	LVL 47 - Thunderbolt
+	LVL 49 - Nasty Plot
+	LVL 52 - Thunder
+	
+	
+TM and HM:
+
+
 
 /- Raichu -/
 
-Stats: 60 HP | 95 Atk | 55 DEF | 95 Sp. Atk | 80 Sp. Def | 110 Spe TOTAL: 495
+Stats: 60 HP | 95 Atk | 55 DEF | 95 Sp. Atk | 80 Sp. Def | 115 Spe TOTAL: 500
+
 Movepool:
-
-
-
+	
+	LVL 1 - Tail-Whip
+	LVL 1 - Thunder Shock
+	LVL 1 - Charm
+	LVL 1 - Quick Attack
+	LVL 6 - Thunder Wave
+	LVL 9 - Quick Attack
+	LVL 12 - Double Team
+	LVL 17 - Attract
+	LVL 20 - Electro Ball (gen 5)
+	LVL 22 - Spark
+	LVL 24 - Charge
+	LVL 27 - Encore
+	LVL 29 - Fake Out
+	LVL 31 - Headbutt
+	LVL 33 - Agility
+	LVL 35 - Shock Wave
+	LVL 38 - Iron Tail
+	LVL 41 - Discharge
+	LVL 43 - Wild Charge (gen 5)
+	LVL 46 - Thunderbolt
+	LVL 49 - Nasty Plot
+	LVL 52 - Thunder
+	
+	LVL ?? - Extreme Speed (evo move)
+	
 TM and HM:
 
+
+/- Psyduck -/
+
+Type: Water Psychic
+Movepool:	
+
+	LVL 1 - Scratch
+	LVL 1 - Tail-Whip
+	LVL 3 - Water Gun
+	LVL 6 - Fury Swipes
+	LVL 10 - Disable 
+	LVL 15 - Psywave
+	LVL 18 - Screech
+	LVL 21 - Headbutt
+	LVL 23 - Confusion
+	LVL 25 - Water Pulse
+	LVL 28 - Amnesia
+	LVL 30 - Zen Headbutt (gen 4)
+	LVL 32 - Icy Wind
+	LVL 35 - Psych Up
+	LVL 37 - Aqua Tail
+	LVL 41 - Bubble Beam
+	LVL 43 - Yawn
+	LVL 45 - Psychic
+	LVL 47 - Ice Beam
+	LVL 51 - Hydro Pump
+	
+TM and HM:
 
 /- Golduck -/
 
 Type: Water Psychic
 
-Movepool:
+Movepool:	
 
-
+	LVL 1 - Scratch
+	LVL 1 - Tail-Whip
+	LVL 1 - Water Gun
+	LVL 1 - Fury Swipes
+	LVL 3 - Water Gun
+	LVL 6 - Fury Swipes
+	LVL 10 - Disable 
+	LVL 15 - Psywave
+	LVL 18 - Screech
+	LVL 21 - Headbutt
+	LVL 23 - Confusion
+	LVL 25 - Water Pulse
+	LVL 28 - Amnesia
+	LVL 30 - Zen Headbutt (gen 4)
+	LVL 33 - Psybeam (evo move)
+	LVL 32 - Icy Wind
+	LVL 35 - Psych Up
+	LVL 37 - Aqua Tail
+	LVL 41 - Bubble Beam
+	LVL 43 - Yawn
+	LVL 45 - Psychic
+	LVL 47 - Ice Beam
+	LVL 51 - Hydro Pump
+	
 
 TM and HM:
 
+
+
+
+/- Wynaut -/
+
+Stats: 105 HP | 23 Atk | 48 DEF | 23 Sp. Atk | 48 Sp. Def | 23 Spe TOTAL: 270
+
+Movepool:	
+
+	LVL 1 - Encore
+	LVL 1 - Counter
+	LVL 1 - Mirror Coat
+	LVL 1 - Destiny Bond
+	
+TM and HM:
+
+
+
+/- Wobbuffet -/
+
+Stats: 250 HP | 33 Atk | 60 DEF | 33 Sp. Atk | 60 Sp. Def | 33 Spe TOTAL: 469
+
+Movepool:	
+
+	LVL 1 - Encore
+	LVL 1 - Counter
+	LVL 1 - Mirror Coat
+	LVL 1 - Destiny Bond
+	
+TM and HM:
+
+
+/- Natu -/
+
+Movepool:	
+
+	LVL 1 - Peck
+	LVL 1 - Leer
+	LVL 3 - Teleport
+	LVL 6 - Pyswave
+	LVL 10 - Confuse Ray
+	LVL 14 - Feint Attack
+	LVL 17 - Aerial Ace
+	LVL 19 - Confusion
+	LVL 22 - Hidden Power
+	LVL 25 - Steel Wing
+	LVL 29 - Haze
+	LVL 32 - Rest
+	LVL 34 - Light Screen
+	LVL 34 - Reflect
+	LVL 36 - Psybeam
+	LVL 39 - Air Slash (gen 4)
+	LVL 42 - Shadow Ball
+	LVL 45 - Snatch
+	LVL 47 - Extrasensory
+	LVL 50 - Future Sight
+	LVL 52 - Roost
+	LVL 55 - Razor Wind (updated)
+	
+	
+TM and HM:
 
 
 /- Xatu -/
@@ -4332,7 +4607,30 @@ Stats: 65 HP | 75 Atk | 70 DEF | 95 Sp. Atk | 80 Sp. Def | 95 Spe TOTAL: 480
 
 Movepool:
 
-
+	LVL 1 - Peck
+	LVL 1 - Leer
+	LVL 1 - Teleport
+	LVL 1 - Pyswave
+	LVL 3 - Teleport
+	LVL 6 - Pyswave
+	LVL 10 - Confuse Ray
+	LVL 14 - Feint Attack
+	LVL 17 - Aerial Ace
+	LVL 19 - Confusion
+	LVL 22 - Hidden Power
+	LVL 25 - Steel Wing
+	LVL 29 - Haze
+	LVL 32 - Rest
+	LVL 34 - Light Screen
+	LVL 34 - Reflect
+	LVL 36 - Psybeam
+	LVL 39 - Air Slash (gen 4)
+	LVL 42 - Shadow Ball
+	LVL 45 - Snatch
+	LVL 47 - Extrasensory
+	LVL 50 - Future Sight
+	LVL 52 - Roost
+	LVL 55 - Razor Wind (updated)
 
 TM and HM:
 
@@ -4340,11 +4638,32 @@ TM and HM:
 
 /- Girafarig -/
 
-Stats: 70 HP | 80 Atk | 65 DEF | 100 Sp. Atk | 65 Sp. Def | 105 Spe TOTAL: 485
+Stats: 90 HP | 75 Atk | 80 DEF | 95 Sp. Atk | 80 Sp. Def | 85 Spe TOTAL: 505
 
 Movepool:
 
-
+	LVL 1 - Growl
+	LVL 1 - Tackle
+	LVL 3 - Astonish
+	LVL 7 - Helping Hand
+	LVL 11 - Feint Attack
+	LVL 15 - Confusion
+	LVL 18 - Stomp
+	LVL 21 - Bite
+	LVL 23 - Agility
+	LVL 26 - Trick
+	LVL 29 - Skill Swap
+	LVL 31 - Psybeam
+	LVL 34 - Protect
+	LVL 36 - Zen Headbutt
+	LVL 39 - Crunch
+	LVL 41 - Encore
+	LVL 43 - Uproar
+	LVL 45 - Mirror Coat
+	LVL 47 - Psychic
+	LVL 49 - Baton Pass
+	LVL 51 - Nasty Plot
+	LVL 54 - Hyper Beam
 
 TM and HM:
 
