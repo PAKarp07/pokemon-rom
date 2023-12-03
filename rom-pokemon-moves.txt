@@ -133,3 +133,5 @@ Blizzard (acc=90)
 Thunder (acc=90)
 
 Fire Blast (acc=90)
+
+Skull Bash (updated)

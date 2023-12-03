@@ -1373,7 +1373,7 @@ Movepool:
 	LVL 38 - Double-Edge
 	LVL 40 - Drill Run (gen 5)
 	LVL 45 - Megahorn
-	LVL 50 - Skull Bash
+	LVL 50 - Skull Bash (updated)
 	LVL 52 - Horn Drill
 	
 	
@@ -2709,7 +2709,7 @@ Movepool:
 	LVL 47 - Taunt
 	LVL 50 - Curse
 	LVL 52 - Liquidation (gen 7)
-	LVL 55 - Skull Bash 
+	LVL 55 - Skull Bash (updated)
 	
 TM and HM:
 
@@ -2744,7 +2744,7 @@ Movepool:
 	LVL 47 - Taunt
 	LVL 50 - Curse
 	LVL 52 - Liquidation (gen 7)
-	LVL 55 - Skull Bash 
+	LVL 55 - Skull Bash (updated)
 	
 TM and HM:
 
@@ -4668,13 +4668,180 @@ Movepool:
 TM and HM:
 
 
-/- Rhydon -/
+/- Phanpy -/
 
+lvl up: 30
+Movepool:
+
+	LVL 1 - Growl
+	LVL 1 - Tackle
+	LVL 3 - Defense Curl
+	LVL 7 - Endure
+	LVL 11 - Rollout
+	LVL 13 - Magnitude
+	LVL 15 - Odor Sleuth
+	LVL 18 - Rapid Spin
+	LVL 21 - Charm
+	LVL 25 - Bulldoze (gen 4)
+	LVL 27 - Take Down
+	LVL 29 - Dig
+	LVL 32 - Sandstorm
+	LVL 35 - Rock Slide
+	LVL 39 - Iron Head
+	LVL 42 - Protect
+	LVL 45 - Double-Edge
+	LVL 47 - Counter
+	LVL 51 - Head Smash (gen 4)
+	LVL 52 - Earthquake
+	
+
+TM and HM:
+
+
+/- Donphan -/
+
+Movepool:
+
+	LVL 1 - Growl
+	LVL 1 - Tackle
+	LVL 1 - Magnitude
+	LVL 1 - Defense Curl
+	LVL 3 - Defense Curl
+	LVL 7 - Endure
+	LVL 11 - Rollout
+	LVL 13 - Magnitude
+	LVL 15 - Odor Sleuth
+	LVL 18 - Rapid Spin
+	LVL 21 - Charm
+	LVL 25 - Bulldoze (gen 4)
+	LVL 27 - Take Down
+	LVL 29 - Dig
+	LVL 32 - Sandstorm
+	LVL 35 - Rock Slide
+	LVL 39 - Iron Head
+	LVL 42 - Protect
+	LVL 45 - Double-Edge
+	LVL 47 - Counter
+	LVL 51 - Head Smash (gen 4)
+	LVL 52 - Earthquake
+
+TM and HM:
+
+
+
+/- Pinsir -/
+
+Movepool:
+
+	LVL 1 - Harden
+	LVL 1 - Scratch
+	LVL 4 - Focus Energy
+	LVL 8 - Bind
+	LVL 12 - Vise Grip (updated)
+	LVL 14 - Seismic Toss
+	LVL 16 - Bug Bite (gen 4)
+	LVL 20 - False Swipe
+	LVL 24 - Vital Throw
+	LVL 27 - Revenge
+	LVL 31 - Swagger
+	LVL 34 - Substitute
+	LVL 38 - Brick Break
+	LVL 41 - X-Scissors
+	LVL 44 - Submission
+	LVL 47 - Guillotine
+	LVL 49 - Leech Life
+	LVL 51 - Thrash
+	LVL 53 - Superpower
+	LVL 54 - Swords Dance
+
+TM and HM:
+
+
+/- Heracross -/
+
+Movepool:
+
+	LVL 1 - Leer
+	LVL 1 - Scratch
+	LVL 4 - Focus Energy
+	LVL 8 - Fury Attack
+	LVL 12 - Arm Thrust
+	LVL 14 - Seismic Toss
+	LVL 16 - Fury Cutter (gen 4)
+	LVL 20 - False Swipe
+	LVL 24 - Endure
+	LVL 27 - Aerial Ace
+	LVL 31 - Facade
+	LVL 34 - Horn Attack
+	LVL 38 - Swagger
+	LVL 41 - Substitute
+	LVL 44 - Brick Break
+	LVL 47 - X-Scissors
+	LVL 49 - Counter
+	LVL 51 - Thrash
+	LVL 52 - Megahorn
+	LVL 54 - Close Combat
+
+TM and HM:
+
+
+/- Rhyhorn -/
+
+lvl up 32
+
+Movepool:
+
+	LVL 1 - Tackle
+	LVL 1 - Tail-Whip
+	LVL 4 - Scary Face
+	LVL 8 - Rock Throw
+	LVL 12 - Roar
+	LVL 15 - Horn Attack
+	LVL 20 - Bulldoze (gen 4)
+	LVL 24 - Stomp
+	LVL 26 - Rock Blast
+	LVL 29 - Endure
+	LVL 31 - Take Down
+	LVL 32 - Drill Run (gen 5, evo move)
+	LVL 35 - Dig
+	LVL 39 - Rock Slide
+	LVL 42 - Curse
+	LVL 44 - Horn Drill
+	LVL 46 - Stone Edge
+	LVL 48 - Skull Bash (updated)
+	LVL 50 - Megahorn
+	LVL 52 - Earthquake
+
+TM and HM:
+
+
+/- Rhydon -/
 Stats: 100 HP | 130 Atk | 120 DEF | 45 Sp. Atk | 65 Sp. Def | 40 Spe TOTAL: 500
 
 Movepool:
 
-
+	LVL 1 - Tackle
+	LVL 1 - Tail-Whip
+	LVL 1 - Scary Face
+	LVL 1 - Rock Throw
+	LVL 4 - Scary Face
+	LVL 8 - Rock Throw
+	LVL 12 - Roar
+	LVL 15 - Horn Attack
+	LVL 20 - Bulldoze (gen 4)
+	LVL 24 - Stomp
+	LVL 26 - Rock Blast
+	LVL 29 - Endure
+	LVL 31 - Take Down
+	LVL 32 - Drill Run (gen 5, evo move)
+	LVL 35 - Dig
+	LVL 39 - Rock Slide
+	LVL 42 - Curse
+	LVL 44 - Horn Drill
+	LVL 46 - Stone Edge
+	LVL 48 - Skull Bash (updated)
+	LVL 50 - Megahorn
+	LVL 52 - Earthquake
 
 TM and HM:
 
