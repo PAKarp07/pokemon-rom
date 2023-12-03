@@ -4851,10 +4851,32 @@ TM and HM:
 /- Snorunt -/
 
 lvl 36
+Abilities: Inner Focus/Oblivious
+Stats: 55 HP | 55 Atk | 55 DEF | 55 Sp. Atk | 55 Sp. Def | 55 Spe TOTAL: 330
 
 Movepool:
 
-
+	LVL 1 - Leer
+	LVL 1 - Powder Snow
+	LVL 4 - Astonish
+	LVL 8 - Double Team
+	LVL 11 - Block
+	LVL 15 - Rollout
+	LVL 19 - Bite
+	LVL 22 - Protect
+	LVL 25 - Icy Wind
+	LVL 29 - Take Down
+	LVL 31 - Imprison
+	LVL 33 - Ice Fang
+	LVL 35 - Fake Tears
+	LVL 38 - Icicle Spear
+	LVL 40 - Iron Head (gen 4)
+	LVL 42 - Hail
+	LVL 44 - Crunch
+	LVL 46 - Curse
+	LVL 48 - Weather Ball
+	LVL 51 - Phantom Force
+	lvl 54 - Nasty Plot (gen 4)
 
 TM and HM:
 
@@ -4864,9 +4886,122 @@ TM and HM:
 
 
 Type: Ice Ghost
-Stats: 80 HP | 100 Atk | 70 DEF | 80 Sp. Atk | 70 Sp. Def | 90 Spe TOTAL: 490
+Abilities: Inner Focus/Intimidate
+Stats: 80 HP | 100 Atk | 70 DEF | 90 Sp. Atk | 70 Sp. Def | 90 Spe TOTAL: 500
+
 Movepool:
 
+	LVL 1 - Leer
+	LVL 1 - Powder Snow
+	LVL 4 - Astonish
+	LVL 8 - Double Team
+	LVL 11 - Block
+	LVL 15 - Rollout
+	LVL 19 - Bite
+	LVL 22 - Protect
+	LVL 25 - Icy Wind
+	LVL 29 - Take Down
+	LVL 31 - Imprison
+	LVL 33 - Ice Fang
+	LVL 35 - Fake Tears
+	LVL 36 - Shadow Ball (evo move)
+	LVL 38 - Icicle Spear
+	LVL 40 - Iron Head (gen 4)
+	LVL 42 - Hail
+	LVL 44 - Crunch
+	LVL 46 - Curse
+	LVL 48 - Weather Ball
+	LVL 51 - Phantom Force (gen 6)
+	lvl 54 - Nasty Plot (gen 4)
+
+TM and HM:
+
+
+/- Spheal -/
+
+Movepool:
+
+	LVL 1 - Defense Curl
+	LVL 1 - Tackle
+	LVL 4 - Growl
+	LVL 7 - Rollout
+	LVL 10 - Water Gun
+	LVL 12 - Ice Ball
+	LVL 15 - Encore
+	LVL 17 - Powder Snow
+	LVL 20 - Hail
+	LVL 23 - Rest
+	LVL 23 - Snore
+	LVL 23 - Sleep Talk
+	LVL 28 - Aurora Beam
+	LVL 33 - Body Slam
+	LVL 37 - Liquidation (gen 7)
+	LVL 40 - Surf
+	LVL 42 - Ice Beam
+	LVL 45 - Giga Impact (gen 4)
+	LVL 49 - Blizzard
+	LVL 52 - Sheer Cold
+	LVL 55 - Belly Drum
+
+TM and HM:
+
+
+/- Sealeo -/
+
+Movepool:
+
+	LVL 1 - Defense Curl
+	LVL 1 - Tackle
+	LVL 1 - Growl
+	LVL 4 - Growl
+	LVL 7 - Rollout
+	LVL 10 - Water Gun
+	LVL 12 - Ice Ball
+	LVL 15 - Encore
+	LVL 17 - Powder Snow
+	LVL 20 - Hail
+	LVL 23 - Rest
+	LVL 23 - Snore
+	LVL 23 - Sleep Talk
+	LVL 28 - Aurora Beam
+	LVL 33 - Body Slam
+	LVL 37 - Liquidation (gen 7)
+	LVL 40 - Surf
+	LVL 42 - Ice Beam
+	LVL 45 - Giga Impact (gen 4)
+	LVL 49 - Blizzard
+	LVL 52 - Sheer Cold
+	LVL 56 - Belly Drum
+
+TM and HM:
+
+
+/- Walrein -/
+
+Movepool:
+
+	LVL 1 - Defense Curl
+	LVL 1 - Tackle
+	LVL 1 - Growl
+	LVL 4 - Growl
+	LVL 7 - Rollout
+	LVL 10 - Water Gun
+	LVL 12 - Ice Ball
+	LVL 15 - Encore
+	LVL 17 - Powder Snow
+	LVL 20 - Hail
+	LVL 23 - Rest
+	LVL 23 - Snore
+	LVL 23 - Sleep Talk
+	LVL 28 - Aurora Beam
+	LVL 33 - Body Slam
+	LVL 37 - Liquidation (gen 7)
+	LVL 40 - Surf
+	LVL 42 - Ice Beam
+	LVL 44 - Crunch (evo move)
+	LVL 45 - Giga Impact (gen 4)
+	LVL 49 - Blizzard
+	LVL 52 - Sheer Cold
 
 TM and HM:
 
@@ -4884,7 +5019,7 @@ TM and HM:
 
 /- Huntail -/
 
-Stats: 55 HP | 110 Atk | 105 DEF | 60 Sp. Atk | 75 Sp. Def | 80 Spe TOTAL: 485
+Stats: 55 HP | 110 Atk | 105 DEF | 60 Sp. Atk | 75 Sp. Def | 90 Spe TOTAL: 495
 Movepool:
 
 
@@ -4895,7 +5030,7 @@ TM and HM:
 
 /- Gorebyss -/
 
-Stats: 55 HP | 60 Atk | 105 DEF | 110 Sp. Atk | 75 Sp. Def | 80 Spe TOTAL: 485
+Stats: 55 HP | 60 Atk | 105 DEF | 110 Sp. Atk | 75 Sp. Def | 90 Spe TOTAL: 495
 Movepool:
 	
 

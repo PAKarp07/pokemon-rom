@@ -82,6 +82,7 @@ Air Slash (gen 4)
 Hurricane (gen 5; acc=85)
 Coil (gen 5)
 Iron Head (gen 4)
+Icicle Crash (gen 5)
 
 /-- Moves to update --/
 
