@@ -5008,11 +5008,32 @@ TM and HM:
 
 /- Clamperl -/
 
-lvl 38: Male -> Huntail; Female -> Gorebyss
+lvl 36: Male -> Huntail; Female -> Gorebyss
 
 Movepool:
 
-
+	LVL 1 - Whirlpool
+	LVL 1 - Iron Defense
+	LVL 5 - Endure
+	LVL 10 - Bubble
+	LVL 14 - Confuse Ray
+	LVL 17 - Icy Wind
+	LVL 21 - Rest
+	LVL 24 - Refresh
+	LVL 26 - Aurora Beam
+	LVL 28 - Bubble Beam
+	LVL 30 - Toxic
+	LVL 34 - Amnesia
+	LVL 38 - Take Down
+	LVL 41 - Liquidation (gen 7)
+	LVL 43 - Scald (gen 5, without thaw it while frozen)
+	LVL 44 - Ice Beam
+	LVL 45 - Crunch
+	LVL 47 - Rain Dance
+	LVL 50 - Ice Spinner (gen 9, without extra)
+	LVL 52 - Hydro Pump
+	
+	 
 TM and HM:
 
 
@@ -5020,9 +5041,31 @@ TM and HM:
 /- Huntail -/
 
 Stats: 55 HP | 110 Atk | 105 DEF | 60 Sp. Atk | 75 Sp. Def | 90 Spe TOTAL: 495
+
 Movepool:
 
-
+	LVL 1 - Whirlpool
+	LVL 1 - Iron Defense
+	LVL 5 - Endure
+	LVL 10 - Bubble
+	LVL 14 - Confuse Ray
+	LVL 17 - Icy Wind
+	LVL 21 - Rest
+	LVL 24 - Refresh
+	LVL 26 - Aurora Beam
+	LVL 28 - Bubble Beam
+	LVL 30 - Toxic
+	LVL 34 - Amnesia
+	LVL 36 - Mean Look (evo move)
+	LVL 38 - Take Down
+	LVL 41 - Liquidation (gen 7)
+	LVL 43 - Scald (gen 5, without thaw it while frozen)
+	LVL 44 - Ice Beam
+	LVL 45 - Crunch
+	LVL 47 - Rain Dance
+	LVL 50 - Ice Spinner (gen 9, without extra)
+	LVL 52 - Hydro Pump
+	
 TM and HM:
 
 
@@ -5033,6 +5076,27 @@ TM and HM:
 Stats: 55 HP | 60 Atk | 105 DEF | 110 Sp. Atk | 75 Sp. Def | 90 Spe TOTAL: 495
 Movepool:
 	
+	LVL 1 - Whirlpool
+	LVL 1 - Iron Defense
+	LVL 5 - Endure
+	LVL 10 - Bubble
+	LVL 14 - Confuse Ray
+	LVL 17 - Icy Wind
+	LVL 21 - Rest
+	LVL 24 - Refresh
+	LVL 26 - Aurora Beam
+	LVL 28 - Bubble Beam
+	LVL 30 - Toxic
+	LVL 34 - Amnesia
+	LVL 36 - Sweet Kiss (evo move)
+	LVL 38 - Take Down
+	LVL 41 - Liquidation (gen 7)
+	LVL 43 - Scald (gen 5, without thaw it while frozen)
+	LVL 44 - Ice Beam
+	LVL 45 - Crunch
+	LVL 47 - Rain Dance
+	LVL 50 - Ice Spinner (gen 9, without extra)
+	LVL 52 - Hydro Pump
 
 TM and HM:
 
@@ -5043,6 +5107,27 @@ TM and HM:
 Stats: 100 HP | 90 Atk | 130 DEF | 45 Sp. Atk | 75 Sp. Def | 55 Spe TOTAL: 495
 Movepool:
 
+	LVL 1 - Harden
+	LVL 1 - Tackle
+	LVL 5 - Water Gun
+	LVL 8 - Rock Throw
+	LVL 12 - Yawn
+	LVL 16 - Magnitude
+	LVL 20 - Water Pulse
+	LVL 22 - Ancient Power
+	LVL 25 - Rest
+	LVL 25 - Sleep Talk
+	LVL 27 - Take Down
+	LVL 29 - Flail
+	LVL 31 - Dive
+	LVL 34 - Iron Defense
+	LVL 36 - Rock Slide
+	LVL 40 - Substitute
+	LVL 42 - Rock Polish (gen 4)
+	LVL 45 - Protect
+	LVL 48 - Double-Edge
+	LVL 51 - Liquidation (gen 7)
+	LVL 55 - Head Smash (gen 4)
 
 TM and HM:
 
