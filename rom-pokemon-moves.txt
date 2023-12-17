@@ -39,11 +39,10 @@ Hammer Arm (gen 4)
 Ominous Wind (gen 4)
 X-Scissors (gen 4)
 Shadow Sneak (gen 4)
-Phantom Force (gen 6)
+Phantom Force (gen 6, one turn, pwr=100)
 Echoed Voice (gen 5)
-Extrasensory (gen 4, updated)
 Focus Blast (gen 4)
-Sound Wave (NEW -> type: flying, pwr=80, acc=100%, pp=15, 10% confusion, special)
+Sound Wave (NEW -> type: normal, pwr=80, acc=100%, pp=15, 10% confusion, special)
 Chilling Water (gen 9)
 Drill Run (gen 5)
 Aqua Tail (gen 4)
@@ -55,7 +54,7 @@ Head Smash (gen 4)
 Wild Charge (gen 5)
 Cross Posion (gen 4)
 Dark Pulse (gen 4)
-Spectral Bite (NEW -> type: ghost, pwr=90, acc=95%, pp=10, 20% def down, physical)
+Spectral Bite (NEW -> type: ghost, pwr=90, acc=95%, pp=10, 30% def down, physical)
 Steel Crush (NEW -> type: steel, pwr=150, acc=90%, pp=5, recharge, physical)
 Force Palm (gen 4)
 Psycho Cut (gen 4)
@@ -79,7 +78,7 @@ Dragon Pulse (gen 4)
 Draco Meteor (gen 4)
 Foul Play (gen 5, normal calcs)
 Air Slash (gen 4)
-Hurricane (gen 5; acc=85)
+Hurricane (gen 5; acc=90)
 Coil (gen 5)
 Iron Head (gen 4)
 Icicle Crash (gen 5)
@@ -87,52 +86,56 @@ Icicle Crash (gen 5)
 /-- Moves to update --/
 
 
-Leaf Blade - update last gen
+Leaf Blade - update last gen (done)
 
-False Swipe - add as TM & sell on mart
+False Swipe - add as TM & sell on mart 
 
-Razor Wind - flying type -> power 110, acc = 85, pp=5
+Razor Wind - flying type -> power 110, acc = 85, pp=5 (done)
 
-Pursuit - Power = 55
+Pursuit - Power = 55 (done)
 
-Bullet Seed - update last gen
+Bullet Seed - update last gen (done)
 
-Knock Off (pwr=85)
+Knock Off (pwr=85) (done)
 
-Hyper Voice (pwr=110, acc=90, pp=5)
+Hyper Voice (pwr=110, acc=90, pp=5) (done)
 
-Covet (pwr = 60, pp=25)
+Covet (pwr = 60, pp=25) (done)
 
-Fury Cutter - update last gen
+Fury Cutter - update last gen (done)
 
-Uproar - update last gen
+Uproar - update last gen (done)
+ 
+Leech Life (updated) (done)
 
-Leech Life (updated)
+Petal Dance (updated) (done)
 
-Petal Dance (updated)
+Grass Whistle - updated -> acc=90% (done)
+ 
+Spore - acc=90%, pp=10 (done)
 
-Grass Whistle - updated -> acc=100%
+Heat Wave (updated) (done)
 
-Heat Wave (updated)
+Psywave (updated) (done)
 
-Psywave (updated)
+Thrash (updated) (done)
 
-Thrash (updated)
+Vise Grip (updated->NAME)
 
-Vise Grip (updated)
+Rock Blast (updated) (done)
 
-Rock Blast (updated)
+Weather Ball (pwr = 65) (done)
 
-Weather Ball (pwr = 65)
+Ancient Power (pp=10) (done)
 
-Ancient Power (pp=10)
+Hydro Pump (acc=90) done)
 
-Hydro Pump (acc=90)
+Blizzard (acc=90) (done)
 
-Blizzard (acc=90)
+Thunder (acc=90) (done)
 
-Thunder (acc=90)
+Fire Blast (acc=90) (done)
+ 
+Skull Bash (updated) (done)
 
-Fire Blast (acc=90)
-
-Skull Bash (updated)
+Meteor Mash (old, 10% attack boost)
