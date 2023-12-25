@@ -2980,7 +2980,7 @@ Movepool:
 	LVL 8 - Rapid Spin
 	LVL 12 - Smokescreen
 	LVL 16 - Haze
-	LVL 20 - Flame Charge (gen 5)
+	LVL 20 - Flame Wheel
 	LVL 24 - Protect
 	LVL 28 - Body Slam
 	LVL 32 - Iron Defense
