@@ -39,7 +39,7 @@ Hammer Arm (gen 4)
 Ominous Wind (gen 4)
 X-Scissors (gen 4)
 Shadow Sneak (gen 4)
-Phantom Force (gen 6, one turn, pwr=100)
+Phantom Force (gen 6, one turn, pwr=100, slow on hit, equal to Hammer Arm move)
 Echoed Voice (gen 5)
 Focus Blast (gen 4)
 Sound Wave (NEW -> type: normal, pwr=80, acc=100%, pp=15, 10% confusion, special)
@@ -128,14 +128,14 @@ Weather Ball (pwr = 65) (done)
 
 Ancient Power (pp=10) (done)
 
-Hydro Pump (acc=90) done)
+Hydro Pump 120 pw (acc=90) 
 
-Blizzard (acc=90) (done)
+Blizzard 110 pw (acc=90)
 
-Thunder (acc=90) (done)
+Thunder 110 pw (acc=90) ==== HURICANE
 
-Fire Blast (acc=90) (done)
+Fire Blast 115 pw (acc=90) 
  
-Skull Bash (updated) (done)
+Skull Bash (updated)
 
 Meteor Mash (old, 10% attack boost)
