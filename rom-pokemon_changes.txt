@@ -271,11 +271,11 @@ Movepool:
 	LVL 24 - Ice Fang (gen 4)
 	LVL 26 - Scary Face
 	LVL 30 - Take Down
-	LVL 33 - Dig
+	LVL 33 - Shadow Claw (gen 4)
 	LVL 35 - Poison Fang
-	LVL 38 - Hone Claws (gen 5)
-	LVL 41 - Taunt
-	LVL 43 - Shadow Claw (gen 4)
+	LVL 38 - Night Slash (gen 4)
+	LVL 41 - Hone Claws (gen 5)
+	LVL 43 - Taunt
 	LVL 45 - Crunch
 	LVL 47 - Psychic Fangs (gen 7)
 	LVL 51 - Lash Out (gen 9, but new changes)
@@ -285,7 +285,7 @@ TM and HM:
 /- Mightyena -/
 
 Lvl up: 22
-Stats: 75 HP | 110 Atk | 70 DEF | 40 Sp. Atk | 70 Sp. Def | 100 Spe TOTAL: 465
+Stats: 80 HP | 115 Atk | 70 DEF | 40 Sp. Atk | 70 Sp. Def | 100 Spe TOTAL: 475
 Movepool:
 
 	LVL 1 - Tackle
@@ -304,11 +304,11 @@ Movepool:
 	LVL 23 - Ice Fang (gen 4)
 	LVL 27 - Scary Face
 	LVL 30 - Take Down
-	LVL 33 - Dig
+	LVL 33 - Shadow Claw (gen 4)
 	LVL 35 - Poison Fang
-	LVL 38 - Hone Claws (gen 5)
-	LVL 41 - Taunt
-	LVL 43 - Shadow Claw (gen 4)
+	LVL 38 - Night Slash (gen 4)
+	LVL 41 - Hone Claws (gen 5)
+	LVL 43 - Taunt
 	LVL 45 - Crunch
 	LVL 47 - Psychic Fangs (gen 7)
 	LVL 51 - Lash Out (gen 9, but new changes)
@@ -318,6 +318,7 @@ TM and HM:
 	
 /- Zigzagoon -/
 
+Abilities: Pickup / Run Away
 Movepool:
 
 	LVL 1 - Tackle
@@ -337,16 +338,17 @@ Movepool:
 	LVL 30 - Extreme Speed
 	LVL 32 - Substitute
 	LVL 35 - Hone Claws (gen 5)
+	LVL 38 - Night Slash (gen 4)
 	LVL 40 - Slash
 	LVL 43 - Facade
-	LVL 46 - Night Slash (gen 4)
-	LVL 39 - Knock Off (updated)
+	LVL 47 - Knock Off (updated)
 	LVL 51 - Double-Edge
 	LVL 56 - Belly Drum
 
 
 /- Linoone -/
-Stats: 80 HP | 80 Atk | 65 DEF | 40 Sp. Atk | 65 Sp. Def | 110 Spe TOTAL: 440
+Abilities: Inner Focus / Hustle
+Stats: 80 HP | 80 Atk | 65 DEF | 40 Sp. Atk | 65 Sp. Def | 120 Spe TOTAL: 450
 Movepool:
 
 	LVL 1 - Tackle
@@ -367,10 +369,10 @@ Movepool:
 	LVL 29 - Double Team
 	LVL 32 - Substitute
 	LVL 35 - Hone Claws (gen 5)
+	LVL 38 - Night Slash (gen 4)
 	LVL 40 - Slash
 	LVL 43 - Facade
-	LVL 46 - Night Slash (gen 4)
-	LVL 39 - Knock Off (updated)
+	LVL 47 - Knock Off (updated)
 	LVL 51 - Double-Edge
 	LVL 56 - Belly Drum
 	
@@ -668,7 +670,7 @@ TM and HM:
 
 /- Swellow -/
 
-Stats: 60 HP | 95 Atk | 60 DEF | 65 Sp. Atk | 60 Sp. Def | 125 Spe TOTAL: 465
+Stats: 60 HP | 95 Atk | 60 DEF | 65 Sp. Atk | 60 Sp. Def | 135 Spe TOTAL: 475
 Movepool:
 
 	LVL 1 - Growl

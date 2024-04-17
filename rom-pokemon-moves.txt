@@ -65,7 +65,7 @@ Nuzzle (gen 6)
 Charge Beam (gen 4)
 Flash Cannon (gen 4)
 Snarl (gen 5)
-Electro Ball (gen 5)
+Electro Ball (gen 5) (???)
 Eerie Impulse (gen 6)
 Belch (gen 6, without effect)
 Sludge Wave (gen 4)
@@ -81,7 +81,7 @@ Air Slash (gen 4)
 Hurricane (gen 5; acc=90)
 Coil (gen 5)
 Iron Head (gen 4)
-Icicle Crash (gen 5)
+Icicle Spear (gen 5)
 
 /-- Moves to update --/
 
