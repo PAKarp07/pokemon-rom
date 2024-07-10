@@ -493,6 +493,17 @@ Clamperl: 0% -> 8%
 Feebas: 0% -> 2%
 
 
+-- Route 111 --
+
+SAME ENCOUNTERS - MORE LVL
+
+
+-- Jagged Path --
+Machop: 25% -> 20%
+Machoke: 0% -> 5%
+Spoink: 20% -> 19%
+Grumpig: 0% -> 1%
+
 -- Mirage Tower 4F --
 Sandshew: 50% -> 45%
 Sandslash: 0% -> 5%
@@ -532,10 +543,8 @@ Bagon: 0% -> 1%
 
 
 -- Route 114 --
-Lotad: 30% -> 20%
-Seedot: 0% -> 20%
-Lombre: 20% -> 5%
-Nuzleaf: 1% -> 5%
+Lombre: 20% -> 25%
+Nuzleaf: 1% -> 25%
 Seviper: 9% -> 5%
 Zangoose: 0% -> 5%
 
@@ -571,9 +580,10 @@ Feebas: 0% -> 2%
 
 
 -- Meteor Falls 1F-1R --
-Zubat: 80% -> 70%
+Zubat: 80% -> 60%
 Solrock: 20% -> 15%
 Lunatone: 0% -> 15%
+Golbat: 0% -> 10%
 
 //Surf//
 Zubat: 90% -> 60%
@@ -691,6 +701,8 @@ Horsea: 0% -> 5%
 
 -- Route 118 --
 Kecleon: 1% -> 10%
+Wingull: 19% -> 18%
+Pelipper: 0% -> 1%
 Manectric: 10% -> 1%
 
 //Surf//
@@ -878,12 +890,12 @@ Feebas: 0% -> 2%
 -- Safari Zone Area 1 --
 Pikachu: 5% -> 40%
 Oddish: 40% -> 0%
-Treeko: 0% -> 5%
+Treecko: 0% -> 5%
 
 -- Safari Zone Area 2 --
 Pikachu: 5% -> 40%
 Oddish: 40% -> 0%
-Treeko: 0% -> 5%
+Treecko: 0% -> 5%
 
 //Surf//
 Psyduck: 95% -> 35%
@@ -935,7 +947,7 @@ Feebas: 0% -> 2%
 
 -- Safari Zone Area 4 --
 Gloom: 15% -> 0%
-Xatu	: 5% -> 10%
+Xatu: 5% -> 10%
 Heracross: 0% -> 5%
 Torchic: 0% -> 5%
 

@@ -4,180 +4,181 @@
 
 - Roxanne
 
-1. Aron (Lead) LVL 14 ivs 31 all
+1. Aron (Lead) LVL 15 ivs 31 all evs 0 all
         	Item: N/A
-		Ability: Sturdy
+		Ability: Filter
 		Nature: Adamant (+Atk; -Sp. Atk)
-		Moveset: Metal Claw; Rock Tomb; Headbutt; Sandstorm
+		Moveset: Metal Claw; Rock Tomb; Tackle; Sandstorm
 		
-2. Nosepass LVL 15 ivs 31 all
+2. Nosepass LVL 16 ivs 31 all evs 0 all
 		Item: N/A
 		Ability: Sturdy
 		Nature: Careful (+Sp. Def; -Sp. Atk)
-		Moveset: Sandstorm; Rock Tomb; Toxic; Protect
+		Moveset: Sandstorm; Rock Tomb; Thunder Wave; Rock Throw
 		
-3. Anorith (Ace) LVL 17 ivs 31 all
+3. Anorith (Ace) LVL 17 ivs 31 all evs 0 all
 		Item: Oran Berry
 		Ability: Battle Armor
-		Nature: Jolly (+Spe; -Sp. Atk)
-		Moveset: Swords Dance; Rock Tomb; Fury Cutter; Aerial Ace
+		Nature: Adamant (+Atk; -Sp. Atk)
+		Moveset: Swords Dance; Rock Tomb; Fury Cutter; Metal Claw
 
 
 ----
 - Brawly
 
-1. Meditite (Lead) LVL 16 ivs 31 all
+1. Meditite (Lead) LVL 20 ivs 31 all evs 0 all
         	Item: N/A
 		Ability: Pure Power
 		Nature: Impish (+Def; -Sp. Atk)
-		Moveset: Light Screen; Reflect; Fake Out; Brick Break
+		Moveset: Light Screen; Reflect; Fake Out (EGG MOVE); Force Palm
 		
-2. Machop LVL 17; ivs 31 all
+2. Machop LVL 20; ivs 31 all evs 0 all
 		Item: N/A
-		Ability: No Guard
+		Ability: Guts
 		Nature: Adamant (+Atk; -Sp. Atk)
-		Moveset: Bulk Up; Fire Punch; Karate Chop; Mega Punch
+		Moveset: Bulk Up; Fire Punch; Karate Chop; Thunder Punch
 		
-3. Makuhita LVL 18; ivs 31 all
+3. Makuhita LVL 22; ivs 31 all evs 0 all
 		Item: N/A
 		Ability: Thick Fat
 		Nature: Adamant (+Atk; -Sp. Atk)
 		Moveset: Fake Out; Bulk Up; Vital Throw; ThunderPunch
 
-4. Heracross (Ace) LVL 21 ivs 31 all
-		Item: Black Belt
+4. Heracross (Ace) LVL 23 ivs 31 all   evs: 0 30 0 30 0 0 0
+		Item: Sitrus Berry
 		Ability: Guts
 		Nature: Adamant (+Atk; -Sp. Atk)
-		Moveset: Bulk Up; Fury Attack; Fury Cutter; Brick Break
+		Moveset: Bulk Up; Fury Attack; Fury Cutter; Brick Break (TM)
 
 ----
 - Wattson
 
-1. Voltorb (Lead) LVL 22 ivs 25 all
+1. Voltorb (Lead) LVL 27 ivs 31 all
         	Item: N/A
 		Ability: Static
 		Nature: Naive (+Spe; -Sp. Def)
 		Moveset: Shock Wave; Thunder Wave; Selfdestruct; Taunt
 
-3. Magnemite LVL 23 ivs 24 DEF; 25 HP, ATK, SP.DEF, SPE; 26 SP. ATK
+2. Magnemite LVL 28 ivs 31 DEF; 31 HP, 31 ATK, 31 SP.DEF, 30 SPE; 30 SP. ATK
         	Item: N/A
-		Ability: Sturdy
+		Ability: Magnet Pull
 		Nature: Rash (+Sp. Atk; -Sp. Def)
-		Moveset: Shock Wave; Thunder Wave; Supersonic; Hidden Power (Grass)
+		Moveset: Shock Wave; Thunder Wave; Flash Cannon (TM); Hidden Power (Water)
 
-2. Pikachu LVL 24 ivs 25 all
+3. Pikachu LVL 30 ivs 31 all
         	Item: Light Ball
 		Ability: Static
-		Nature: Rash (+Sp. Atk; -Sp. Def)
-		Moveset: Shock Wave; Thunder Wave; Thunderbolt; Brick Break
+		Nature: Naive (+Spe; -Sp. Def)
+		Moveset: Slam; Double Team; Thunderbolt; Brick Break
 
-4. Manectric LVL 26 ivs 31 all
+4. Manectric LVL 31 ivs 31 all evs: 0 0 0 30 30 0
         	Item: Magnet
 		Ability: Lightning Rod
 		Nature: Hasty (+Spe; -Def)
-		Moveset: Shock Wave; Protect; Spark; Iron Tail
+		Moveset: Shock Wave; Nasty Plot (TM); Ice Fang (egg); Electro Ball (egg)
 
 ----
 - Flannery
 
-1. Slugma (Lead) LVL 26 ivs 25 all
-        	Item: N/A
+1. Ninetales (Lead) LVL 38 ivs 31 all evs: 0 0 0 0 30 30
+        Item: N/A
+		Ability: Drought
+		Nature: Calm (+Sp. Def; -Atk)
+		Moveset: Solar Beam; Overheat; Light Screen; Reflect
+
+2. Magcargo LVL 38 ivs 30 31 31 31 30 31  evs: 5 0 30 0 30 0	
+        Item: N/A
 		Ability: Flame Body
 		Nature: Modest (+Sp. Atk; -Atk)
-		Moveset: Ember; Overheat; Rock Throw; Sunny Day
+		Moveset: Lava Plume; Yawn; Power Gem; Hidden Power (grass)
 
-2. Combusken LVL 27 ivs 25 all
-        	Item: N/A
+3. Blaziken LVL 39 ivs 31 all evs: 0 0 30 0 0 30
+        Item: N/A
 		Ability: Blaze
-		Nature: Bashful (+Sp. Atk; -Sp. Atk)
-		Moveset: Double Kick; Overheat; Bulk Up; ThunderPunch
+		Nature: Adamant (+Atk; -Sp. Atk)
+		Moveset: Blaze Kick; Mega Punch; Rock Slide; Focus Energy
 
-3. Solrock LVL 27 ivs 25 all
-        	Item: N/A
-		Ability: Levitate
-		Nature: Bashful (+Sp. Atk; -Sp. Atk)
-		Moveset: SolarBeam; Overheat; Rock Slide; Sunny Day (ver ataques de fogo fisicos)
+4. Torkoal (2º Ace) LVL 40  ivs 31 all  evs: 60 0 0 0 60 0
+        Item: Sitrus Berry
+		Ability: Drought
+		Nature: Relaxed (+Def; -Spe)
+		Moveset: Sludge Bomb; Overheat; Iron Defense; Fire Spin
 
-4. Torkoal (2º Ace) LVL 29 ivs 31 all
-        	Item: Sitrus Berry
-		Ability: White Smoke
-		Nature: Quiet (+Sp. Atk; -Spe)
-		Moveset: Sludge Bomb; Overheat; Toxic; Sunny Day
-
-5. Camerupt (Ace) LVL 33 ivs 31 all
-        	Item: White Herb
+5. Camerupt (Ace) LVL 42 ivs 31 all evs: 60 0 0 0 60 0
+        Item: White Herb
 		Ability: Magma Armor
-		Nature: Quiet (+Sp. Atk; -Spe)
-		Moveset: Rock Slide; Overheat; Protect; Earthquake
+		Nature: Modest (+Sp. Atk; -Atk)
+		Moveset: Ancient Power; Overheat; Sunny Day; Mud Shot
 
 
 ----
 - Norman (DB)
 
-1. Zangoose (Lead) LVL 30 ivs 25 all
-        Item: N/A
-		Ability: Immunity
-		Nature: Lonely (+Atk; -Def)
-		Moveset: Facade; Rock Slide; Slash; Swords Dance
-
-2. Linoone (Lead) LVL 30 ivs 25 all
-        Item: N/A
-		Ability: Pickup
-		Nature: Hasty (+Spe; -Def)
-		Moveset: Belly Drum; Substitute; Facade; Slash
-
-3. Spinda LVL 31 ivs 25 all
-        Item: N/A
+1. Spinda (Lead) LVL 43 ivs 31 all evs: 0 0 0 60 0 0
+		Item: N/A
 		Ability: Own Tempo
-		Nature: Quirky (+Sp. Atk; -Sp. Atk)
+		Nature: Jolly (+Spe; -Sp. Atk)
 		Moveset: Skill Swap; Dizzy Punch; Facade; Hypnosis
-
-4. Swellow (2º Ace) LVL 34 ivs 31 all
-        Item: Silk Scarf
-		Ability: Guts
-		Nature: Adamant (+Atk; -Sp. Atk)
-		Moveset: Facade; Sky Attack; Aerial Ace; Double-Edge
-
-5. Slaking (Ace) LVL 36 ivs 31 all
-        Item: Leftovers
+		
+2. Slaking (Lead/Ace) LVL 47 ivs 31 all evs: 0 120 0 0 0 0
+		Item: Leftovers
 		Ability: Truant
 		Nature: Adamant (+Atk; -Sp. Atk)
-		Moveset: Facade; Ice Punch; Rock Slide; Double-Edge
-
+		Moveset: Facade; Hammer Arm; Rock Slide; Double-Edge
+		
+		
+3. 	Linoone LVL 44 ivs 31 all evs: 0 0 0 60 0 0
+		Item: N/A
+		Ability: Hustle
+		Nature: Hasty (+Spe; -Def)
+		Moveset: Hone Claws; Substitute; Facade; Slash
+		
+		 
+4. Swellow LVL 44 ivs 31 all evs: 0 0 0 60 0 0
+		Item: N/A
+		Ability: Guts
+		Nature: Adamant (+Atk; -Sp. Atk)
+		Moveset: Facade; Dual Wingbeat; Agility; Double-Edge	
+		
+5. Zangoose (2º Ace) LVL 46 ivs 31 all evs: 0 120 0 0 0 0
+        Item: Silk Scarf
+		Ability: Sharp Claws
+		Nature: Naughty (+Atk; -Sp. Def)
+		Moveset: Night Slash; Rock Slide; Slash; Swords Dance
 
 
 ----
 - Winona
 
-1. Skarmory (Lead) LVL 36 ivs 25 all
-        	Item: N/A
+1. Skarmory (Lead) LVL 51 ivs 31 all evs: 200 0 100 0 0 100
+        Item: Sitrus Berry
 		Ability: Keen Eye
-		Nature: Jolly (+Spe; -Sp. Atk)
-		Moveset: Spikes; Steel Wing; Aerial Ace; Toxic
+		Nature: Impish (+Def; -Sp. Atk)
+		Moveset: Spikes; Iron Head; Roost; Brave Bird
 
-2. Tropius LVL 36 ivs 25 all
-        	Item: N/A
+2. Tropius LVL 52 ivs 31 all evs: 250 0 0 0 250 0
+        Item: Miracle Seed
 		Ability: Chlorophyll
-		Nature: Naive (+Spe; -Sp. Def)
-		Moveset: Synthesis; Toxic; SolarBeam; Sunny Day
+		Nature: Modest (+Sp. Atk; -Atk)
+		Moveset: Leech Seed; Hurricane; Giga Drain; Sunny Day
 
-3. Ninjask LVL 37 ivs 25 all
-        	Item: N/A
+3. Ninjask LVL 52 ivs 31 all evs: 0 250 0 250 0 0
+        Item: Scope Lens
 		Ability: Speed Boost
 		Nature: Adamant (+Atk; -Sp. Atk)
-		Moveset: Swords Dance; Aerial Ace; Slash; Dig
+		Moveset: Swords Dance; X-Scissors; Slash; Night Slash
 
-4. Peliper LVL 38 (2º Ace) ivs 31 all
-        	Item: Leftovers
+4. Peliper LVL 53 (2º Ace) ivs 31 all evs: 200 0 100 0 0 100
+        Item: Leftovers
 		Ability: Keen Eye
 		Nature: Modest (+Sp. Atk; -Atk)
-		Moveset: Rain Dance; Aerial Ace; Ice Beam; Surf
+		Moveset: Supersonic; Hurricane; Ice Beam; Surf
 
-5. Alteria LVL 40 (Ace) ivs 31 all
-        	Item: Choice Band
-		Ability: Keen Eye
+5. Altaria LVL 55 (Ace) ivs 31 all evs: 250 250 0 0 0 0
+        Item: Sharp Beak
+		Ability: Nature Cure
 		Nature: Jolly (+Spe; -Sp. Atk)
-		Moveset: Dragon Dance; Aerial Ace; Earthquake; Dragon Claw
+		Moveset: Dragon Dance; Sky Attack; Earthquake; Dragon Claw
 
 
 ----
@@ -331,7 +332,7 @@
 		Item: Quick Claw
 		Ability: Wonder Guard
 		Nature: Adamant (+Atk; -Sp. Atk)
-		Moveset: *Phantom Force/Faint Attack; *X-Scissor/Dig; Confuse Ray; *Giga Impact/Fury Swipes
+		Moveset: Phantom Force; X-Scissor; Shadow Sneak; Endure
 
 6. Duskclops (Ace) LVL 60 ivs 31 all
 		Item: Leftovers

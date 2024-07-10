@@ -1,0 +1,15 @@
+Pokemon rom tests notes
+
+---- Rom until norman ----
+ - Initial bugs are really easy for Brawley (add bug coverage + beautifly 1 shots everything) -> Done (delayed Air cutter LVL)
+ - Golbat sweeps Brawley -> Done (delay zubat evo to lvl 25, does not work for non-nuzlock or lvl cap rule games)
+ - Route 110 Rival too easy (protect spam) -> Done (added levels + added coverage moves to rival starter)
+ - Nerf echoed voice (fury cutter moves are too good, and AI does not know how to use it) -> Done (Echoed Voice power nerfed 40 -> 25)
+  - Wild encounters route 114 needs to go up; same with meteor falls (1st) -> Done
+  - Range do Tabiltha está pequeno, mt chimney -> Done
+  - Tabitha in mt chimney need buffs -> Done (magcargo buffed + added levels + quick claw on magcargo)
+  - See Route 111 rock smash (goldeen appeared) -> Did not find the problem (maybe a default code bug?)
+  - Skarmory catch rate too high -> Done (25 to 30 catch rate)
+  - Buff damage of moves that hit multiple targets in double battle -> Done (it was a bug I did, they now deal 75% damage in double battles)
+  - Double battle route 114 item no lago, colocar o fisherman só a virar para baixo -> Done
+  - Scale the potions of trainers (maxie, wattson e cooltrainers/rich) -> Done
