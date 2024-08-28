@@ -62,7 +62,7 @@ TM and HM:
 
 /- Sceptile -/
 
-Stats: 70 HP | 75 Atk | 65 DEF | 110 Sp. Atk | 85 Sp. Def | 125 Spe TOTAL: 530
+Stats: 70 HP | 90 Atk | 60 DEF | 105 Sp. Atk | 80 Sp. Def | 125 Spe TOTAL: 530
 Type: Grass Dragon
 Movepool:
 	
@@ -1090,6 +1090,7 @@ Movepool:
 	
 /- Kadabra -/
 
+Stats: 40 HP | 25 Atk | 30 DEF | 120 Sp. Atk | 70 Sp. Def | 105 Spe TOTAL: 390
 Movepool:
 
 	LVL 1 - Teleport
@@ -1121,7 +1122,7 @@ TM and HM:
 /- Alakazam -/
 
 lvl 46
-Stats: 60 HP | 50 Atk | 65 DEF | 145 Sp. Atk | 95 Sp. Def | 120 Spe TOTAL: 535	
+Stats: 60 HP | 30 Atk | 65 DEF | 145 Sp. Atk | 95 Sp. Def | 125 Spe TOTAL: 520	
 Movepool:
 	
 	LVL 1 - Teleport
@@ -1683,7 +1684,7 @@ TM and HM:
 /- Nosepass -/
 
 Type: Rock / Electric
-Stats: 70 HP | 65 Atk | 135 DEF | 45 Sp. Atk | 90 Sp. Def | 30 Spe TOTAL: 435	
+Stats: 80 HP | 70 Atk | 135 DEF | 45 Sp. Atk | 90 Sp. Def | 30 Spe TOTAL: 450	
 Movepool:
 	
 	LVL 1 - Tackle
@@ -2460,7 +2461,8 @@ TM and HM:
 
 /- Electrode -/
 
-Stats: 60 HP | 50 Atk | 70 DEF | 90 Sp. Atk | 80 Sp. Def | 150 Spe TOTAL: 500
+LVL UP: 32
+Stats: 60 HP | 70 Atk | 50 DEF | 100 Sp. Atk | 80 Sp. Def | 150 Spe TOTAL: 510
 Movepool:
 
 	LVL 1 - Tackle
@@ -3509,7 +3511,7 @@ TM and HM:
 
 /- Cacturne -/
 
-Stats: 70 HP | 115 Atk | 70 DEF | 115 Sp. Atk | 70 Sp. Def | 55 Spe TOTAL: 495
+Stats: 70 HP | 105 Atk | 80 DEF | 105 Sp. Atk | 80 Sp. Def | 55 Spe TOTAL: 495
 Movepool:
 
 	LVL 1 - Leer
@@ -3615,6 +3617,7 @@ Movepool:
 	
 	LVL 1 - Leer
 	LVL 1 - Scratch
+	LVL 3 - Focus Energy
 	LVL 5 - Quick Attack
 	LVL 8 - Fury Cutter (updated)
 	LVL 12 - Metal Claw
@@ -3646,6 +3649,7 @@ Movepool:
 	LVL 1 - Leer
 	LVL 1 - Wrap
 	LVL 1 - Lick
+	LVL 3 - Focus Energy
 	LVL 4 - Lick
 	LVL 5 - Tackle
 	LVL 9 - Haze
@@ -3754,6 +3758,7 @@ Movepool:
 	LVL 37 - Waterfall
 	LVL 40 - Rain Dance
 	LVL 43 - Substitute
+	LVL 45 - Spikes
 	LVL 47 - Hydro Pump
 	LVL 50 - Earth Power (gen 4)
 	LVL 53 - Fissure
@@ -3784,6 +3789,7 @@ Movepool:
 	LVL 37 - Waterfall
 	LVL 40 - Rain Dance
 	LVL 43 - Substitute
+	LVL 45 - Spikes
 	LVL 47 - Hydro Pump
 	LVL 50 - Earth Power (gen 4)
 	LVL 53 - Fissure
@@ -4072,6 +4078,7 @@ Movepool:
 	LVL 39 - Zen Headbutt (gen 4)
 	LVL 42 - Baton Pass
 	LVL 45 - Wish
+	LVL 46 - Moonlight
 	LVL 48 - Perish Song
 	LVL 52 - Hyper Beam
 	LVL 55 - Hyper Voice
@@ -4082,7 +4089,7 @@ TM and HM:
 /- Wigglytuff -/
 
 Abilities: Cute Charm/Serene Grace
-Stats: 140 HP | 70 Atk | 80 DEF | 90 Sp. Atk | 60 Sp. Def | 45 Spe TOTAL: 485
+Stats: 140 HP | 60 Atk | 80 DEF | 90 Sp. Atk | 70 Sp. Def | 45 Spe TOTAL: 485
 Movepool:
 	
 	LVL 1 - Pound
@@ -4102,6 +4109,7 @@ Movepool:
 	LVL 39 - Zen Headbutt (gen 4)
 	LVL 42 - Baton Pass
 	LVL 45 - Wish
+	LVL 46 - Moonlight
 	LVL 48 - Perish Song
 	LVL 52 - Hyper Beam
 	LVL 55 - Hyper Voice
@@ -4363,7 +4371,7 @@ Movepool:
 TM and HM:
 
 
-/- Duskclops -/
+/- Dusclops -/
 
 Stats: 70 HP | 85 Atk | 130 DEF | 60 Sp. Atk | 130 Sp. Def | 20 Spe TOTAL: 495
 Movepool:
@@ -4745,6 +4753,7 @@ TM and HM:
 
 /- Natu -/
 
+lvl up: 30
 Movepool:	
 
 	LVL 1 - Peck
@@ -4763,7 +4772,7 @@ Movepool:
 	LVL 34 - Reflect
 	LVL 36 - Psybeam
 	LVL 39 - Air Slash (gen 4)
-	LVL 42 - Shadow Ball
+	LVL 42 - Ominous Wind
 	LVL 45 - Snatch
 	LVL 47 - Extrasensory
 	LVL 50 - Future Sight
@@ -4776,7 +4785,8 @@ TM and HM:
 
 /- Xatu -/
 
-Stats: 65 HP | 75 Atk | 70 DEF | 95 Sp. Atk | 80 Sp. Def | 95 Spe TOTAL: 480
+
+Stats: 65 HP | 75 Atk | 70 DEF | 95 Sp. Atk | 85 Sp. Def | 105 Spe TOTAL: 495
 
 Movepool:
 
@@ -4798,7 +4808,7 @@ Movepool:
 	LVL 34 - Reflect
 	LVL 36 - Psybeam
 	LVL 39 - Air Slash (gen 4)
-	LVL 42 - Shadow Ball
+	LVL 42 - Ominous Wind
 	LVL 45 - Snatch
 	LVL 47 - Extrasensory
 	LVL 50 - Future Sight
@@ -4807,7 +4817,7 @@ Movepool:
 
 TM and HM:
 
-
+ TM - Bug Buzz
 
 /- Girafarig -/
 
@@ -4836,7 +4846,7 @@ Movepool:
 	LVL 47 - Psychic
 	LVL 49 - Baton Pass
 	LVL 51 - Nasty Plot
-	LVL 54 - Hyper Beam
+	LVL 54 - Hyper Voice
 
 TM and HM:
 
