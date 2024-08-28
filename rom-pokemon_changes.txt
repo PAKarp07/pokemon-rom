@@ -1905,6 +1905,7 @@ TM and HM:
 
 /- Tentacruel -/
 
+Stats: 80 HP | 60 Atk | 70 DEF | 85 Sp. Atk | 120 Sp. Def | 100 Spe TOTAL: 515
 Movepool:
 
 	LVL 1 - Poison Sting
@@ -3577,7 +3578,7 @@ TM and HM:
 /- Altaria -/
 
 lvl: 46
-Stats: 100 HP | 75 Atk | 95 DEF | 75 Sp. Atk | 115 Sp. Def | 80 Spe TOTAL: 540
+Stats: 100 HP | 80 Atk | 95 DEF | 80 Sp. Atk | 115 Sp. Def | 70 Spe TOTAL: 540
 Movepool:
 
 	LVL 1 - Growl
