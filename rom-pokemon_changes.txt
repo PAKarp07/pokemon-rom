@@ -1614,7 +1614,7 @@ Movepool:
 	LVL 45 - Double-Edge
 	LVL 47 - Counter
 	LVL 50 - Earthquake
-	LVL 54 - Stone Edge (gen 4)
+	LVL 54 - Head Smash (gen 4)
 	
 TM and HM:
 
@@ -1644,7 +1644,7 @@ Movepool:
 	LVL 47 - Double-Edge
 	LVL 49 - Counter
 	LVL 52 - Earthquake
-	LVL 55 - Stone Edge (gen 4)
+	LVL 55 - Head Smash (gen 4)
 	
 TM and HM:
 	
@@ -1676,7 +1676,7 @@ Movepool:
 	LVL 47 - Iron Head (gen 4)
 	LVL 49 - Counter	
 	LVL 52 - Earthquake
-	LVL 55 - Stone Edge (gen 4)
+	LVL 55 - Head Smash (gen 4)
 
 TM and HM:
 
@@ -3680,7 +3680,7 @@ TM and HM:
 /- Lunatone -/
 
 
-Stats: 105 HP | 60 Atk | 65 DEF | 95 Sp. Atk | 90 Sp. Def | 70 Spe TOTAL: 485
+Stats: 90 HP | 60 Atk | 65 DEF | 95 Sp. Atk | 105 Sp. Def | 70 Spe TOTAL: 485
 Movepool:
 	
 	LVL 1 - Tackle
@@ -3712,7 +3712,7 @@ TM and HM:
 /- Solrock -/
 
 
-Stats: 105 HP | 60 Atk | 90 DEF | 95 Sp. Atk | 65 Sp. Def | 70 Spe TOTAL: 485
+Stats: 90 HP | 60 Atk | 105 DEF | 95 Sp. Atk | 65 Sp. Def | 70 Spe TOTAL: 485
 Movepool:
 	
 	LVL 1 - Tackle
