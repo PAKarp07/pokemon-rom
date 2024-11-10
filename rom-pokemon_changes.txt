@@ -882,6 +882,7 @@ TM and HM:
 
 
 /- Surskit -/
+
 Movepool:
 
 	LVL 1 - Bubble
@@ -4175,7 +4176,7 @@ TM and HM:
 
 /- Castform -/
 
-Stats: 85 HP | 85 Atk | 85 DEF | 85 Sp. Atk | 85 Sp. Def | 85 Spe TOTAL: 510
+Stats: 75 HP | 55 Atk | 75 DEF | 95 Sp. Atk | 85 Sp. Def | 105 Spe TOTAL: 490
 Movepool:
 	
 	LVL 1 - Tackle
@@ -5427,7 +5428,7 @@ TM and HM:
 /- Luvdisc -/
 
 
-Stats: 55 HP | 30 Atk | 55 DEF | 100 Sp. Atk | 65 Sp. Def | 110 Spe TOTAL: 415
+Stats: 55 HP | 30 Atk | 55 DEF | 105 Sp. Atk | 65 Sp. Def | 115 Spe TOTAL: 425
 Movepool:
 	
 	LVL 1 - Tackle
