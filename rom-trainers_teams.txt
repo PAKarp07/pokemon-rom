@@ -150,31 +150,31 @@
 ----
 - Winona
 
-1. Skarmory (Lead) LVL 51 ivs 31 all evs: 200 0 100 0 0 100
+1. Skarmory (Lead) LVL 51 ivs 31 all evs: 100 0 50 0 0 50
         Item: Sitrus Berry
 		Ability: Keen Eye
 		Nature: Impish (+Def; -Sp. Atk)
 		Moveset: Spikes; Iron Head; Roost; Brave Bird
 
-2. Tropius LVL 52 ivs 31 all evs: 250 0 0 0 250 0
+2. Tropius LVL 52 ivs 31 all evs: 50 0 0 0 150 0
         Item: Miracle Seed
 		Ability: Chlorophyll
 		Nature: Modest (+Sp. Atk; -Atk)
 		Moveset: Leech Seed; Hurricane; Giga Drain; Sunny Day
 
-3. Ninjask LVL 52 ivs 31 all evs: 0 250 0 250 0 0
+3. Ninjask LVL 52 ivs 31 all evs: 0 150 0 50 0 0
         Item: Scope Lens
 		Ability: Speed Boost
 		Nature: Adamant (+Atk; -Sp. Atk)
 		Moveset: Swords Dance; X-Scissors; Slash; Night Slash
 
-4. Peliper LVL 53 (2º Ace) ivs 31 all evs: 200 0 100 0 0 100
+4. Peliper LVL 53 (2º Ace) ivs 31 all evs: 100 0 50 0 0 50
         Item: Leftovers
 		Ability: Keen Eye
 		Nature: Modest (+Sp. Atk; -Atk)
 		Moveset: Supersonic; Hurricane; Ice Beam; Surf
 
-5. Altaria LVL 55 (Ace) ivs 31 all evs: 250 250 0 0 0 0
+5. Altaria LVL 55 (Ace) ivs 31 all evs: 50 150 0 0 0 0
         Item: Sharp Beak
 		Ability: Nature Cure
 		Nature: Jolly (+Spe; -Sp. Atk)
@@ -184,41 +184,41 @@
 ----
 - Tate & Liza (DB)
 
-1. Claydol (Lead) LVL 42 ivs 25 all
-        	Item: N/A
+1. Claydol (Lead) LVL 58 ivs 31 all evs: 0 200 0 0 0 0
+        Item: Silk Scarf
 		Ability: Levitate
-		Nature: Bashful (+Sp. Atk; -Sp. Atk)
-		Moveset: Cosmic Power; Explosion; Toxic; Earthquake
+		Nature: Adamant (+Atk; -Sp. Atk)
+		Moveset: Zen Headbutt; Earthquake; Rock Slide; Explosion
 
-2. Xatu (Lead) LVL 42 ivs 25 all
-        	Item: N/A
-		Ability: Synchronize
-		Nature: Timid (+Spe; -Atk)
-		Moveset: Calm Mind; Psychic; Shadow Ball; Fly
+2. Medicham (Lead) LVL 58 ivs 31 all evs: 100 0 0 100 0 0
+        Item: Quick Claw
+		Ability: Pure Power
+		Nature: Jolly (+Spe; -Sp. Atk)
+		Moveset: Skill Swap; Recover; Zen Headbutt; Drain Punch
 
-3. Wobbuffet LVL 42 ivs 25 all
-        	Item: N/A
+3. Wobbuffet LVL 59 ivs 31 all evs: 200 0 0 0 0 0
+        Item: Leftovers
 		Ability: Shadow Tag
 		Nature: Bashful (+Sp. Atk; -Sp. Atk)
 		Moveset: Counter; Destiny Bond; Mirror Coat; Encore
 
-4. Girafarig LVL 42 ivs 25 all
-        	Item: N/A
+4. Girafarig LVL 59 ivs 31 all evs: 0 0 0 100 100 0
+        Item: Twisted Spoon
 		Ability: Inner Focus
-		Nature: Timid (+Spe; -Atk)
-		Moveset: Calm Mind; Psychic; Shadow Ball; Thunderbolt
+		Nature: Modest (+Sp. Atk; -Atk)
+		Moveset: Calm Mind; Psychic; Shadow Ball; Hyper Voice
 
-5. Lunatone (2º Ace) LVL 46 ivs 31 all
-        	Item: Sitrus Berry
+5. Lunatone (2º Ace) LVL 62 ivs 31 all  evs: 50 0 0 0 100 100
+        Item: Sitrus Berry
 		Ability: Levitate
 		Nature: Modest (+Sp. Atk; -Atk)
-		Moveset: Calm Mind; Psychic; Ice Beam; Light Screen
+		Moveset: Light Screen; Psychic; Moonlight; Blizzard
 
-6. Solrock (Ace) LVL 46 ivs 31 all
-        	Item: Sitrus Berry
+6. Solrock (Ace) LVL 62 ivs 31 all  evs: 50 0 100 0 100 0
+        Item: Sitrus Berry
 		Ability: Levitate
 		Nature: Modest (+Sp. Atk; -Atk)
-		Moveset: Flamethrower; Reflect; Sunny Day; Psychic (ver ataques de fogo e psiquico fisicos)
+		Moveset: Reflect; Psychic; Synthesis; Fire Blast
 
 
 ----

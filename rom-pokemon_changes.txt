@@ -3872,7 +3872,7 @@ Movepool:
 	LVL 29 - Ancient Power (updated)
 	LVL 32 - Self-Destruct
 	LVL 35 - Cosmic Power
-	LVL 38 - Shadow Ball
+	LVL 38 - Zen Headbutt
 	LVL 43 - Extrasensory
 	LVL 45 - Earth Power (gen 4)
 	LVL 47 - Future Sight
@@ -3902,7 +3902,7 @@ Movepool:
 	LVL 29 - Ancient Power (updated)
 	LVL 32 - Self-Destruct
 	LVL 35 - Cosmic Power
-	LVL 38 - Shadow Ball
+	LVL 38 - Zen Headbutt
 	LVL 43 - Extrasensory
 	LVL 45 - Earth Power (gen 4)
 	LVL 47 - Future Sight
@@ -4741,7 +4741,7 @@ TM and HM:
 
 /- Wobbuffet -/
 
-Stats: 250 HP | 33 Atk | 60 DEF | 33 Sp. Atk | 60 Sp. Def | 33 Spe TOTAL: 469
+Stats: 210 HP | 33 Atk | 60 DEF | 33 Sp. Atk | 60 Sp. Def | 33 Spe TOTAL: 429
 
 Movepool:	
 
